@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mdg-elections-compare/static/css/main.2ba07a5f.css",
+    "main.js": "/mdg-elections-compare/static/js/main.95fe76f6.js",
+    "index.html": "/mdg-elections-compare/index.html",
+    "main.2ba07a5f.css.map": "/mdg-elections-compare/static/css/main.2ba07a5f.css.map",
+    "main.95fe76f6.js.map": "/mdg-elections-compare/static/js/main.95fe76f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba07a5f.css",
+    "static/js/main.95fe76f6.js"
+  ]
+}
