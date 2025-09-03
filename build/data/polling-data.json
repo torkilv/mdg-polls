@@ -76,6 +76,14 @@
           "scope": "national"
         },
         {
+          "date": "2011-11-04",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 4. november 2011",
+          "daysUntilElection": 675,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1629",
+          "scope": "national"
+        },
+        {
           "date": "2011-11-07",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 7. november 2011",
@@ -140,6 +148,14 @@
           "scope": "national"
         },
         {
+          "date": "2011-12-02",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 2. desember 2011",
+          "daysUntilElection": 647,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1633",
+          "scope": "national"
+        },
+        {
           "date": "2011-12-05",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Verian for TV2 5. desember 2011",
@@ -188,14 +204,6 @@
           "scope": "national"
         },
         {
-          "date": "2011-12-20",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 20. desember 2011",
-          "daysUntilElection": 629,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1641",
-          "scope": "national"
-        },
-        {
           "date": "2011-12-23",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 23. desember 2011",
@@ -217,6 +225,14 @@
           "pollster": "pollofpolls.no - Norstat for Vårt Land 23. desember 2011",
           "daysUntilElection": 626,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1644",
+          "scope": "national"
+        },
+        {
+          "date": "2011-12-30",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. desember 2011",
+          "daysUntilElection": 619,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1646",
           "scope": "national"
         },
         {
@@ -292,6 +308,14 @@
           "scope": "national"
         },
         {
+          "date": "2012-02-03",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 3. februar 2012",
+          "daysUntilElection": 584,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1659",
+          "scope": "national"
+        },
+        {
           "date": "2012-02-07",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Verian for TV2 7. februar 2012",
@@ -340,14 +364,6 @@
           "scope": "national"
         },
         {
-          "date": "2012-02-23",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Marsteinen 23. februar 2012",
-          "daysUntilElection": 564,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1671",
-          "scope": "national"
-        },
-        {
           "date": "2012-02-24",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 24. februar 2012",
@@ -361,6 +377,14 @@
           "pollster": "pollofpolls.no - InFact for VG 28. februar 2012",
           "daysUntilElection": 559,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1673",
+          "scope": "national"
+        },
+        {
+          "date": "2012-03-01",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 1. mars 2012",
+          "daysUntilElection": 557,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1674",
           "scope": "national"
         },
         {
@@ -396,35 +420,11 @@
           "scope": "national"
         },
         {
-          "date": "2012-03-09",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - InFact for NRK 9. mars 2012",
-          "daysUntilElection": 549,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1682",
-          "scope": "national"
-        },
-        {
           "date": "2012-03-10",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 10. mars 2012",
           "daysUntilElection": 548,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1680",
-          "scope": "national"
-        },
-        {
-          "date": "2012-03-10",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Sentio for Laagensdalsposten 10. mars 2012",
-          "daysUntilElection": 548,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1681",
-          "scope": "national"
-        },
-        {
-          "date": "2012-03-14",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - InFact for Fremskrittspartiet 14. mars 2012",
-          "daysUntilElection": 544,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1684",
           "scope": "national"
         },
         {
@@ -437,7 +437,7 @@
         },
         {
           "date": "2012-03-20",
-          "mdgPercentage": 3.7,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 20. mars 2012",
           "daysUntilElection": 538,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1686",
@@ -460,11 +460,11 @@
           "scope": "national"
         },
         {
-          "date": "2012-03-28",
+          "date": "2012-03-30",
           "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 28. mars 2012",
-          "daysUntilElection": 530,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1690",
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. mars 2012",
+          "daysUntilElection": 528,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1691",
           "scope": "national"
         },
         {
@@ -481,14 +481,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 3. april 2012",
           "daysUntilElection": 524,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1696",
-          "scope": "national"
-        },
-        {
-          "date": "2012-04-04",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for OPP 4. april 2012",
-          "daysUntilElection": 523,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1698",
           "scope": "national"
         },
         {
@@ -525,6 +517,14 @@
         },
         {
           "date": "2012-04-20",
+          "mdgPercentage": 1.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 20. april 2012",
+          "daysUntilElection": 507,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1702",
+          "scope": "national"
+        },
+        {
+          "date": "2012-04-20",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 20. april 2012",
           "daysUntilElection": 507,
@@ -545,6 +545,14 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 28. april 2012",
           "daysUntilElection": 499,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1706",
+          "scope": "national"
+        },
+        {
+          "date": "2012-04-30",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. april 2012",
+          "daysUntilElection": 497,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1708",
           "scope": "national"
         },
         {
@@ -620,6 +628,14 @@
           "scope": "national"
         },
         {
+          "date": "2012-05-30",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. mai 2012",
+          "daysUntilElection": 467,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1718",
+          "scope": "national"
+        },
+        {
           "date": "2012-06-04",
           "mdgPercentage": 0.8,
           "pollster": "pollofpolls.no - Verian for TV2 4. juni 2012",
@@ -641,6 +657,14 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 11. juni 2012",
           "daysUntilElection": 455,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1726",
+          "scope": "national"
+        },
+        {
+          "date": "2012-06-15",
+          "mdgPercentage": 0,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 15. juni 2012",
+          "daysUntilElection": 451,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1728",
           "scope": "national"
         },
         {
@@ -684,11 +708,11 @@
           "scope": "national"
         },
         {
-          "date": "2012-06-26",
+          "date": "2012-06-28",
           "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 26. juni 2012",
-          "daysUntilElection": 440,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1738",
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 28. juni 2012",
+          "daysUntilElection": 438,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1739",
           "scope": "national"
         },
         {
@@ -729,6 +753,14 @@
           "pollster": "pollofpolls.no - Norstat for Vårt Land 27. juli 2012",
           "daysUntilElection": 409,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1745",
+          "scope": "national"
+        },
+        {
+          "date": "2012-08-03",
+          "mdgPercentage": 0.3,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 3. august 2012",
+          "daysUntilElection": 402,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1746",
           "scope": "national"
         },
         {
@@ -805,18 +837,10 @@
         },
         {
           "date": "2012-08-30",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norstat for Vikebladet Vestposten 30. august 2012",
+          "mdgPercentage": 0.9,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. august 2012",
           "daysUntilElection": 375,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1760",
-          "scope": "national"
-        },
-        {
-          "date": "2012-08-30",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norstat for Vikebladet Vestposten 30. august 2012",
-          "daysUntilElection": 375,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1761",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1759",
           "scope": "national"
         },
         {
@@ -860,6 +884,14 @@
           "scope": "national"
         },
         {
+          "date": "2012-09-14",
+          "mdgPercentage": 1.1,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 14. september 2012",
+          "daysUntilElection": 360,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1781",
+          "scope": "national"
+        },
+        {
           "date": "2012-09-20",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 20. september 2012",
@@ -868,19 +900,19 @@
           "scope": "national"
         },
         {
-          "date": "2012-09-20",
-          "mdgPercentage": 1.7,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 20. september 2012",
-          "daysUntilElection": 354,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1783",
-          "scope": "national"
-        },
-        {
           "date": "2012-09-27",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 27. september 2012",
           "daysUntilElection": 347,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1785",
+          "scope": "national"
+        },
+        {
+          "date": "2012-09-28",
+          "mdgPercentage": 1.7,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 28. september 2012",
+          "daysUntilElection": 346,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1786",
           "scope": "national"
         },
         {
@@ -905,14 +937,6 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 8. oktober 2012",
           "daysUntilElection": 336,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1792",
-          "scope": "national"
-        },
-        {
-          "date": "2012-10-09",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Ryfylke 9. oktober 2012",
-          "daysUntilElection": 335,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1794",
           "scope": "national"
         },
         {
@@ -973,10 +997,10 @@
         },
         {
           "date": "2012-11-01",
-          "mdgPercentage": 1.5,
-          "pollster": "pollofpolls.no - Norfakta for Bø Blad 1. november 2012",
+          "mdgPercentage": 0.6,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 1. november 2012",
           "daysUntilElection": 312,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1814",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1806",
           "scope": "national"
         },
         {
@@ -997,7 +1021,7 @@
         },
         {
           "date": "2012-11-12",
-          "mdgPercentage": 3,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 12. november 2012",
           "daysUntilElection": 301,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1809",
@@ -1020,6 +1044,14 @@
           "scope": "national"
         },
         {
+          "date": "2012-11-17",
+          "mdgPercentage": 1.2,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 17. november 2012",
+          "daysUntilElection": 296,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1812",
+          "scope": "national"
+        },
+        {
           "date": "2012-11-18",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - InFact for VG 18. november 2012",
@@ -1036,19 +1068,19 @@
           "scope": "national"
         },
         {
-          "date": "2012-11-23",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Varden 23. november 2012",
-          "daysUntilElection": 290,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1816",
-          "scope": "national"
-        },
-        {
           "date": "2012-11-24",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 24. november 2012",
           "daysUntilElection": 289,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1817",
+          "scope": "national"
+        },
+        {
+          "date": "2012-11-30",
+          "mdgPercentage": 0.6,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 30. november 2012",
+          "daysUntilElection": 283,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1818",
           "scope": "national"
         },
         {
@@ -1061,26 +1093,10 @@
         },
         {
           "date": "2012-12-05",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Kvinnheringen 5. desember 2012",
-          "daysUntilElection": 278,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1820",
-          "scope": "national"
-        },
-        {
-          "date": "2012-12-05",
           "mdgPercentage": 1.9,
           "pollster": "pollofpolls.no - InFact for VG 5. desember 2012",
           "daysUntilElection": 278,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1822",
-          "scope": "national"
-        },
-        {
-          "date": "2012-12-05",
-          "mdgPercentage": 0.8,
-          "pollster": "pollofpolls.no - InFact for NRK 5. desember 2012",
-          "daysUntilElection": 278,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1823",
           "scope": "national"
         },
         {
@@ -1116,19 +1132,19 @@
           "scope": "national"
         },
         {
+          "date": "2012-12-15",
+          "mdgPercentage": 0.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 15. desember 2012",
+          "daysUntilElection": 268,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1830",
+          "scope": "national"
+        },
+        {
           "date": "2012-12-20",
           "mdgPercentage": 0,
           "pollster": "pollofpolls.no - InFact for VG 20. desember 2012",
           "daysUntilElection": 263,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1831",
-          "scope": "national"
-        },
-        {
-          "date": "2012-12-20",
-          "mdgPercentage": 1.7,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 20. desember 2012",
-          "daysUntilElection": 263,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1832",
           "scope": "national"
         },
         {
@@ -1145,6 +1161,14 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 22. desember 2012",
           "daysUntilElection": 261,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1834",
+          "scope": "national"
+        },
+        {
+          "date": "2013-01-02",
+          "mdgPercentage": 0.5,
+          "pollster": "pollofpolls.no - Sentio for Sunnmørsposten 2. januar 2013",
+          "daysUntilElection": 250,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1836",
           "scope": "national"
         },
         {
@@ -1180,19 +1204,19 @@
           "scope": "national"
         },
         {
-          "date": "2013-01-17",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Marsteinen 17. januar 2013",
-          "daysUntilElection": 235,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1846",
-          "scope": "national"
-        },
-        {
           "date": "2013-01-18",
-          "mdgPercentage": 3.9,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - InFact for VG 18. januar 2013",
           "daysUntilElection": 234,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1842",
+          "scope": "national"
+        },
+        {
+          "date": "2013-01-21",
+          "mdgPercentage": 1.8,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 21. januar 2013",
+          "daysUntilElection": 231,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1844",
           "scope": "national"
         },
         {
@@ -1221,7 +1245,7 @@
         },
         {
           "date": "2013-02-04",
-          "mdgPercentage": 3.5,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Verian for TV2 4. februar 2013",
           "daysUntilElection": 217,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1854",
@@ -1252,6 +1276,14 @@
           "scope": "national"
         },
         {
+          "date": "2013-02-16",
+          "mdgPercentage": 1.8,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 16. februar 2013",
+          "daysUntilElection": 205,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1866",
+          "scope": "national"
+        },
+        {
           "date": "2013-02-20",
           "mdgPercentage": 1.6,
           "pollster": "pollofpolls.no - InFact for VG 20. februar 2013",
@@ -1261,7 +1293,7 @@
         },
         {
           "date": "2013-02-22",
-          "mdgPercentage": 3.8,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Sentio for Dagens Næringsliv 22. februar 2013",
           "daysUntilElection": 199,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1868",
@@ -1284,14 +1316,6 @@
           "scope": "national"
         },
         {
-          "date": "2013-03-01",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Øyposten 1. mars 2013",
-          "daysUntilElection": 192,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1871",
-          "scope": "national"
-        },
-        {
           "date": "2013-03-04",
           "mdgPercentage": 1.1,
           "pollster": "pollofpolls.no - Verian for TV2 4. mars 2013",
@@ -1309,7 +1333,7 @@
         },
         {
           "date": "2013-03-11",
-          "mdgPercentage": 3,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 11. mars 2013",
           "daysUntilElection": 182,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1877",
@@ -1329,6 +1353,14 @@
           "pollster": "pollofpolls.no - InFact for VG 15. mars 2013",
           "daysUntilElection": 178,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1880",
+          "scope": "national"
+        },
+        {
+          "date": "2013-03-15",
+          "mdgPercentage": 2.3,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Stavanger Aftenblad / Adresseavisen 15. mars 2013",
+          "daysUntilElection": 178,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1881",
           "scope": "national"
         },
         {
@@ -1356,14 +1388,6 @@
           "scope": "national"
         },
         {
-          "date": "2013-04-05",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 5. april 2013",
-          "daysUntilElection": 157,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1892",
-          "scope": "national"
-        },
-        {
           "date": "2013-04-06",
           "mdgPercentage": 0.6,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 6. april 2013",
@@ -1385,6 +1409,14 @@
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 11. april 2013",
           "daysUntilElection": 151,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1896",
+          "scope": "national"
+        },
+        {
+          "date": "2013-04-12",
+          "mdgPercentage": 1.3,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 12. april 2013",
+          "daysUntilElection": 150,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1897",
           "scope": "national"
         },
         {
@@ -1436,14 +1468,6 @@
           "scope": "national"
         },
         {
-          "date": "2013-05-06",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Sentio for NRK 6. mai 2013",
-          "daysUntilElection": 126,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1915",
-          "scope": "national"
-        },
-        {
           "date": "2013-05-09",
           "mdgPercentage": 1.9,
           "pollster": "pollofpolls.no - InFact for VG 9. mai 2013",
@@ -1473,6 +1497,14 @@
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 16. mai 2013",
           "daysUntilElection": 116,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1921",
+          "scope": "national"
+        },
+        {
+          "date": "2013-05-18",
+          "mdgPercentage": 1.1,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Stavanger Aftenblad / Adresseavisen 18. mai 2013",
+          "daysUntilElection": 114,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1922",
           "scope": "national"
         },
         {
@@ -1517,7 +1549,7 @@
         },
         {
           "date": "2013-06-08",
-          "mdgPercentage": 3,
+          "mdgPercentage": 1,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 8. juni 2013",
           "daysUntilElection": 93,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1935",
@@ -1540,35 +1572,11 @@
           "scope": "national"
         },
         {
-          "date": "2013-06-13",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - InFact for Miljøpartiet De Grønne 13. juni 2013",
-          "daysUntilElection": 88,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1938",
-          "scope": "national"
-        },
-        {
-          "date": "2013-06-19",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - Sentio for Klassekampen 19. juni 2013",
-          "daysUntilElection": 82,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1943",
-          "scope": "national"
-        },
-        {
-          "date": "2013-06-21",
-          "mdgPercentage": 4.1,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 21. juni 2013",
-          "daysUntilElection": 80,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1944",
-          "scope": "national"
-        },
-        {
-          "date": "2013-06-21",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for NTB 21. juni 2013",
-          "daysUntilElection": 80,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1945",
+          "date": "2013-06-15",
+          "mdgPercentage": 1.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 15. juni 2013",
+          "daysUntilElection": 86,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1940",
           "scope": "national"
         },
         {
@@ -1588,14 +1596,6 @@
           "scope": "national"
         },
         {
-          "date": "2013-06-24",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Norfakta for Varden 24. juni 2013",
-          "daysUntilElection": 77,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1951",
-          "scope": "national"
-        },
-        {
           "date": "2013-06-27",
           "mdgPercentage": 1.8,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 27. juni 2013",
@@ -1612,11 +1612,11 @@
           "scope": "national"
         },
         {
-          "date": "2013-07-02",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Sentio for NRK 2. juli 2013",
-          "daysUntilElection": 69,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1965",
+          "date": "2013-07-06",
+          "mdgPercentage": 3.6,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 6. juli 2013",
+          "daysUntilElection": 65,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1972",
           "scope": "national"
         },
         {
@@ -1693,18 +1693,18 @@
         },
         {
           "date": "2013-08-17",
+          "mdgPercentage": 5.1,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 17. august 2013",
+          "daysUntilElection": 23,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1998",
+          "scope": "national"
+        },
+        {
+          "date": "2013-08-17",
           "mdgPercentage": 2.9,
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 17. august 2013",
           "daysUntilElection": 23,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=1999",
-          "scope": "national"
-        },
-        {
-          "date": "2013-08-19",
-          "mdgPercentage": 3.4,
-          "pollster": "pollofpolls.no - InFact for NRK 19. august 2013",
-          "daysUntilElection": 21,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2003",
           "scope": "national"
         },
         {
@@ -1741,18 +1741,18 @@
         },
         {
           "date": "2013-08-22",
-          "mdgPercentage": 2.1,
-          "pollster": "pollofpolls.no - InFact for NRK / Helgelands Blad / Saltenposten 22. august 2013",
-          "daysUntilElection": 18,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2014",
-          "scope": "national"
-        },
-        {
-          "date": "2013-08-22",
           "mdgPercentage": 4.7,
           "pollster": "pollofpolls.no - InFact for VG 22. august 2013",
           "daysUntilElection": 18,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2015",
+          "scope": "national"
+        },
+        {
+          "date": "2013-08-23",
+          "mdgPercentage": 5.2,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 23. august 2013",
+          "daysUntilElection": 17,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2016",
           "scope": "national"
         },
         {
@@ -1785,14 +1785,6 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 24. august 2013",
           "daysUntilElection": 16,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2022",
-          "scope": "national"
-        },
-        {
-          "date": "2013-08-24",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - InFact for Varden 24. august 2013",
-          "daysUntilElection": 16,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2023",
           "scope": "national"
         },
         {
@@ -1852,14 +1844,6 @@
           "scope": "national"
         },
         {
-          "date": "2013-08-28",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - Sentio for Landsorganisasjonen i Norge 28. august 2013",
-          "daysUntilElection": 12,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2036",
-          "scope": "national"
-        },
-        {
           "date": "2013-08-29",
           "mdgPercentage": 4.1,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 29. august 2013",
@@ -1885,10 +1869,10 @@
         },
         {
           "date": "2013-08-30",
-          "mdgPercentage": 2.8,
-          "pollster": "pollofpolls.no - InFact for Høyre / KrF / Venstre / Frp 30. august 2013",
+          "mdgPercentage": 4.5,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 30. august 2013",
           "daysUntilElection": 10,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2045",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2042",
           "scope": "national"
         },
         {
@@ -1905,14 +1889,6 @@
           "pollster": "pollofpolls.no - Norstat for NRK 30. august 2013",
           "daysUntilElection": 10,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2047",
-          "scope": "national"
-        },
-        {
-          "date": "2013-08-31",
-          "mdgPercentage": 3.2,
-          "pollster": "pollofpolls.no - InFact for Varden 31. august 2013",
-          "daysUntilElection": 9,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2052",
           "scope": "national"
         },
         {
@@ -1965,26 +1941,10 @@
         },
         {
           "date": "2013-09-03",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - Sentio for NRK 3. september 2013",
-          "daysUntilElection": 6,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2063",
-          "scope": "national"
-        },
-        {
-          "date": "2013-09-03",
           "mdgPercentage": 3.8,
           "pollster": "pollofpolls.no - InFact for VG 3. september 2013",
           "daysUntilElection": 6,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2064",
-          "scope": "national"
-        },
-        {
-          "date": "2013-09-03",
-          "mdgPercentage": 1.9,
-          "pollster": "pollofpolls.no - InFact for NRK 3. september 2013",
-          "daysUntilElection": 6,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2065",
           "scope": "national"
         },
         {
@@ -2009,14 +1969,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 4. september 2013",
           "daysUntilElection": 5,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2068",
-          "scope": "national"
-        },
-        {
-          "date": "2013-09-05",
-          "mdgPercentage": 4.2,
-          "pollster": "pollofpolls.no - InFact for NRK / Helgelands Blad / Brønnøysunds Avis / Saltenposten 5. september 2013",
-          "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2074",
           "scope": "national"
         },
         {
@@ -2053,6 +2005,14 @@
         },
         {
           "date": "2013-09-06",
+          "mdgPercentage": 3.2,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 6. september 2013",
+          "daysUntilElection": 3,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2085",
+          "scope": "national"
+        },
+        {
+          "date": "2013-09-06",
           "mdgPercentage": 3.1,
           "pollster": "pollofpolls.no - InFact for VG 6. september 2013",
           "daysUntilElection": 3,
@@ -2076,35 +2036,11 @@
           "scope": "national"
         },
         {
-          "date": "2013-09-06",
-          "mdgPercentage": 0.4,
-          "pollster": "pollofpolls.no - Sentio for Høyre 6. september 2013",
-          "daysUntilElection": 3,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2109",
-          "scope": "national"
-        },
-        {
-          "date": "2013-09-06",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Sentio for Høyre 6. september 2013",
-          "daysUntilElection": 3,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2110",
-          "scope": "national"
-        },
-        {
           "date": "2013-09-07",
           "mdgPercentage": 1.7,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 7. september 2013",
           "daysUntilElection": 2,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2095",
-          "scope": "national"
-        },
-        {
-          "date": "2013-09-07",
-          "mdgPercentage": 4.3,
-          "pollster": "pollofpolls.no - InFact for Varden 7. september 2013",
-          "daysUntilElection": 2,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2096",
           "scope": "national"
         },
         {
@@ -2130,8 +2066,17 @@
           "daysUntilElection": 2,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2104",
           "scope": "national"
+        },
+        {
+          "date": "2013-09-08",
+          "mdgPercentage": 3.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 8. september 2013",
+          "daysUntilElection": 1,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2105",
+          "scope": "national"
         }
-      ]
+      ],
+      "actualResult": 2.8
     },
     "2017": {
       "electionDate": "2017-09-11",
@@ -2193,19 +2138,19 @@
           "scope": "national"
         },
         {
-          "date": "2015-11-10",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 10. november 2015",
-          "daysUntilElection": 671,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2907",
-          "scope": "national"
-        },
-        {
           "date": "2015-11-11",
           "mdgPercentage": 4.5,
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 11. november 2015",
           "daysUntilElection": 670,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2908",
+          "scope": "national"
+        },
+        {
+          "date": "2015-11-12",
+          "mdgPercentage": 4.1,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 12. november 2015",
+          "daysUntilElection": 669,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2909",
           "scope": "national"
         },
         {
@@ -2270,6 +2215,14 @@
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 9. desember 2015",
           "daysUntilElection": 642,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2918",
+          "scope": "national"
+        },
+        {
+          "date": "2015-12-10",
+          "mdgPercentage": 4.6,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 10. desember 2015",
+          "daysUntilElection": 641,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2919",
           "scope": "national"
         },
         {
@@ -2393,11 +2346,11 @@
           "scope": "national"
         },
         {
-          "date": "2016-02-12",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Sentio for Arbeiderpartiet 12. februar 2016",
-          "daysUntilElection": 577,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2937",
+          "date": "2016-02-11",
+          "mdgPercentage": 4,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 11. februar 2016",
+          "daysUntilElection": 578,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2936",
           "scope": "national"
         },
         {
@@ -2537,6 +2490,14 @@
           "scope": "national"
         },
         {
+          "date": "2016-04-15",
+          "mdgPercentage": 3.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 15. april 2016",
+          "daysUntilElection": 514,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2961",
+          "scope": "national"
+        },
+        {
           "date": "2016-04-20",
           "mdgPercentage": 2.4,
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 20. april 2016",
@@ -2657,6 +2618,14 @@
           "scope": "national"
         },
         {
+          "date": "2016-06-10",
+          "mdgPercentage": 2.8,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 10. juni 2016",
+          "daysUntilElection": 458,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2978",
+          "scope": "national"
+        },
+        {
           "date": "2016-06-11",
           "mdgPercentage": 3.2,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 11. juni 2016",
@@ -2670,14 +2639,6 @@
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 15. juni 2016",
           "daysUntilElection": 453,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2981",
-          "scope": "national"
-        },
-        {
-          "date": "2016-06-21",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 21. juni 2016",
-          "daysUntilElection": 447,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2983",
           "scope": "national"
         },
         {
@@ -2710,14 +2671,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 4. juli 2016",
           "daysUntilElection": 434,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2988",
-          "scope": "national"
-        },
-        {
-          "date": "2016-07-08",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for NRK 8. juli 2016",
-          "daysUntilElection": 430,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2990",
           "scope": "national"
         },
         {
@@ -2758,6 +2711,14 @@
           "pollster": "pollofpolls.no - Norstat for NRK 17. august 2016",
           "daysUntilElection": 390,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2996",
+          "scope": "national"
+        },
+        {
+          "date": "2016-08-18",
+          "mdgPercentage": 2.6,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 18. august 2016",
+          "daysUntilElection": 389,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=2997",
           "scope": "national"
         },
         {
@@ -2825,11 +2786,11 @@
           "scope": "national"
         },
         {
-          "date": "2016-09-15",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - InFact for Østlands-Posten 15. september 2016",
-          "daysUntilElection": 361,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3014",
+          "date": "2016-09-17",
+          "mdgPercentage": 3.8,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 17. september 2016",
+          "daysUntilElection": 359,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3015",
           "scope": "national"
         },
         {
@@ -2846,14 +2807,6 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 26. september 2016",
           "daysUntilElection": 350,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3017",
-          "scope": "national"
-        },
-        {
-          "date": "2016-09-26",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 26. september 2016",
-          "daysUntilElection": 350,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3018",
           "scope": "national"
         },
         {
@@ -2881,27 +2834,11 @@
           "scope": "national"
         },
         {
-          "date": "2016-10-06",
-          "mdgPercentage": 1.6,
-          "pollster": "pollofpolls.no - Sentio for NRK 6. oktober 2016",
-          "daysUntilElection": 340,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3027",
-          "scope": "national"
-        },
-        {
           "date": "2016-10-10",
           "mdgPercentage": 2.9,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 10. oktober 2016",
           "daysUntilElection": 336,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3029",
-          "scope": "national"
-        },
-        {
-          "date": "2016-10-10",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Norfakta for Marsteinen 10. oktober 2016",
-          "daysUntilElection": 336,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3030",
           "scope": "national"
         },
         {
@@ -2918,6 +2855,14 @@
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 12. oktober 2016",
           "daysUntilElection": 334,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3032",
+          "scope": "national"
+        },
+        {
+          "date": "2016-10-13",
+          "mdgPercentage": 3.3,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 13. oktober 2016",
+          "daysUntilElection": 333,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3033",
           "scope": "national"
         },
         {
@@ -3017,22 +2962,6 @@
           "scope": "national"
         },
         {
-          "date": "2016-11-30",
-          "mdgPercentage": 2.2,
-          "pollster": "pollofpolls.no - Sentio for Arbeiderpartiet 30. november 2016",
-          "daysUntilElection": 285,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3050",
-          "scope": "national"
-        },
-        {
-          "date": "2016-11-30",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - Sentio for Arbeiderpartiet 30. november 2016",
-          "daysUntilElection": 285,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3051",
-          "scope": "national"
-        },
-        {
           "date": "2016-12-01",
           "mdgPercentage": 1.7,
           "pollster": "pollofpolls.no - Norstat for NRK 1. desember 2016",
@@ -3058,34 +2987,18 @@
         },
         {
           "date": "2016-12-07",
-          "mdgPercentage": 2.3,
-          "pollster": "pollofpolls.no - InFact for NRK 7. desember 2016",
-          "daysUntilElection": 278,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3055",
-          "scope": "national"
-        },
-        {
-          "date": "2016-12-07",
-          "mdgPercentage": 3.2,
-          "pollster": "pollofpolls.no - InFact for NRK 7. desember 2016",
-          "daysUntilElection": 278,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3056",
-          "scope": "national"
-        },
-        {
-          "date": "2016-12-07",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for NRK 7. desember 2016",
-          "daysUntilElection": 278,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3057",
-          "scope": "national"
-        },
-        {
-          "date": "2016-12-07",
           "mdgPercentage": 2.4,
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 7. desember 2016",
           "daysUntilElection": 278,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3058",
+          "scope": "national"
+        },
+        {
+          "date": "2016-12-08",
+          "mdgPercentage": 2.4,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 8. desember 2016",
+          "daysUntilElection": 277,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3059",
           "scope": "national"
         },
         {
@@ -3113,14 +3026,6 @@
           "scope": "national"
         },
         {
-          "date": "2016-12-19",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 19. desember 2016",
-          "daysUntilElection": 266,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3063",
-          "scope": "national"
-        },
-        {
           "date": "2016-12-22",
           "mdgPercentage": 2.9,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 22. desember 2016",
@@ -3142,14 +3047,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 10. januar 2017",
           "daysUntilElection": 244,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3068",
-          "scope": "national"
-        },
-        {
-          "date": "2017-01-10",
-          "mdgPercentage": 2.2,
-          "pollster": "pollofpolls.no - InFact for Arbeiderpartiet 10. januar 2017",
-          "daysUntilElection": 244,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3069",
           "scope": "national"
         },
         {
@@ -3230,6 +3127,14 @@
           "pollster": "pollofpolls.no - Verian for TV2 8. februar 2017",
           "daysUntilElection": 215,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3082",
+          "scope": "national"
+        },
+        {
+          "date": "2017-02-10",
+          "mdgPercentage": 2.3,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 10. februar 2017",
+          "daysUntilElection": 213,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3084",
           "scope": "national"
         },
         {
@@ -3321,27 +3226,11 @@
           "scope": "national"
         },
         {
-          "date": "2017-03-20",
-          "mdgPercentage": 2.1,
-          "pollster": "pollofpolls.no - Sentio for Høyre 20. mars 2017",
-          "daysUntilElection": 175,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3104",
-          "scope": "national"
-        },
-        {
           "date": "2017-03-21",
           "mdgPercentage": 2.7,
           "pollster": "pollofpolls.no - InFact for Senterpartiet 21. mars 2017",
           "daysUntilElection": 174,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3106",
-          "scope": "national"
-        },
-        {
-          "date": "2017-03-23",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 23. mars 2017",
-          "daysUntilElection": 172,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3109",
           "scope": "national"
         },
         {
@@ -3382,6 +3271,14 @@
           "pollster": "pollofpolls.no - Verian for TV2 6. april 2017",
           "daysUntilElection": 158,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3117",
+          "scope": "national"
+        },
+        {
+          "date": "2017-04-06",
+          "mdgPercentage": 2.6,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 6. april 2017",
+          "daysUntilElection": 158,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3118",
           "scope": "national"
         },
         {
@@ -3481,14 +3378,6 @@
           "scope": "national"
         },
         {
-          "date": "2017-05-23",
-          "mdgPercentage": 2.7,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 23. mai 2017",
-          "daysUntilElection": 111,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3143",
-          "scope": "national"
-        },
-        {
           "date": "2017-05-26",
           "mdgPercentage": 3.1,
           "pollster": "pollofpolls.no - Sentio for Dagens Næringsliv 26. mai 2017",
@@ -3502,14 +3391,6 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 26. mai 2017",
           "daysUntilElection": 108,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3147",
-          "scope": "national"
-        },
-        {
-          "date": "2017-05-31",
-          "mdgPercentage": 1.6,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 31. mai 2017",
-          "daysUntilElection": 103,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3150",
           "scope": "national"
         },
         {
@@ -3545,30 +3426,6 @@
           "scope": "national"
         },
         {
-          "date": "2017-06-10",
-          "mdgPercentage": 2.3,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 10. juni 2017",
-          "daysUntilElection": 93,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3157",
-          "scope": "national"
-        },
-        {
-          "date": "2017-06-10",
-          "mdgPercentage": 2.1,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 10. juni 2017",
-          "daysUntilElection": 93,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3158",
-          "scope": "national"
-        },
-        {
-          "date": "2017-06-10",
-          "mdgPercentage": 1.9,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 10. juni 2017",
-          "daysUntilElection": 93,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3159",
-          "scope": "national"
-        },
-        {
           "date": "2017-06-12",
           "mdgPercentage": 3.2,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 12. juni 2017",
@@ -3585,19 +3442,19 @@
           "scope": "national"
         },
         {
+          "date": "2017-06-16",
+          "mdgPercentage": 3.1,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten og Bergens Tidende 16. juni 2017",
+          "daysUntilElection": 87,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3163",
+          "scope": "national"
+        },
+        {
           "date": "2017-06-20",
           "mdgPercentage": 2.1,
           "pollster": "pollofpolls.no - Verian for TV2 20. juni 2017",
           "daysUntilElection": 83,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3165",
-          "scope": "national"
-        },
-        {
-          "date": "2017-06-20",
-          "mdgPercentage": 1.8,
-          "pollster": "pollofpolls.no - Sentio for Arbeiderpartiet 20. juni 2017",
-          "daysUntilElection": 83,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3167",
           "scope": "national"
         },
         {
@@ -3610,26 +3467,10 @@
         },
         {
           "date": "2017-06-23",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 23. juni 2017",
-          "daysUntilElection": 80,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3177",
-          "scope": "national"
-        },
-        {
-          "date": "2017-06-23",
           "mdgPercentage": 3.2,
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 23. juni 2017",
           "daysUntilElection": 80,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3178",
-          "scope": "national"
-        },
-        {
-          "date": "2017-06-27",
-          "mdgPercentage": 2.5,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 27. juni 2017",
-          "daysUntilElection": 76,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3181",
           "scope": "national"
         },
         {
@@ -3657,30 +3498,6 @@
           "scope": "national"
         },
         {
-          "date": "2017-07-12",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - InFact for NRK 12. juli 2017",
-          "daysUntilElection": 61,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3193",
-          "scope": "national"
-        },
-        {
-          "date": "2017-07-19",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - InFact for NRK 19. juli 2017",
-          "daysUntilElection": 54,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3194",
-          "scope": "national"
-        },
-        {
-          "date": "2017-07-19",
-          "mdgPercentage": 3.4,
-          "pollster": "pollofpolls.no - InFact for NRK 19. juli 2017",
-          "daysUntilElection": 54,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3195",
-          "scope": "national"
-        },
-        {
           "date": "2017-08-04",
           "mdgPercentage": 3.6,
           "pollster": "pollofpolls.no - InFact for VG 4. august 2017",
@@ -3697,14 +3514,6 @@
           "scope": "national"
         },
         {
-          "date": "2017-08-07",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 7. august 2017",
-          "daysUntilElection": 35,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3200",
-          "scope": "national"
-        },
-        {
           "date": "2017-08-10",
           "mdgPercentage": 4.3,
           "pollster": "pollofpolls.no - Opinion for Avisenes Nyhetsbyrå 10. august 2017",
@@ -3713,19 +3522,11 @@
           "scope": "national"
         },
         {
-          "date": "2017-08-10",
-          "mdgPercentage": 3.1,
-          "pollster": "pollofpolls.no - InFact for VG 10. august 2017",
-          "daysUntilElection": 32,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3204",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-15",
-          "mdgPercentage": 3.6,
-          "pollster": "pollofpolls.no - InFact for VG 15. august 2017",
-          "daysUntilElection": 27,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3209",
+          "date": "2017-08-11",
+          "mdgPercentage": 3.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 11. august 2017",
+          "daysUntilElection": 31,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3205",
           "scope": "national"
         },
         {
@@ -3745,59 +3546,11 @@
           "scope": "national"
         },
         {
-          "date": "2017-08-16",
-          "mdgPercentage": 2.3,
-          "pollster": "pollofpolls.no - InFact for VG 16. august 2017",
-          "daysUntilElection": 26,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3213",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-16",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - InFact for VG 16. august 2017",
-          "daysUntilElection": 26,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3214",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-16",
-          "mdgPercentage": 2.7,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 16. august 2017",
-          "daysUntilElection": 26,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3216",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-16",
-          "mdgPercentage": 4.6,
-          "pollster": "pollofpolls.no - InFact for VG 16. august 2017",
-          "daysUntilElection": 26,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3217",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-18",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 18. august 2017",
-          "daysUntilElection": 24,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3219",
-          "scope": "national"
-        },
-        {
           "date": "2017-08-19",
           "mdgPercentage": 3.9,
           "pollster": "pollofpolls.no - InFact for VG 19. august 2017",
           "daysUntilElection": 23,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3221",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-20",
-          "mdgPercentage": 3.6,
-          "pollster": "pollofpolls.no - InFact for VG 20. august 2017",
-          "daysUntilElection": 22,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3222",
           "scope": "national"
         },
         {
@@ -3810,34 +3563,10 @@
         },
         {
           "date": "2017-08-22",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - InFact for VG 22. august 2017",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3227",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-22",
           "mdgPercentage": 6.1,
           "pollster": "pollofpolls.no - Sentio for Dagens Næringsliv 22. august 2017",
           "daysUntilElection": 20,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3228",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-22",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for VG 22. august 2017",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3229",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-22",
-          "mdgPercentage": 2.8,
-          "pollster": "pollofpolls.no - InFact for VG 22. august 2017",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3230",
           "scope": "national"
         },
         {
@@ -3846,6 +3575,14 @@
           "pollster": "pollofpolls.no - Norstat for NRK 23. august 2017",
           "daysUntilElection": 19,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3231",
+          "scope": "national"
+        },
+        {
+          "date": "2017-08-24",
+          "mdgPercentage": 3.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 24. august 2017",
+          "daysUntilElection": 18,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3233",
           "scope": "national"
         },
         {
@@ -3873,14 +3610,6 @@
           "scope": "national"
         },
         {
-          "date": "2017-08-26",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - InFact for VG 26. august 2017",
-          "daysUntilElection": 16,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3241",
-          "scope": "national"
-        },
-        {
           "date": "2017-08-27",
           "mdgPercentage": 4.6,
           "pollster": "pollofpolls.no - Verian for TV2 27. august 2017",
@@ -3894,30 +3623,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 28. august 2017",
           "daysUntilElection": 14,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3244",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-29",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - InFact for VG 29. august 2017",
-          "daysUntilElection": 13,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3245",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-29",
-          "mdgPercentage": 2.8,
-          "pollster": "pollofpolls.no - InFact for NRK 29. august 2017",
-          "daysUntilElection": 13,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3246",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-29",
-          "mdgPercentage": 4.3,
-          "pollster": "pollofpolls.no - InFact for VG 29. august 2017",
-          "daysUntilElection": 13,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3248",
           "scope": "national"
         },
         {
@@ -3946,14 +3651,6 @@
         },
         {
           "date": "2017-08-31",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - InFact for VG 31. august 2017",
-          "daysUntilElection": 11,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3253",
-          "scope": "national"
-        },
-        {
-          "date": "2017-08-31",
           "mdgPercentage": 5.2,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 31. august 2017",
           "daysUntilElection": 11,
@@ -3962,10 +3659,10 @@
         },
         {
           "date": "2017-08-31",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Sentio for NRK 31. august 2017",
+          "mdgPercentage": 4.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 31. august 2017",
           "daysUntilElection": 11,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3255",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3256",
           "scope": "national"
         },
         {
@@ -3985,75 +3682,11 @@
           "scope": "national"
         },
         {
-          "date": "2017-09-01",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 1. september 2017",
-          "daysUntilElection": 10,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3260",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-01",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 1. september 2017",
-          "daysUntilElection": 10,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3261",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-01",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - InFact for VG 1. september 2017",
-          "daysUntilElection": 10,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3263",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-02",
-          "mdgPercentage": 4.5,
-          "pollster": "pollofpolls.no - InFact for VG 2. september 2017",
-          "daysUntilElection": 9,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3264",
-          "scope": "national"
-        },
-        {
           "date": "2017-09-03",
           "mdgPercentage": 3.5,
           "pollster": "pollofpolls.no - Verian for TV2 3. september 2017",
           "daysUntilElection": 8,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3266",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-04",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for VG 4. september 2017",
-          "daysUntilElection": 7,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3267",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-04",
-          "mdgPercentage": 2.5,
-          "pollster": "pollofpolls.no - InFact for NRK 4. september 2017",
-          "daysUntilElection": 7,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3268",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-04",
-          "mdgPercentage": 3.9,
-          "pollster": "pollofpolls.no - InFact for NRK 4. september 2017",
-          "daysUntilElection": 7,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3269",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-04",
-          "mdgPercentage": 2.5,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 4. september 2017",
-          "daysUntilElection": 7,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3270",
           "scope": "national"
         },
         {
@@ -4066,26 +3699,10 @@
         },
         {
           "date": "2017-09-05",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 5. september 2017",
-          "daysUntilElection": 6,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3274",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-05",
           "mdgPercentage": 3.9,
           "pollster": "pollofpolls.no - InFact for VG 5. september 2017",
           "daysUntilElection": 6,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3275",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-05",
-          "mdgPercentage": 3.6,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 5. september 2017",
-          "daysUntilElection": 6,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3276",
           "scope": "national"
         },
         {
@@ -4106,14 +3723,6 @@
         },
         {
           "date": "2017-09-06",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten 6. september 2017",
-          "daysUntilElection": 5,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3285",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-06",
           "mdgPercentage": 3.7,
           "pollster": "pollofpolls.no - Verian for TV2 6. september 2017",
           "daysUntilElection": 5,
@@ -4122,18 +3731,10 @@
         },
         {
           "date": "2017-09-07",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - InFact for VG 7. september 2017",
+          "mdgPercentage": 2.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Aftenposten / Bergens Tidende / Adresseavisen 7. september 2017",
           "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3289",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-07",
-          "mdgPercentage": 2.1,
-          "pollster": "pollofpolls.no - Sentio for NRK 7. september 2017",
-          "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3290",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3291",
           "scope": "national"
         },
         {
@@ -4146,34 +3747,10 @@
         },
         {
           "date": "2017-09-07",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - InFact for NRK 7. september 2017",
-          "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3295",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-07",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 7. september 2017",
-          "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3300",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-07",
           "mdgPercentage": 3.7,
           "pollster": "pollofpolls.no - Verian for TV2 7. september 2017",
           "daysUntilElection": 4,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3301",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-07",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Sentio for NRK 7. september 2017",
-          "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3302",
           "scope": "national"
         },
         {
@@ -4218,21 +3795,14 @@
         },
         {
           "date": "2017-09-09",
-          "mdgPercentage": 2.9,
-          "pollster": "pollofpolls.no - Sentio for Varden 9. september 2017",
-          "daysUntilElection": 2,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3310",
-          "scope": "national"
-        },
-        {
-          "date": "2017-09-09",
           "mdgPercentage": 3.9,
           "pollster": "pollofpolls.no - Verian for TV2 9. september 2017",
           "daysUntilElection": 2,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=3313",
           "scope": "national"
         }
-      ]
+      ],
+      "actualResult": 3.2
     },
     "2021": {
       "electionDate": "2021-09-13",
@@ -4542,14 +4112,6 @@
           "scope": "national"
         },
         {
-          "date": "2020-02-06",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Sentio for Sentio 6. februar 2020",
-          "daysUntilElection": 585,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4091",
-          "scope": "national"
-        },
-        {
           "date": "2020-02-08",
           "mdgPercentage": 5.2,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 8. februar 2020",
@@ -4750,14 +4312,6 @@
           "scope": "national"
         },
         {
-          "date": "2020-05-11",
-          "mdgPercentage": 7,
-          "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 11. mai 2020",
-          "daysUntilElection": 490,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4130",
-          "scope": "national"
-        },
-        {
           "date": "2020-05-13",
           "mdgPercentage": 5.6,
           "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 13. mai 2020",
@@ -4862,14 +4416,6 @@
           "scope": "national"
         },
         {
-          "date": "2020-07-07",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Sentio for Høyre 7. juli 2020",
-          "daysUntilElection": 433,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4149",
-          "scope": "national"
-        },
-        {
           "date": "2020-07-11",
           "mdgPercentage": 4.9,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 11. juli 2020",
@@ -4883,6 +4429,14 @@
           "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 5. august 2020",
           "daysUntilElection": 404,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4151",
+          "scope": "national"
+        },
+        {
+          "date": "2020-08-05",
+          "mdgPercentage": 5.4,
+          "pollster": "pollofpolls.no - InFact for Avisa Nordland / Bergensavisen / iFinnmark / Nidaros 5. august 2020",
+          "daysUntilElection": 404,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4152",
           "scope": "national"
         },
         {
@@ -4942,14 +4496,6 @@
           "scope": "national"
         },
         {
-          "date": "2020-08-29",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 29. august 2020",
-          "daysUntilElection": 380,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4161",
-          "scope": "national"
-        },
-        {
           "date": "2020-09-01",
           "mdgPercentage": 4.1,
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 1. september 2020",
@@ -4979,14 +4525,6 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 5. september 2020",
           "daysUntilElection": 373,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4165",
-          "scope": "national"
-        },
-        {
-          "date": "2020-09-09",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Sentio for Bygdeposten 9. september 2020",
-          "daysUntilElection": 369,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4169",
           "scope": "national"
         },
         {
@@ -5087,14 +4625,6 @@
         },
         {
           "date": "2020-10-27",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 27. oktober 2020",
-          "daysUntilElection": 321,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4198",
-          "scope": "national"
-        },
-        {
-          "date": "2020-10-27",
           "mdgPercentage": 4.3,
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 27. oktober 2020",
           "daysUntilElection": 321,
@@ -5123,22 +4653,6 @@
           "pollster": "pollofpolls.no - Sentio for Nettavisen / Amedia 3. november 2020",
           "daysUntilElection": 314,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4202",
-          "scope": "national"
-        },
-        {
-          "date": "2020-11-06",
-          "mdgPercentage": 3.1,
-          "pollster": "pollofpolls.no - Sentio for Høyre 6. november 2020",
-          "daysUntilElection": 311,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4220",
-          "scope": "national"
-        },
-        {
-          "date": "2020-11-06",
-          "mdgPercentage": 3.4,
-          "pollster": "pollofpolls.no - Sentio for Høyre 6. november 2020",
-          "daysUntilElection": 311,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4221",
           "scope": "national"
         },
         {
@@ -5182,14 +4696,6 @@
           "scope": "national"
         },
         {
-          "date": "2020-11-25",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - InFact for NRK 25. november 2020",
-          "daysUntilElection": 292,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4210",
-          "scope": "national"
-        },
-        {
           "date": "2020-12-01",
           "mdgPercentage": 4,
           "pollster": "pollofpolls.no - Verian for TV2 1. desember 2020",
@@ -5227,14 +4733,6 @@
           "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 9. desember 2020",
           "daysUntilElection": 278,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4222",
-          "scope": "national"
-        },
-        {
-          "date": "2020-12-17",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 17. desember 2020",
-          "daysUntilElection": 270,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4224",
           "scope": "national"
         },
         {
@@ -5334,14 +4832,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-02-01",
-          "mdgPercentage": 4.1,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 1. februar 2021",
-          "daysUntilElection": 224,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4252",
-          "scope": "national"
-        },
-        {
           "date": "2021-02-02",
           "mdgPercentage": 3.8,
           "pollster": "pollofpolls.no - Respons Analyse for VG 2. februar 2021",
@@ -5355,22 +4845,6 @@
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 3. februar 2021",
           "daysUntilElection": 222,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4244",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-03",
-          "mdgPercentage": 2.1,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 3. februar 2021",
-          "daysUntilElection": 222,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4254",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-05",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 5. februar 2021",
-          "daysUntilElection": 220,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4253",
           "scope": "national"
         },
         {
@@ -5398,54 +4872,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-02-16",
-          "mdgPercentage": 4,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 16. februar 2021",
-          "daysUntilElection": 209,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4256",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-18",
-          "mdgPercentage": 3.5,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 18. februar 2021",
-          "daysUntilElection": 207,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4258",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-23",
-          "mdgPercentage": 3.4,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 23. februar 2021",
-          "daysUntilElection": 202,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4259",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-23",
-          "mdgPercentage": 3.2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 23. februar 2021",
-          "daysUntilElection": 202,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4260",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-23",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Sentio for Høyre 23. februar 2021",
-          "daysUntilElection": 202,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4261",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-23",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Sentio for Ringerikes Blad 23. februar 2021",
-          "daysUntilElection": 202,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4265",
-          "scope": "national"
-        },
-        {
           "date": "2021-02-24",
           "mdgPercentage": 5.2,
           "pollster": "pollofpolls.no - Norstat for Vårt Land 24. februar 2021",
@@ -5459,14 +4885,6 @@
           "pollster": "pollofpolls.no - Ipsos for Dagbladet 25. februar 2021",
           "daysUntilElection": 200,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4266",
-          "scope": "national"
-        },
-        {
-          "date": "2021-02-27",
-          "mdgPercentage": 3.2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 27. februar 2021",
-          "daysUntilElection": 198,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4280",
           "scope": "national"
         },
         {
@@ -5486,27 +4904,11 @@
           "scope": "national"
         },
         {
-          "date": "2021-03-04",
-          "mdgPercentage": 2.7,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 4. mars 2021",
-          "daysUntilElection": 193,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4278",
-          "scope": "national"
-        },
-        {
           "date": "2021-03-06",
           "mdgPercentage": 3.5,
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 6. mars 2021",
           "daysUntilElection": 191,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4270",
-          "scope": "national"
-        },
-        {
-          "date": "2021-03-06",
-          "mdgPercentage": 2.4,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 6. mars 2021",
-          "daysUntilElection": 191,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4279",
           "scope": "national"
         },
         {
@@ -5550,14 +4952,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-03-30",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Norfakta for Raumnes 30. mars 2021",
-          "daysUntilElection": 167,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4294",
-          "scope": "national"
-        },
-        {
           "date": "2021-03-31",
           "mdgPercentage": 4.9,
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 31. mars 2021",
@@ -5579,6 +4973,14 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 10. april 2021",
           "daysUntilElection": 156,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4296",
+          "scope": "national"
+        },
+        {
+          "date": "2021-04-13",
+          "mdgPercentage": 4.4,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 13. april 2021",
+          "daysUntilElection": 153,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4297",
           "scope": "national"
         },
         {
@@ -5622,14 +5024,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-04-30",
-          "mdgPercentage": 1.9,
-          "pollster": "pollofpolls.no - InFact for Kronstadposten 30. april 2021",
-          "daysUntilElection": 136,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4326",
-          "scope": "national"
-        },
-        {
           "date": "2021-05-03",
           "mdgPercentage": 2.1,
           "pollster": "pollofpolls.no - Verian for TV2 3. mai 2021",
@@ -5651,14 +5045,6 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 8. mai 2021",
           "daysUntilElection": 128,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4330",
-          "scope": "national"
-        },
-        {
-          "date": "2021-05-09",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 9. mai 2021",
-          "daysUntilElection": 127,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4331",
           "scope": "national"
         },
         {
@@ -5750,43 +5136,19 @@
           "scope": "national"
         },
         {
+          "date": "2021-06-15",
+          "mdgPercentage": 3.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 15. juni 2021",
+          "daysUntilElection": 90,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4370",
+          "scope": "national"
+        },
+        {
           "date": "2021-06-16",
           "mdgPercentage": 5,
           "pollster": "pollofpolls.no - Sentio for Nettavisen / Amedia 16. juni 2021",
           "daysUntilElection": 89,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4371",
-          "scope": "national"
-        },
-        {
-          "date": "2021-06-17",
-          "mdgPercentage": 3.3,
-          "pollster": "pollofpolls.no - Sentio for Amedia 17. juni 2021",
-          "daysUntilElection": 88,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4372",
-          "scope": "national"
-        },
-        {
-          "date": "2021-06-21",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 21. juni 2021",
-          "daysUntilElection": 84,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4374",
-          "scope": "national"
-        },
-        {
-          "date": "2021-06-21",
-          "mdgPercentage": 0.8,
-          "pollster": "pollofpolls.no - Sentio for Fremskrittspartiet 21. juni 2021",
-          "daysUntilElection": 84,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4375",
-          "scope": "national"
-        },
-        {
-          "date": "2021-06-21",
-          "mdgPercentage": 4.6,
-          "pollster": "pollofpolls.no - Sentio for Fremskrittspartiet 21. juni 2021",
-          "daysUntilElection": 84,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4376",
           "scope": "national"
         },
         {
@@ -5854,14 +5216,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-08-10",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for Høyre 10. august 2021",
-          "daysUntilElection": 34,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4400",
-          "scope": "national"
-        },
-        {
           "date": "2021-08-11",
           "mdgPercentage": 3.5,
           "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 11. august 2021",
@@ -5894,35 +5248,11 @@
           "scope": "national"
         },
         {
-          "date": "2021-08-14",
-          "mdgPercentage": 3.6,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 14. august 2021",
-          "daysUntilElection": 30,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4424",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-14",
-          "mdgPercentage": 3.1,
-          "pollster": "pollofpolls.no - Sentio for Amedia 14. august 2021",
-          "daysUntilElection": 30,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4425",
-          "scope": "national"
-        },
-        {
           "date": "2021-08-15",
           "mdgPercentage": 6.3,
           "pollster": "pollofpolls.no - Verian for TV2 15. august 2021",
           "daysUntilElection": 29,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4427",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-17",
-          "mdgPercentage": 3.2,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 17. august 2021",
-          "daysUntilElection": 27,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4429",
           "scope": "national"
         },
         {
@@ -5934,27 +5264,11 @@
           "scope": "national"
         },
         {
-          "date": "2021-08-17",
-          "mdgPercentage": 4.4,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 17. august 2021",
-          "daysUntilElection": 27,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4431",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-20",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 20. august 2021",
-          "daysUntilElection": 24,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4434",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-21",
-          "mdgPercentage": 5.7,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 21. august 2021",
-          "daysUntilElection": 23,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4438",
+          "date": "2021-08-19",
+          "mdgPercentage": 5.8,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 19. august 2021",
+          "daysUntilElection": 25,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4433",
           "scope": "national"
         },
         {
@@ -5982,46 +5296,6 @@
           "scope": "national"
         },
         {
-          "date": "2021-08-24",
-          "mdgPercentage": 5.9,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 24. august 2021",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4442",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-24",
-          "mdgPercentage": 3,
-          "pollster": "pollofpolls.no - InFact for NRK 24. august 2021",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4443",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-24",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - InFact for NRK 24. august 2021",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4444",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-24",
-          "mdgPercentage": 4.1,
-          "pollster": "pollofpolls.no - InFact for NRK 24. august 2021",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4445",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-24",
-          "mdgPercentage": 3.7,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 24. august 2021",
-          "daysUntilElection": 20,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4446",
-          "scope": "national"
-        },
-        {
           "date": "2021-08-25",
           "mdgPercentage": 5.3,
           "pollster": "pollofpolls.no - Verian for TV2 25. august 2021",
@@ -6030,11 +5304,11 @@
           "scope": "national"
         },
         {
-          "date": "2021-08-25",
-          "mdgPercentage": 5.3,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 25. august 2021",
-          "daysUntilElection": 19,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4448",
+          "date": "2021-08-26",
+          "mdgPercentage": 6.7,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 26. august 2021",
+          "daysUntilElection": 18,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4450",
           "scope": "national"
         },
         {
@@ -6043,14 +5317,6 @@
           "pollster": "pollofpolls.no - Norstat for Dagens Næringsliv 26. august 2021",
           "daysUntilElection": 18,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4451",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-26",
-          "mdgPercentage": 3.5,
-          "pollster": "pollofpolls.no - Verian for TV2 26. august 2021",
-          "daysUntilElection": 18,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4452",
           "scope": "national"
         },
         {
@@ -6067,30 +5333,6 @@
           "pollster": "pollofpolls.no - Verian for TV2 29. august 2021",
           "daysUntilElection": 15,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4457",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-30",
-          "mdgPercentage": 4.6,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 30. august 2021",
-          "daysUntilElection": 14,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4458",
-          "scope": "national"
-        },
-        {
-          "date": "2021-08-30",
-          "mdgPercentage": 4.6,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 30. august 2021",
-          "daysUntilElection": 14,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4459",
-          "scope": "national"
-        },
-        {
-          "date": "2021-09-01",
-          "mdgPercentage": 3.8,
-          "pollster": "pollofpolls.no - InFact for Amedia 1. september 2021",
-          "daysUntilElection": 12,
-          "url": "https://www.polloffpolls.no/?cmd=Maling&gallupid=4465",
           "scope": "national"
         },
         {
@@ -6115,6 +5357,14 @@
           "pollster": "pollofpolls.no - Norstat for Aftenposten 1. september 2021",
           "daysUntilElection": 12,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4469",
+          "scope": "national"
+        },
+        {
+          "date": "2021-09-02",
+          "mdgPercentage": 4.9,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 2. september 2021",
+          "daysUntilElection": 11,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4470",
           "scope": "national"
         },
         {
@@ -6167,10 +5417,10 @@
         },
         {
           "date": "2021-09-09",
-          "mdgPercentage": 3.3,
-          "pollster": "pollofpolls.no - Sentio for Amedia 9. september 2021",
+          "mdgPercentage": 4.2,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende / VG 9. september 2021",
           "daysUntilElection": 4,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4492",
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4496",
           "scope": "national"
         },
         {
@@ -6215,14 +5465,6 @@
         },
         {
           "date": "2021-09-10",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Verian for TV2 10. september 2021",
-          "daysUntilElection": 3,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4526",
-          "scope": "national"
-        },
-        {
-          "date": "2021-09-10",
           "mdgPercentage": 4.9,
           "pollster": "pollofpolls.no - Verian for TV2 10. september 2021",
           "daysUntilElection": 3,
@@ -6239,21 +5481,14 @@
         },
         {
           "date": "2021-09-11",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - Respons Analyse for VG 11. september 2021",
-          "daysUntilElection": 2,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4530",
-          "scope": "national"
-        },
-        {
-          "date": "2021-09-11",
           "mdgPercentage": 5.1,
           "pollster": "pollofpolls.no - Verian for TV2 11. september 2021",
           "daysUntilElection": 2,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=4531",
           "scope": "national"
         }
-      ]
+      ],
+      "actualResult": 3.9
     },
     "2025": {
       "electionDate": "2025-09-08",
@@ -6412,14 +5647,6 @@
         },
         {
           "date": "2023-12-12",
-          "mdgPercentage": 1.4,
-          "pollster": "pollofpolls.no - Norstat for NRK 12. desember 2023",
-          "daysUntilElection": 636,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5265",
-          "scope": "national"
-        },
-        {
-          "date": "2023-12-12",
           "mdgPercentage": 3.6,
           "pollster": "pollofpolls.no - Respons Analyse for VG 12. desember 2023",
           "daysUntilElection": 636,
@@ -6488,14 +5715,6 @@
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 17. januar 2024",
           "daysUntilElection": 600,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5276",
-          "scope": "national"
-        },
-        {
-          "date": "2024-01-24",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Norstat for Aftenposten 24. januar 2024",
-          "daysUntilElection": 593,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5277",
           "scope": "national"
         },
         {
@@ -6763,14 +5982,6 @@
           "scope": "national"
         },
         {
-          "date": "2024-06-09",
-          "mdgPercentage": 2,
-          "pollster": "pollofpolls.no - InFact for Dagbladet 9. juni 2024",
-          "daysUntilElection": 456,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5320",
-          "scope": "national"
-        },
-        {
           "date": "2024-06-11",
           "mdgPercentage": 3,
           "pollster": "pollofpolls.no - Respons Analyse for VG 11. juni 2024",
@@ -6915,14 +6126,6 @@
           "scope": "national"
         },
         {
-          "date": "2024-09-10",
-          "mdgPercentage": 1.6,
-          "pollster": "pollofpolls.no - Norstat for NRK 10. september 2024",
-          "daysUntilElection": 363,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5347",
-          "scope": "national"
-        },
-        {
           "date": "2024-09-11",
           "mdgPercentage": 2.6,
           "pollster": "pollofpolls.no - Respons Analyse for VG 11. september 2024",
@@ -6936,38 +6139,6 @@
           "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 11. september 2024",
           "daysUntilElection": 362,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5350",
-          "scope": "national"
-        },
-        {
-          "date": "2024-09-11",
-          "mdgPercentage": 0.9,
-          "pollster": "pollofpolls.no - Sentio for Bygdeposten 11. september 2024",
-          "daysUntilElection": 362,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5351",
-          "scope": "national"
-        },
-        {
-          "date": "2024-09-13",
-          "mdgPercentage": 1.1,
-          "pollster": "pollofpolls.no - InFact for Ringerikes Blad 13. september 2024",
-          "daysUntilElection": 360,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5352",
-          "scope": "national"
-        },
-        {
-          "date": "2024-09-17",
-          "mdgPercentage": 0,
-          "pollster": "pollofpolls.no - InFact for Ringerikes Blad 17. september 2024",
-          "daysUntilElection": 356,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5354",
-          "scope": "national"
-        },
-        {
-          "date": "2024-09-23",
-          "mdgPercentage": 4.2,
-          "pollster": "pollofpolls.no - Sentio for Amedia 23. september 2024",
-          "daysUntilElection": 350,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5358",
           "scope": "national"
         },
         {
@@ -7027,14 +6198,6 @@
           "scope": "national"
         },
         {
-          "date": "2024-10-19",
-          "mdgPercentage": 5,
-          "pollster": "pollofpolls.no - Norstat for Aftenposten 19. oktober 2024",
-          "daysUntilElection": 324,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5371",
-          "scope": "national"
-        },
-        {
           "date": "2024-10-23",
           "mdgPercentage": 3.5,
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 23. oktober 2024",
@@ -7056,14 +6219,6 @@
           "pollster": "pollofpolls.no - InFact for Nettavisen 5. november 2024",
           "daysUntilElection": 307,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5375",
-          "scope": "national"
-        },
-        {
-          "date": "2024-11-07",
-          "mdgPercentage": 1.5,
-          "pollster": "pollofpolls.no - Sentio for Amedia 7. november 2024",
-          "daysUntilElection": 305,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5376",
           "scope": "national"
         },
         {
@@ -7104,22 +6259,6 @@
           "pollster": "pollofpolls.no - Norstat for NRK / Aftenposten 19. november 2024",
           "daysUntilElection": 293,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5385",
-          "scope": "national"
-        },
-        {
-          "date": "2024-11-28",
-          "mdgPercentage": 2.6,
-          "pollster": "pollofpolls.no - Sentio for Amedia 28. november 2024",
-          "daysUntilElection": 284,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5386",
-          "scope": "national"
-        },
-        {
-          "date": "2024-11-29",
-          "mdgPercentage": 1.7,
-          "pollster": "pollofpolls.no - Sentio for Amedia 29. november 2024",
-          "daysUntilElection": 283,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5387",
           "scope": "national"
         },
         {
@@ -7219,6 +6358,14 @@
           "scope": "national"
         },
         {
+          "date": "2025-01-14",
+          "mdgPercentage": 3.8,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 14. januar 2025",
+          "daysUntilElection": 237,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5405",
+          "scope": "national"
+        },
+        {
           "date": "2025-01-15",
           "mdgPercentage": 3.3,
           "pollster": "pollofpolls.no - Norstat for NRK 15. januar 2025",
@@ -7252,6 +6399,14 @@
         },
         {
           "date": "2025-02-04",
+          "mdgPercentage": 1.9,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 4. februar 2025",
+          "daysUntilElection": 216,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5416",
+          "scope": "national"
+        },
+        {
+          "date": "2025-02-04",
           "mdgPercentage": 2.4,
           "pollster": "pollofpolls.no - Verian for TV2 4. februar 2025",
           "daysUntilElection": 216,
@@ -7272,6 +6427,14 @@
           "pollster": "pollofpolls.no - InFact for Nettavisen 6. februar 2025",
           "daysUntilElection": 214,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5419",
+          "scope": "national"
+        },
+        {
+          "date": "2025-02-07",
+          "mdgPercentage": 1.6,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 7. februar 2025",
+          "daysUntilElection": 213,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5420",
           "scope": "national"
         },
         {
@@ -7332,18 +6495,18 @@
         },
         {
           "date": "2025-03-11",
+          "mdgPercentage": 1.9,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 11. mars 2025",
+          "daysUntilElection": 181,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5435",
+          "scope": "national"
+        },
+        {
+          "date": "2025-03-11",
           "mdgPercentage": 2.5,
           "pollster": "pollofpolls.no - Norstat for NRK / Vårt Land / Dagbladet 11. mars 2025",
           "daysUntilElection": 181,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5436",
-          "scope": "national"
-        },
-        {
-          "date": "2025-03-13",
-          "mdgPercentage": 2.8,
-          "pollster": "pollofpolls.no - Sentio for Amedia 13. mars 2025",
-          "daysUntilElection": 179,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5437",
           "scope": "national"
         },
         {
@@ -7384,6 +6547,14 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 5. april 2025",
           "daysUntilElection": 156,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5451",
+          "scope": "national"
+        },
+        {
+          "date": "2025-04-08",
+          "mdgPercentage": 3.8,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 8. april 2025",
+          "daysUntilElection": 153,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5453",
           "scope": "national"
         },
         {
@@ -7440,6 +6611,14 @@
           "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 10. mai 2025",
           "daysUntilElection": 121,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5461",
+          "scope": "national"
+        },
+        {
+          "date": "2025-05-13",
+          "mdgPercentage": 2.6,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 13. mai 2025",
+          "daysUntilElection": 118,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5462",
           "scope": "national"
         },
         {
@@ -7507,11 +6686,11 @@
           "scope": "national"
         },
         {
-          "date": "2025-06-24",
-          "mdgPercentage": 4.6,
-          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten 24. juni 2025",
-          "daysUntilElection": 76,
-          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5502",
+          "date": "2025-06-18",
+          "mdgPercentage": 3.4,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 18. juni 2025",
+          "daysUntilElection": 82,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5500",
           "scope": "national"
         },
         {
@@ -7563,6 +6742,14 @@
           "scope": "national"
         },
         {
+          "date": "2025-08-11",
+          "mdgPercentage": 2.8,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 11. august 2025",
+          "daysUntilElection": 28,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5516",
+          "scope": "national"
+        },
+        {
           "date": "2025-08-13",
           "mdgPercentage": 3.7,
           "pollster": "pollofpolls.no - InFact for Nettavisen 13. august 2025",
@@ -7576,6 +6763,14 @@
           "pollster": "pollofpolls.no - Norstat for NRK / Vårt Land / Dagbladet 15. august 2025",
           "daysUntilElection": 24,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5522",
+          "scope": "national"
+        },
+        {
+          "date": "2025-08-19",
+          "mdgPercentage": 4.4,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 19. august 2025",
+          "daysUntilElection": 20,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5523",
           "scope": "national"
         },
         {
@@ -7603,6 +6798,14 @@
           "scope": "national"
         },
         {
+          "date": "2025-08-26",
+          "mdgPercentage": 5,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 26. august 2025",
+          "daysUntilElection": 13,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5531",
+          "scope": "national"
+        },
+        {
           "date": "2025-08-27",
           "mdgPercentage": 4.6,
           "pollster": "pollofpolls.no - Norstat for NRK 27. august 2025",
@@ -7624,6 +6827,46 @@
           "pollster": "pollofpolls.no - Verian for TV2 30. august 2025",
           "daysUntilElection": 9,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5556",
+          "scope": "national"
+        },
+        {
+          "date": "2025-09-01",
+          "mdgPercentage": 5.8,
+          "pollster": "pollofpolls.no - Verian for TV2 1. september 2025",
+          "daysUntilElection": 7,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5560",
+          "scope": "national"
+        },
+        {
+          "date": "2025-09-02",
+          "mdgPercentage": 7.1,
+          "pollster": "pollofpolls.no - Respons Analyse for VG / Aftenposten / Bergens Tidende 2. september 2025",
+          "daysUntilElection": 6,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5561",
+          "scope": "national"
+        },
+        {
+          "date": "2025-09-02",
+          "mdgPercentage": 6.2,
+          "pollster": "pollofpolls.no - Verian for TV2 2. september 2025",
+          "daysUntilElection": 6,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5562",
+          "scope": "national"
+        },
+        {
+          "date": "2025-09-03",
+          "mdgPercentage": 7,
+          "pollster": "pollofpolls.no - Opinion for ABC Nyheter / Altinget 3. september 2025",
+          "daysUntilElection": 5,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5563",
+          "scope": "national"
+        },
+        {
+          "date": "2025-09-03",
+          "mdgPercentage": 4.6,
+          "pollster": "pollofpolls.no - InFact for Nettavisen 3. september 2025",
+          "daysUntilElection": 5,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5570",
           "scope": "national"
         }
       ]
