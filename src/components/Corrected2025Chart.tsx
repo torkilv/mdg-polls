@@ -102,7 +102,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
 
   // Original 2025 polls (scatter)
   datasets.push({
-    label: '2025 Original Polls',
+    label: 'Original',
     data: final50DayPolls.map(poll => ({
       x: poll.daysUntilElection,
       y: poll.originalPercentage,
@@ -120,7 +120,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
 
   // Corrected 2025 polls (scatter) - includes all polls, corrected and uncorrected
   datasets.push({
-    label: '2025 Bias-Corrected Polls',
+    label: 'Corrected',
     data: final50DayPolls.map(poll => ({
       x: poll.daysUntilElection,
       y: poll.correctedPercentage,
@@ -149,7 +149,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
 
   if (originalRollingAverage.length > 0) {
     datasets.push({
-      label: '2025 Original 7-day Average',
+      label: 'Original Avg',
       data: originalRollingAverage,
       backgroundColor: 'transparent',
       borderColor: '#3b82f6',
@@ -174,7 +174,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
 
   if (correctedRollingAverage.length > 0) {
     datasets.push({
-      label: '2025 Corrected 7-day Average',
+      label: 'Corrected Avg',
       data: correctedRollingAverage,
       backgroundColor: 'transparent',
       borderColor: '#10b981',
@@ -197,12 +197,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
     maintainAspectRatio: false,
     plugins: {
       title: {
-        display: true,
-        text: '2025 Original vs Bias-Corrected',
-        font: {
-          size: 16,
-          weight: 'bold' as const
-        }
+        display: false
       },
       legend: {
         display: true,

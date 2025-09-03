@@ -412,7 +412,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
           <div className="pollster-grid">
             {Object.entries(pollsterAnalysis).map(([year, pollsters]) => (
               <div key={year} className="pollster-year">
-                <h4>{year} Election Cycle</h4>
+                <h4>{year}</h4>
                 <div className="pollster-stats">
                   {Object.entries(pollsters)
                     .filter(([, data]) => data.count50Days >= 2) // Only show pollsters with 2+ polls in last 50 days

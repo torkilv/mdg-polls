@@ -11,7 +11,7 @@
 
 .app-header {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
   color: white;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -19,7 +19,7 @@
 
 .app-header h1 {
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 700;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -36,56 +36,55 @@
 .app-main {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: 1rem;
 }
 
 .unified-section {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .unified-section h2, .individual-elections h2 {
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.25rem 0;
   color: #1f2937;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   text-align: center;
 }
 
 .section-description {
   color: #6b7280;
-  font-size: 1.1rem;
-  margin: 0 0 2rem 0;
+  font-size: 0.9rem;
+  margin: 0 0 1rem 0;
   text-align: center;
-  font-style: italic;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .individual-elections {
-  margin-top: 3rem;
+  margin-top: 1.5rem;
 }
 
 .election-section {
   background: white;
-  border-radius: 12px;
-  padding: 2rem;
-  margin-bottom: 2rem;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .election-section h3 {
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.25rem 0;
   color: #1f2937;
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   font-weight: 600;
 }
 
 .election-date {
   color: #6b7280;
-  font-size: 1rem;
-  margin: 0 0 1.5rem 0;
+  font-size: 0.85rem;
+  margin: 0 0 0.75rem 0;
   font-style: italic;
 }
 

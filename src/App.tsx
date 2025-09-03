@@ -73,33 +73,24 @@ function App() {
         {/* Short Timeline Chart - Final 50 Days */}
         <div className="unified-section">
           <h2>Final 50 Days</h2>
-          <p className="section-description">
-            Final campaign period with polls, 7-day averages, and June baselines
-          </p>
           <ShortTimelineChart data={electionData} />
         </div>
 
         {/* Unified Timeline Chart */}
         <div className="unified-section">
           <h2>Historical Analysis</h2>
-          <p className="section-description">
-            All election cycles with pollster accuracy and campaign momentum analysis
-          </p>
           <UnifiedTimelineChart electionData={electionData} />
         </div>
 
         {/* Individual Election Charts */}
         <div className="individual-elections">
           <h2>Individual Elections</h2>
-          <p className="section-description">
-            Chronological timeline for each election cycle
-          </p>
           {Object.entries(electionData.elections)
             .sort(([a], [b]) => parseInt(b) - parseInt(a)) // Sort by year, newest first
             .map(([year, data]) => (
               <div key={year} className="election-section">
-                <h3>{year} Parliamentary Election</h3>
-                <p className="election-date">Election Date: {data.electionDate}</p>
+                <h3>{year}</h3>
+                <p className="election-date">{data.electionDate}</p>
                 <ElectionChart electionYear={parseInt(year)} electionData={data} />
               </div>
             ))}
@@ -108,9 +99,6 @@ function App() {
         {/* Bias-Corrected 2025 Chart */}
         <div className="unified-section">
           <h2>2025 Bias-Corrected</h2>
-          <p className="section-description">
-            2025 polls adjusted for historical pollster bias patterns
-          </p>
           <Corrected2025Chart electionData={electionData} />
         </div>
       </main>

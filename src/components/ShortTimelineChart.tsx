@@ -96,7 +96,7 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
   // Add individual poll datasets (scatter plots)
   processedData.forEach(({ year, pollPoints, color }) => {
     datasets.push({
-      label: `${year} Polls`,
+              label: `${year}`,
       data: pollPoints,
       backgroundColor: color,
       borderColor: color,
@@ -112,7 +112,7 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
   processedData.forEach(({ year, rollingAverage, color }) => {
     if (rollingAverage.length > 0) {
       datasets.push({
-        label: `${year} 7-day Average`,
+        label: `${year} Avg`,
         data: rollingAverage,
         backgroundColor: 'transparent',
         borderColor: color,
@@ -131,7 +131,7 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
   processedData.forEach(({ year, juneAverage, color }) => {
     if (juneAverage !== null) {
       datasets.push({
-        label: `${year} June Baseline`,
+        label: `${year} June`,
         data: [
           { x: 50, y: juneAverage },
           { x: 0, y: juneAverage }
@@ -155,12 +155,7 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
     maintainAspectRatio: false,
     plugins: {
       title: {
-        display: true,
-        text: 'Final 50 Days',
-        font: {
-          size: 16,
-          weight: 'bold' as const
-        }
+        display: false
       },
       legend: {
         display: true,
