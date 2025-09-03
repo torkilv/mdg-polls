@@ -1,0 +1,65 @@
+{
+  "name": "mdg-elections-compare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "fetch-data": "node scripts/poll-fetcher.js",
+    "fetch-historical": "node scripts/historical-fetcher.js",
+    "update-polls": "node scripts/update-polls.js && npm run sync-data",
+    "create-sample-data": "node scripts/create-sample-data.js",
+    "enhance-poll-data": "node scripts/enhance-poll-data.js",
+    "fix-poll-classification": "node scripts/fix-poll-classification.js",
+    "smart-classify-polls": "node scripts/smart-poll-classifier.js",
+    "final-cleanup": "node scripts/final-poll-cleanup.js",
+    "fix-nrk-districts": "node scripts/fix-nrk-district-polls.js",
+    "sync-data": "node scripts/sync-data.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://torkilvederhus.github.io/mdg-elections-compare",
+  "private": true,
+  "keywords": [
+    "mdg",
+    "polling",
+    "elections",
+    "norway",
+    "politics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "MDG Election Polling Comparison Website",
+  "dependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "axios": "^1.11.0",
+    "chart.js": "^4.5.0",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "cheerio": "^1.1.2",
+    "date-fns": "^4.1.0",
+    "react": "^19.1.1",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.1",
+    "react-scripts": "^5.0.1",
+    "rss-parser": "^3.13.0",
+    "typescript": "^4.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
