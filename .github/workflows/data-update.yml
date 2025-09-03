@@ -24,21 +24,24 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       
-      - name: Fetch Polling Data
-        run: npm run fetch-data
+      - name: Update Polls Data
+        run: npm run update-polls
       
-      - name: Copy Data to Public Directory
+      - name: Build Site
+        run: npm run build
+      
+      - name: Update Docs Folder
         run: |
-          mkdir -p public/data
-          cp data/polling-data.json public/data/
+          rm -rf docs
+          cp -r build docs
       
       - name: Check for Changes
         id: verify-changed-files
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
+          if git diff --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit and Push Changes
@@ -46,10 +49,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/polling-data.json public/data/polling-data.json
-          git commit -m "Update polling data - $(date '+%Y-%m-%d %H:%M:%S')"
+          git add .
+          git commit -m "Auto-update: New polls data $(date '+%Y-%m-%d %H:%M UTC')"
           git push
       
       - name: Log No Changes
         if: steps.verify-changed-files.outputs.changed == 'false'
-        run: echo "No changes detected in polling data"
+        run: echo "No new polls found - no update needed"
