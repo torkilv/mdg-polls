@@ -407,9 +407,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
         <div className="pollster-analysis">
           <h3>Pollster Analysis</h3>
           <p className="analysis-description">
-            Shows average error for each polling company during the final 50 days before election. 
-            Error = (Poll Average - Actual Result). Positive values mean polls overestimated MDG, 
-            negative values mean underestimation. Only pollsters with 2+ polls in final 50 days shown.
+            Final 50-day polling error vs actual results. Red = overestimated, Green = underestimated.
           </p>
           <div className="pollster-grid">
             {Object.entries(pollsterAnalysis).map(([year, pollsters]) => (
@@ -438,7 +436,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
         
         <div className="mdg-change-analysis">
           <h3>MDG Polling Change Analysis</h3>
-          <p className="analysis-description">June baseline vs final 50-day average vs actual election results</p>
+          <p className="analysis-description">Campaign momentum from June to election day</p>
           <div className="change-table">
             <div className="table-header">
               <span>Election</span>
@@ -482,18 +480,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
             ))}
           </div>
         </div>
-        
-        <div className="insights">
-          <h4>Key Insights</h4>
-          <ul>
-            <li><strong>Total Polls Analyzed:</strong> {totalPolls} across {pollDatasets.length} election cycles</li>
-            <li><strong>Timeline:</strong> Data spans up to {Math.ceil(maxDays / 30)} months before each election</li>
-            <li><strong>MDG Growth Trend:</strong> Steady improvement from {avgByElection.find(e => e.year === '2013')?.actualResult || '2.8'}% (2013) to {avgByElection.find(e => e.year === '2021')?.actualResult || '3.9'}% (2021)</li>
-            <li><strong>7-Day Poll Accuracy:</strong> {avgByElection.filter(e => e.pollError7Day !== 'N/A' && Math.abs(parseFloat(e.pollError7Day)) <= 1).length} out of {avgByElection.filter(e => e.pollError7Day !== 'N/A').length} final week averages were within 1% of actual results</li>
-            <li><strong>Poll Bias:</strong> Red (-) shows polls overestimated MDG, green (+) shows underestimation</li>
-            <li><strong>Campaign Momentum:</strong> Compare peak support vs final 7-day average to see late campaign trends</li>
-          </ul>
-        </div>
+
       </div>
     </div>
   );

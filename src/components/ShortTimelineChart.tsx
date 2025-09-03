@@ -156,9 +156,9 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
     plugins: {
       title: {
         display: true,
-        text: 'MDG Polling - Final 100 Days Before Election',
+        text: 'Final 50 Days',
         font: {
-          size: 18,
+          size: 16,
           weight: 'bold' as const
         }
       },

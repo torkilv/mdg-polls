@@ -198,9 +198,9 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
     plugins: {
       title: {
         display: true,
-        text: '2025 MDG Polling: Original vs Bias-Corrected (Final 50 Days)',
+        text: '2025 Original vs Bias-Corrected',
         font: {
-          size: 18,
+          size: 16,
           weight: 'bold' as const
         }
       },
@@ -309,20 +309,19 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
         <Chart type="scatter" data={chartData} options={options} />
       </div>
       
-      <div className="correction-analysis">
-        <h3>Bias Correction Analysis</h3>
+              <div className="correction-analysis">
+        <h3>Correction Summary</h3>
         <div className="analysis-grid">
           <div className="stat-box">
-            <h4>Methodology</h4>
-            <p>Applies each pollster's 2021 systematic error to their 2025 polls. 
-               Positive 2021 errors (overestimation) are subtracted from 2025 results.</p>
+            <h4>Method</h4>
+            <p>Adjusts 2025 polls using each pollster's 2021 bias pattern.</p>
           </div>
           
           <div className="stat-box">
-            <h4>Corrections Applied</h4>
-            <p>{correctedPollsWithData.length} polls corrected using 2021 bias</p>
-            <p>{uncorrectedPolls.length} polls uncorrected (no 2021 data)</p>
-            <p>Average correction magnitude: {avgCorrection.toFixed(1)} percentage points</p>
+            <h4>Coverage</h4>
+            <p>{correctedPollsWithData.length} polls corrected</p>
+            <p>{uncorrectedPolls.length} polls unchanged</p>
+            <p>Avg correction: {avgCorrection.toFixed(1)}pp</p>
           </div>
           
           {finalOriginalAvg !== null && finalCorrectedAvg !== null && (
@@ -336,7 +335,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
         </div>
         
         <div className="pollster-corrections">
-          <h4>2021 Bias Used for Corrections</h4>
+          <h4>Pollster Bias (2021)</h4>
           <div className="corrections-list">
             {Object.entries(pollster2021Errors)
               .sort(([a], [b]) => a.localeCompare(b))
@@ -346,7 +345,7 @@ const Corrected2025Chart: React.FC<Corrected2025ChartProps> = ({ electionData })
                   <span className="error-value" style={{
                     color: error > 0 ? '#ef4444' : '#22c55e'
                   }}>
-                    {error > 0 ? '+' : ''}{error.toFixed(1)}% bias in 2021
+                    {error > 0 ? '+' : ''}{error.toFixed(1)}%
                   </span>
                 </div>
               ))}

@@ -13556,7 +13556,8 @@
           "daysUntilElection": 5,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5568",
           "scope": "regional"
-        },
+        }
+        ,
         {
           "date": "2025-09-03",
           "mdgPercentage": 3.4,

@@ -65,34 +65,34 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>MDG Election Polling Comparison</h1>
-        <p>Track MDG's polling performance in the 24 months leading up to Norwegian parliamentary elections</p>
+        <h1>MDG Polling Analysis</h1>
+        <p>Norwegian election polling trends and predictions</p>
       </header>
       
       <main className="app-main">
         {/* Short Timeline Chart - Final 50 Days */}
         <div className="unified-section">
-          <h2>Final 50 Days - Polling Trends</h2>
+          <h2>Final 50 Days</h2>
           <p className="section-description">
-            Focus on the critical final 50 days before each election with individual polls (dots), 7-day rolling averages (lines), and June baselines (dashed lines)
+            Final campaign period with polls, 7-day averages, and June baselines
           </p>
           <ShortTimelineChart data={electionData} />
         </div>
 
         {/* Unified Timeline Chart */}
         <div className="unified-section">
-          <h2>Full Campaign Timeline Analysis</h2>
+          <h2>Historical Analysis</h2>
           <p className="section-description">
-            All election cycles aligned by days until election day - complete 24-month view of MDG's polling trends
+            All election cycles with pollster accuracy and campaign momentum analysis
           </p>
           <UnifiedTimelineChart electionData={electionData} />
         </div>
 
         {/* Individual Election Charts */}
         <div className="individual-elections">
-          <h2>Individual Election Cycles</h2>
+          <h2>Individual Elections</h2>
           <p className="section-description">
-            Detailed view of each election cycle with chronological timeline
+            Chronological timeline for each election cycle
           </p>
           {Object.entries(electionData.elections)
             .sort(([a], [b]) => parseInt(b) - parseInt(a)) // Sort by year, newest first
@@ -107,9 +107,9 @@ function App() {
 
         {/* Bias-Corrected 2025 Chart */}
         <div className="unified-section">
-          <h2>2025 Bias-Corrected Polling</h2>
+          <h2>2025 Bias-Corrected</h2>
           <p className="section-description">
-            2025 polls adjusted using each pollster's systematic error from 2021. Shows what the polls might look like after accounting for historical bias patterns.
+            2025 polls adjusted for historical pollster bias patterns
           </p>
           <Corrected2025Chart electionData={electionData} />
         </div>
