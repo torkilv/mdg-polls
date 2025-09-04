@@ -6876,6 +6876,14 @@
           "daysUntilElection": 5,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5572",
           "scope": "national"
+        },
+        {
+          "date": "2025-09-04",
+          "mdgPercentage": 6.3,
+          "pollster": "pollofpolls.no - Opinion for Dagsavisen / FriFagbevegelse / Avisenes Nyhetsbyrå 4. september 2025",
+          "daysUntilElection": 4,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5575",
+          "scope": "national"
         }
       ]
     }
