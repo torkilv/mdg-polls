@@ -13628,6 +13628,14 @@
           "daysUntilElection": 4,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5577",
           "scope": "regional"
+        },
+        {
+          "date": "2025-09-04",
+          "mdgPercentage": 5.2,
+          "pollster": "pollofpolls.no - Respons Analyse for Sunnmørsposten / Tidens Krav / Romsdals Budstikke 4. september 2025",
+          "daysUntilElection": 4,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5578",
+          "scope": "regional"
         }
       ]
     }
