@@ -5,6 +5,9 @@ on:
     - cron: '0 */2 * * *'  # Runs every 2 hours
   workflow_dispatch:  # Allows manual triggering
 
+permissions:
+  contents: write  # Allow the action to write to the repository
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
