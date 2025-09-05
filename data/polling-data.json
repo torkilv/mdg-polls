@@ -13660,6 +13660,14 @@
           "daysUntilElection": 3,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5581",
           "scope": "regional"
+        },
+        {
+          "date": "2025-09-05",
+          "mdgPercentage": 1,
+          "pollster": "pollofpolls.no - Respons Analyse for Bergens Tidende 5. september 2025",
+          "daysUntilElection": 3,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5582",
+          "scope": "regional"
         }
       ]
     }
