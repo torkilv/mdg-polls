@@ -13668,6 +13668,14 @@
           "daysUntilElection": 3,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5582",
           "scope": "regional"
+        },
+        {
+          "date": "2025-09-05",
+          "mdgPercentage": 6.4,
+          "pollster": "pollofpolls.no - Verian for TV2 5. september 2025",
+          "daysUntilElection": 3,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5583",
+          "scope": "national"
         }
       ]
     }
