@@ -1,0 +1,6082 @@
+{
+  "year": 2025,
+  "lastUpdated": "2025-09-06T18:27:28.897Z",
+  "parties": {
+    "Arbeiderpartiet": {
+      "name": "Arbeiderpartiet",
+      "donations": [
+        {
+          "id": "arbeiderpartiet-large-10",
+          "donorType": "organization",
+          "amount": 121411,
+          "date": "2025-02-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-5",
+          "donorType": "organization",
+          "amount": 117987,
+          "date": "2025-12-07",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-3",
+          "donorType": "organization",
+          "amount": 115003,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-11",
+          "donorType": "organization",
+          "amount": 111421,
+          "date": "2025-07-29",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-13",
+          "donorType": "organization",
+          "amount": 92888,
+          "date": "2025-12-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-2",
+          "donorType": "organization",
+          "amount": 90190,
+          "date": "2025-05-09",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-12",
+          "donorType": "organization",
+          "amount": 88363,
+          "date": "2025-05-09",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-9",
+          "donorType": "organization",
+          "amount": 87640,
+          "date": "2025-10-07",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-7",
+          "donorType": "organization",
+          "amount": 85667,
+          "date": "2025-12-07",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-15",
+          "donorType": "organization",
+          "amount": 83335,
+          "date": "2025-08-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-6",
+          "donorType": "organization",
+          "amount": 80705,
+          "date": "2025-02-09",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-1",
+          "donorType": "organization",
+          "amount": 68945,
+          "date": "2025-09-21",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-14",
+          "donorType": "organization",
+          "amount": 68111,
+          "date": "2025-06-10",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-4",
+          "donorType": "organization",
+          "amount": 63894,
+          "date": "2025-11-28",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-large-8",
+          "donorType": "organization",
+          "amount": 58993,
+          "date": "2025-02-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-45",
+          "donorType": "organization",
+          "amount": 32488,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-55",
+          "donorType": "organization",
+          "amount": 32484,
+          "date": "2025-04-27",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-107",
+          "donorType": "individual",
+          "amount": 32352,
+          "date": "2025-06-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-143",
+          "donorType": "individual",
+          "amount": 32251,
+          "date": "2025-01-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-96",
+          "donorType": "individual",
+          "amount": 32168,
+          "date": "2025-02-17",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-34",
+          "donorType": "individual",
+          "amount": 32143,
+          "date": "2025-12-18",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-122",
+          "donorType": "individual",
+          "amount": 32122,
+          "date": "2025-08-31",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-32",
+          "donorType": "organization",
+          "amount": 32005,
+          "date": "2025-10-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-44",
+          "donorType": "individual",
+          "amount": 31876,
+          "date": "2025-03-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-142",
+          "donorType": "individual",
+          "amount": 31868,
+          "date": "2025-04-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-119",
+          "donorType": "organization",
+          "amount": 31716,
+          "date": "2025-10-10",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-40",
+          "donorType": "individual",
+          "amount": 31530,
+          "date": "2025-04-30",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-16",
+          "donorType": "individual",
+          "amount": 31241,
+          "date": "2025-02-24",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-98",
+          "donorType": "individual",
+          "amount": 31073,
+          "date": "2025-06-17",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-41",
+          "donorType": "individual",
+          "amount": 31009,
+          "date": "2025-02-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-101",
+          "donorType": "individual",
+          "amount": 30861,
+          "date": "2025-10-20",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-115",
+          "donorType": "individual",
+          "amount": 30844,
+          "date": "2025-09-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-125",
+          "donorType": "individual",
+          "amount": 30800,
+          "date": "2025-11-23",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-95",
+          "donorType": "organization",
+          "amount": 30633,
+          "date": "2025-11-29",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-30",
+          "donorType": "individual",
+          "amount": 30562,
+          "date": "2025-01-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-132",
+          "donorType": "individual",
+          "amount": 30553,
+          "date": "2025-04-30",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-144",
+          "donorType": "individual",
+          "amount": 30502,
+          "date": "2025-06-24",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-43",
+          "donorType": "organization",
+          "amount": 30415,
+          "date": "2025-01-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-102",
+          "donorType": "individual",
+          "amount": 30415,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-19",
+          "donorType": "individual",
+          "amount": 30268,
+          "date": "2025-08-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-48",
+          "donorType": "individual",
+          "amount": 30187,
+          "date": "2025-01-22",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-61",
+          "donorType": "individual",
+          "amount": 30159,
+          "date": "2025-09-28",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-131",
+          "donorType": "individual",
+          "amount": 29902,
+          "date": "2025-08-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-140",
+          "donorType": "individual",
+          "amount": 29804,
+          "date": "2025-11-07",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-2",
+          "donorType": "individual",
+          "amount": 29503,
+          "date": "2025-10-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-51",
+          "donorType": "organization",
+          "amount": 29417,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-85",
+          "donorType": "individual",
+          "amount": 29292,
+          "date": "2025-01-07",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-14",
+          "donorType": "organization",
+          "amount": 29188,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-29",
+          "donorType": "individual",
+          "amount": 28920,
+          "date": "2025-09-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-88",
+          "donorType": "individual",
+          "amount": 28797,
+          "date": "2025-08-30",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-71",
+          "donorType": "organization",
+          "amount": 28650,
+          "date": "2025-03-30",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-56",
+          "donorType": "individual",
+          "amount": 28519,
+          "date": "2025-06-10",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-124",
+          "donorType": "individual",
+          "amount": 28452,
+          "date": "2025-01-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-33",
+          "donorType": "individual",
+          "amount": 28377,
+          "date": "2025-09-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-104",
+          "donorType": "individual",
+          "amount": 28057,
+          "date": "2025-10-03",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-106",
+          "donorType": "individual",
+          "amount": 28006,
+          "date": "2025-08-05",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-39",
+          "donorType": "individual",
+          "amount": 27910,
+          "date": "2025-07-22",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-9",
+          "donorType": "individual",
+          "amount": 27608,
+          "date": "2025-12-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-135",
+          "donorType": "organization",
+          "amount": 27517,
+          "date": "2025-03-19",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-46",
+          "donorType": "individual",
+          "amount": 27342,
+          "date": "2025-03-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-77",
+          "donorType": "individual",
+          "amount": 27100,
+          "date": "2025-12-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-121",
+          "donorType": "individual",
+          "amount": 27097,
+          "date": "2025-04-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-15",
+          "donorType": "individual",
+          "amount": 26967,
+          "date": "2025-03-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-59",
+          "donorType": "individual",
+          "amount": 26888,
+          "date": "2025-04-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-149",
+          "donorType": "individual",
+          "amount": 26821,
+          "date": "2025-01-22",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-148",
+          "donorType": "individual",
+          "amount": 26777,
+          "date": "2025-07-30",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-75",
+          "donorType": "individual",
+          "amount": 26508,
+          "date": "2025-05-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-114",
+          "donorType": "individual",
+          "amount": 26411,
+          "date": "2025-12-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-49",
+          "donorType": "individual",
+          "amount": 26386,
+          "date": "2025-08-24",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-27",
+          "donorType": "individual",
+          "amount": 26278,
+          "date": "2025-06-18",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-62",
+          "donorType": "individual",
+          "amount": 26248,
+          "date": "2025-03-21",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-76",
+          "donorType": "individual",
+          "amount": 26204,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-28",
+          "donorType": "organization",
+          "amount": 26153,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-11",
+          "donorType": "individual",
+          "amount": 25933,
+          "date": "2025-05-10",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-117",
+          "donorType": "individual",
+          "amount": 25898,
+          "date": "2025-04-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-17",
+          "donorType": "individual",
+          "amount": 25862,
+          "date": "2025-02-20",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-89",
+          "donorType": "individual",
+          "amount": 25737,
+          "date": "2025-01-19",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-130",
+          "donorType": "individual",
+          "amount": 25626,
+          "date": "2025-04-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-35",
+          "donorType": "individual",
+          "amount": 25475,
+          "date": "2025-12-17",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-23",
+          "donorType": "individual",
+          "amount": 25401,
+          "date": "2025-04-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-66",
+          "donorType": "individual",
+          "amount": 25166,
+          "date": "2025-03-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-110",
+          "donorType": "individual",
+          "amount": 24891,
+          "date": "2025-06-27",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-57",
+          "donorType": "organization",
+          "amount": 24676,
+          "date": "2025-02-16",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-118",
+          "donorType": "individual",
+          "amount": 24645,
+          "date": "2025-01-28",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-69",
+          "donorType": "individual",
+          "amount": 24629,
+          "date": "2025-07-27",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-141",
+          "donorType": "individual",
+          "amount": 24490,
+          "date": "2025-04-28",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-136",
+          "donorType": "individual",
+          "amount": 24203,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-150",
+          "donorType": "individual",
+          "amount": 24040,
+          "date": "2025-05-14",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-63",
+          "donorType": "individual",
+          "amount": 23858,
+          "date": "2025-10-23",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-72",
+          "donorType": "organization",
+          "amount": 23816,
+          "date": "2025-09-26",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-97",
+          "donorType": "individual",
+          "amount": 23709,
+          "date": "2025-07-29",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-139",
+          "donorType": "individual",
+          "amount": 23689,
+          "date": "2025-09-11",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-58",
+          "donorType": "individual",
+          "amount": 23559,
+          "date": "2025-05-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-134",
+          "donorType": "individual",
+          "amount": 23394,
+          "date": "2025-12-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-123",
+          "donorType": "individual",
+          "amount": 23321,
+          "date": "2025-08-27",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-81",
+          "donorType": "individual",
+          "amount": 23284,
+          "date": "2025-01-23",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-6",
+          "donorType": "individual",
+          "amount": 23276,
+          "date": "2025-12-30",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-10",
+          "donorType": "individual",
+          "amount": 23198,
+          "date": "2025-12-07",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-12",
+          "donorType": "individual",
+          "amount": 23169,
+          "date": "2025-11-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-78",
+          "donorType": "individual",
+          "amount": 23081,
+          "date": "2025-04-17",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-67",
+          "donorType": "individual",
+          "amount": 22894,
+          "date": "2025-07-26",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-113",
+          "donorType": "individual",
+          "amount": 22893,
+          "date": "2025-10-20",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-84",
+          "donorType": "organization",
+          "amount": 22651,
+          "date": "2025-02-13",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-1",
+          "donorType": "organization",
+          "amount": 22622,
+          "date": "2025-08-25",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-60",
+          "donorType": "individual",
+          "amount": 22621,
+          "date": "2025-11-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-145",
+          "donorType": "individual",
+          "amount": 22487,
+          "date": "2025-01-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-80",
+          "donorType": "individual",
+          "amount": 22458,
+          "date": "2025-06-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-65",
+          "donorType": "individual",
+          "amount": 22427,
+          "date": "2025-04-26",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-103",
+          "donorType": "individual",
+          "amount": 22350,
+          "date": "2025-06-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-3",
+          "donorType": "individual",
+          "amount": 22265,
+          "date": "2025-04-05",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-127",
+          "donorType": "individual",
+          "amount": 22180,
+          "date": "2025-05-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-52",
+          "donorType": "individual",
+          "amount": 22178,
+          "date": "2025-01-08",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-108",
+          "donorType": "individual",
+          "amount": 22163,
+          "date": "2025-05-28",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-53",
+          "donorType": "individual",
+          "amount": 22009,
+          "date": "2025-01-01",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-4",
+          "donorType": "individual",
+          "amount": 21962,
+          "date": "2025-07-22",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-116",
+          "donorType": "individual",
+          "amount": 21818,
+          "date": "2025-02-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-47",
+          "donorType": "individual",
+          "amount": 21713,
+          "date": "2025-06-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-99",
+          "donorType": "individual",
+          "amount": 21303,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-22",
+          "donorType": "individual",
+          "amount": 21272,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-111",
+          "donorType": "individual",
+          "amount": 21130,
+          "date": "2025-08-20",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-37",
+          "donorType": "individual",
+          "amount": 20856,
+          "date": "2025-12-25",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-18",
+          "donorType": "individual",
+          "amount": 20842,
+          "date": "2025-03-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-50",
+          "donorType": "individual",
+          "amount": 20795,
+          "date": "2025-10-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-129",
+          "donorType": "individual",
+          "amount": 20592,
+          "date": "2025-03-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-109",
+          "donorType": "individual",
+          "amount": 20585,
+          "date": "2025-08-07",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-86",
+          "donorType": "individual",
+          "amount": 20473,
+          "date": "2025-03-18",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-94",
+          "donorType": "individual",
+          "amount": 20409,
+          "date": "2025-05-24",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-120",
+          "donorType": "individual",
+          "amount": 20175,
+          "date": "2025-01-25",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-133",
+          "donorType": "individual",
+          "amount": 20089,
+          "date": "2025-10-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-100",
+          "donorType": "individual",
+          "amount": 19934,
+          "date": "2025-10-01",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-7",
+          "donorType": "individual",
+          "amount": 19643,
+          "date": "2025-03-24",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-146",
+          "donorType": "individual",
+          "amount": 19634,
+          "date": "2025-05-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-5",
+          "donorType": "individual",
+          "amount": 19504,
+          "date": "2025-02-10",
+          "anonymous": true
+        },
+        {
+          "id": "arbeiderpartiet-36",
+          "donorType": "individual",
+          "amount": 19405,
+          "date": "2025-11-26",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-126",
+          "donorType": "individual",
+          "amount": 19261,
+          "date": "2025-06-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-70",
+          "donorType": "individual",
+          "amount": 18993,
+          "date": "2025-05-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-64",
+          "donorType": "individual",
+          "amount": 18975,
+          "date": "2025-09-23",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-137",
+          "donorType": "individual",
+          "amount": 18686,
+          "date": "2025-12-04",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-68",
+          "donorType": "individual",
+          "amount": 18519,
+          "date": "2025-05-21",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-83",
+          "donorType": "individual",
+          "amount": 18436,
+          "date": "2025-11-24",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-128",
+          "donorType": "individual",
+          "amount": 18360,
+          "date": "2025-08-11",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-87",
+          "donorType": "organization",
+          "amount": 18060,
+          "date": "2025-05-18",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-25",
+          "donorType": "individual",
+          "amount": 17885,
+          "date": "2025-02-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-92",
+          "donorType": "individual",
+          "amount": 17876,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-54",
+          "donorType": "individual",
+          "amount": 17800,
+          "date": "2025-09-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-147",
+          "donorType": "individual",
+          "amount": 17738,
+          "date": "2025-07-02",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-26",
+          "donorType": "individual",
+          "amount": 17726,
+          "date": "2025-11-20",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-90",
+          "donorType": "individual",
+          "amount": 17396,
+          "date": "2025-06-15",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-31",
+          "donorType": "individual",
+          "amount": 17181,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-42",
+          "donorType": "individual",
+          "amount": 17046,
+          "date": "2025-05-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-79",
+          "donorType": "individual",
+          "amount": 16431,
+          "date": "2025-07-06",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-21",
+          "donorType": "individual",
+          "amount": 16380,
+          "date": "2025-11-18",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-13",
+          "donorType": "organization",
+          "amount": 16323,
+          "date": "2025-08-19",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-112",
+          "donorType": "individual",
+          "amount": 15802,
+          "date": "2025-01-09",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-73",
+          "donorType": "individual",
+          "amount": 15515,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-105",
+          "donorType": "individual",
+          "amount": 15261,
+          "date": "2025-01-29",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-82",
+          "donorType": "individual",
+          "amount": 15001,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-38",
+          "donorType": "individual",
+          "amount": 14938,
+          "date": "2025-01-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-74",
+          "donorType": "individual",
+          "amount": 14865,
+          "date": "2025-01-12",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-24",
+          "donorType": "organization",
+          "amount": 14377,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-91",
+          "donorType": "organization",
+          "amount": 14182,
+          "date": "2025-12-14",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-8",
+          "donorType": "individual",
+          "amount": 13806,
+          "date": "2025-06-16",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-20",
+          "donorType": "individual",
+          "amount": 13317,
+          "date": "2025-08-03",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-93",
+          "donorType": "individual",
+          "amount": 12533,
+          "date": "2025-04-11",
+          "anonymous": false
+        },
+        {
+          "id": "arbeiderpartiet-138",
+          "donorType": "individual",
+          "amount": 12514,
+          "date": "2025-03-25",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 4935718,
+      "donorCount": 165
+    },
+    "Høyre": {
+      "name": "Høyre",
+      "donations": [
+        {
+          "id": "høyre-large-17",
+          "donorType": "organization",
+          "amount": 223378,
+          "date": "2025-02-28",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-18",
+          "donorType": "organization",
+          "amount": 222215,
+          "date": "2025-04-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-16",
+          "donorType": "organization",
+          "amount": 217124,
+          "date": "2025-04-20",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-20",
+          "donorType": "organization",
+          "amount": 207617,
+          "date": "2025-05-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-11",
+          "donorType": "organization",
+          "amount": 207569,
+          "date": "2025-06-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-5",
+          "donorType": "organization",
+          "amount": 198609,
+          "date": "2025-01-02",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-8",
+          "donorType": "organization",
+          "amount": 194269,
+          "date": "2025-04-27",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-15",
+          "donorType": "organization",
+          "amount": 185496,
+          "date": "2025-11-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-7",
+          "donorType": "organization",
+          "amount": 174499,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-2",
+          "donorType": "organization",
+          "amount": 167742,
+          "date": "2025-03-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-4",
+          "donorType": "organization",
+          "amount": 140735,
+          "date": "2025-10-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-9",
+          "donorType": "organization",
+          "amount": 136445,
+          "date": "2025-12-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-1",
+          "donorType": "organization",
+          "amount": 134415,
+          "date": "2025-12-25",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-6",
+          "donorType": "organization",
+          "amount": 129815,
+          "date": "2025-09-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-13",
+          "donorType": "organization",
+          "amount": 129126,
+          "date": "2025-03-24",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-10",
+          "donorType": "organization",
+          "amount": 126088,
+          "date": "2025-02-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-14",
+          "donorType": "organization",
+          "amount": 125123,
+          "date": "2025-05-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-3",
+          "donorType": "organization",
+          "amount": 117860,
+          "date": "2025-12-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-19",
+          "donorType": "organization",
+          "amount": 116749,
+          "date": "2025-12-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-large-12",
+          "donorType": "organization",
+          "amount": 97836,
+          "date": "2025-08-26",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-171",
+          "donorType": "individual",
+          "amount": 76256,
+          "date": "2025-07-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-155",
+          "donorType": "individual",
+          "amount": 76237,
+          "date": "2025-11-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-57",
+          "donorType": "individual",
+          "amount": 75650,
+          "date": "2025-03-19",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-158",
+          "donorType": "individual",
+          "amount": 75106,
+          "date": "2025-08-20",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-136",
+          "donorType": "organization",
+          "amount": 74709,
+          "date": "2025-08-31",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-137",
+          "donorType": "organization",
+          "amount": 74513,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-54",
+          "donorType": "individual",
+          "amount": 72893,
+          "date": "2025-08-13",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-80",
+          "donorType": "individual",
+          "amount": 72886,
+          "date": "2025-03-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-143",
+          "donorType": "individual",
+          "amount": 71936,
+          "date": "2025-02-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-200",
+          "donorType": "organization",
+          "amount": 71909,
+          "date": "2025-07-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-76",
+          "donorType": "organization",
+          "amount": 71785,
+          "date": "2025-08-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-151",
+          "donorType": "individual",
+          "amount": 71361,
+          "date": "2025-08-21",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-190",
+          "donorType": "individual",
+          "amount": 71280,
+          "date": "2025-08-24",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-37",
+          "donorType": "organization",
+          "amount": 70722,
+          "date": "2025-12-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-100",
+          "donorType": "individual",
+          "amount": 70682,
+          "date": "2025-07-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-145",
+          "donorType": "individual",
+          "amount": 70018,
+          "date": "2025-11-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-159",
+          "donorType": "organization",
+          "amount": 68937,
+          "date": "2025-10-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-73",
+          "donorType": "individual",
+          "amount": 68578,
+          "date": "2025-02-25",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-30",
+          "donorType": "individual",
+          "amount": 68542,
+          "date": "2025-06-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-103",
+          "donorType": "organization",
+          "amount": 68247,
+          "date": "2025-10-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-167",
+          "donorType": "individual",
+          "amount": 67979,
+          "date": "2025-08-23",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-157",
+          "donorType": "individual",
+          "amount": 67957,
+          "date": "2025-01-23",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-173",
+          "donorType": "individual",
+          "amount": 66925,
+          "date": "2025-04-15",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-132",
+          "donorType": "individual",
+          "amount": 66573,
+          "date": "2025-01-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-3",
+          "donorType": "individual",
+          "amount": 66516,
+          "date": "2025-10-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-43",
+          "donorType": "individual",
+          "amount": 65783,
+          "date": "2025-08-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-78",
+          "donorType": "individual",
+          "amount": 65099,
+          "date": "2025-05-02",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-19",
+          "donorType": "individual",
+          "amount": 64479,
+          "date": "2025-06-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-85",
+          "donorType": "individual",
+          "amount": 64348,
+          "date": "2025-12-27",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-141",
+          "donorType": "individual",
+          "amount": 64179,
+          "date": "2025-01-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-48",
+          "donorType": "individual",
+          "amount": 63684,
+          "date": "2025-08-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-23",
+          "donorType": "organization",
+          "amount": 63671,
+          "date": "2025-09-06",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-91",
+          "donorType": "individual",
+          "amount": 63543,
+          "date": "2025-06-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-35",
+          "donorType": "individual",
+          "amount": 63320,
+          "date": "2025-08-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-71",
+          "donorType": "individual",
+          "amount": 62335,
+          "date": "2025-08-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-13",
+          "donorType": "organization",
+          "amount": 62209,
+          "date": "2025-11-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-44",
+          "donorType": "individual",
+          "amount": 62195,
+          "date": "2025-10-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-14",
+          "donorType": "individual",
+          "amount": 62190,
+          "date": "2025-08-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-79",
+          "donorType": "individual",
+          "amount": 62068,
+          "date": "2025-05-09",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-112",
+          "donorType": "organization",
+          "amount": 61553,
+          "date": "2025-04-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-34",
+          "donorType": "individual",
+          "amount": 61072,
+          "date": "2025-08-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-41",
+          "donorType": "individual",
+          "amount": 61027,
+          "date": "2025-04-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-49",
+          "donorType": "organization",
+          "amount": 60843,
+          "date": "2025-02-27",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-150",
+          "donorType": "individual",
+          "amount": 60676,
+          "date": "2025-02-01",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-90",
+          "donorType": "organization",
+          "amount": 60054,
+          "date": "2025-08-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-193",
+          "donorType": "organization",
+          "amount": 59978,
+          "date": "2025-03-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-142",
+          "donorType": "individual",
+          "amount": 59438,
+          "date": "2025-08-26",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-8",
+          "donorType": "individual",
+          "amount": 59327,
+          "date": "2025-09-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-29",
+          "donorType": "individual",
+          "amount": 59221,
+          "date": "2025-10-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-83",
+          "donorType": "individual",
+          "amount": 59180,
+          "date": "2025-12-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-11",
+          "donorType": "organization",
+          "amount": 59126,
+          "date": "2025-08-14",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-118",
+          "donorType": "individual",
+          "amount": 58838,
+          "date": "2025-06-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-82",
+          "donorType": "individual",
+          "amount": 58657,
+          "date": "2025-11-27",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-81",
+          "donorType": "individual",
+          "amount": 58046,
+          "date": "2025-06-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-86",
+          "donorType": "organization",
+          "amount": 57974,
+          "date": "2025-06-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-72",
+          "donorType": "organization",
+          "amount": 57295,
+          "date": "2025-09-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-126",
+          "donorType": "individual",
+          "amount": 57294,
+          "date": "2025-03-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-24",
+          "donorType": "individual",
+          "amount": 57121,
+          "date": "2025-04-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-179",
+          "donorType": "individual",
+          "amount": 57114,
+          "date": "2025-08-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-88",
+          "donorType": "individual",
+          "amount": 57083,
+          "date": "2025-06-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-51",
+          "donorType": "individual",
+          "amount": 56908,
+          "date": "2025-10-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-140",
+          "donorType": "individual",
+          "amount": 56892,
+          "date": "2025-02-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-32",
+          "donorType": "individual",
+          "amount": 56778,
+          "date": "2025-01-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-50",
+          "donorType": "individual",
+          "amount": 56750,
+          "date": "2025-05-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-198",
+          "donorType": "individual",
+          "amount": 56652,
+          "date": "2025-09-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-174",
+          "donorType": "organization",
+          "amount": 56559,
+          "date": "2025-08-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-70",
+          "donorType": "individual",
+          "amount": 56362,
+          "date": "2025-02-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-117",
+          "donorType": "individual",
+          "amount": 56212,
+          "date": "2025-10-19",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-197",
+          "donorType": "individual",
+          "amount": 55914,
+          "date": "2025-06-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-189",
+          "donorType": "individual",
+          "amount": 55798,
+          "date": "2025-08-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-165",
+          "donorType": "individual",
+          "amount": 55329,
+          "date": "2025-05-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-168",
+          "donorType": "individual",
+          "amount": 55317,
+          "date": "2025-07-13",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-138",
+          "donorType": "individual",
+          "amount": 55104,
+          "date": "2025-06-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-75",
+          "donorType": "organization",
+          "amount": 55076,
+          "date": "2025-07-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-59",
+          "donorType": "organization",
+          "amount": 54813,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-194",
+          "donorType": "individual",
+          "amount": 54741,
+          "date": "2025-02-01",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-62",
+          "donorType": "individual",
+          "amount": 54587,
+          "date": "2025-08-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-147",
+          "donorType": "individual",
+          "amount": 54152,
+          "date": "2025-04-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-25",
+          "donorType": "individual",
+          "amount": 53692,
+          "date": "2025-11-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-176",
+          "donorType": "individual",
+          "amount": 53138,
+          "date": "2025-03-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-115",
+          "donorType": "organization",
+          "amount": 52970,
+          "date": "2025-10-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-114",
+          "donorType": "individual",
+          "amount": 52637,
+          "date": "2025-03-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-99",
+          "donorType": "individual",
+          "amount": 51642,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-125",
+          "donorType": "individual",
+          "amount": 51586,
+          "date": "2025-05-31",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-55",
+          "donorType": "individual",
+          "amount": 51461,
+          "date": "2025-06-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-38",
+          "donorType": "individual",
+          "amount": 50752,
+          "date": "2025-10-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-185",
+          "donorType": "individual",
+          "amount": 50202,
+          "date": "2025-11-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-94",
+          "donorType": "individual",
+          "amount": 49866,
+          "date": "2025-04-06",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-104",
+          "donorType": "individual",
+          "amount": 49724,
+          "date": "2025-10-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-10",
+          "donorType": "organization",
+          "amount": 49631,
+          "date": "2025-05-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-124",
+          "donorType": "organization",
+          "amount": 49493,
+          "date": "2025-05-28",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-21",
+          "donorType": "individual",
+          "amount": 49484,
+          "date": "2025-03-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-93",
+          "donorType": "individual",
+          "amount": 49478,
+          "date": "2025-05-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-166",
+          "donorType": "individual",
+          "amount": 49216,
+          "date": "2025-04-10",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-107",
+          "donorType": "individual",
+          "amount": 49033,
+          "date": "2025-10-31",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-129",
+          "donorType": "individual",
+          "amount": 48988,
+          "date": "2025-07-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-188",
+          "donorType": "individual",
+          "amount": 48897,
+          "date": "2025-11-09",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-108",
+          "donorType": "individual",
+          "amount": 48569,
+          "date": "2025-05-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-98",
+          "donorType": "organization",
+          "amount": 48529,
+          "date": "2025-02-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-33",
+          "donorType": "individual",
+          "amount": 48335,
+          "date": "2025-10-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-22",
+          "donorType": "individual",
+          "amount": 48237,
+          "date": "2025-09-20",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-113",
+          "donorType": "individual",
+          "amount": 48004,
+          "date": "2025-09-28",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-163",
+          "donorType": "organization",
+          "amount": 47764,
+          "date": "2025-02-14",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-109",
+          "donorType": "individual",
+          "amount": 47655,
+          "date": "2025-01-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-58",
+          "donorType": "individual",
+          "amount": 47281,
+          "date": "2025-05-02",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-96",
+          "donorType": "individual",
+          "amount": 46365,
+          "date": "2025-07-02",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-60",
+          "donorType": "individual",
+          "amount": 46250,
+          "date": "2025-09-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-5",
+          "donorType": "individual",
+          "amount": 45635,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-68",
+          "donorType": "individual",
+          "amount": 45623,
+          "date": "2025-06-10",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-56",
+          "donorType": "organization",
+          "amount": 45281,
+          "date": "2025-01-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-101",
+          "donorType": "individual",
+          "amount": 45080,
+          "date": "2025-11-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-40",
+          "donorType": "individual",
+          "amount": 45048,
+          "date": "2025-05-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-1",
+          "donorType": "individual",
+          "amount": 44312,
+          "date": "2025-03-10",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-146",
+          "donorType": "individual",
+          "amount": 44209,
+          "date": "2025-11-14",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-152",
+          "donorType": "organization",
+          "amount": 43758,
+          "date": "2025-11-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-183",
+          "donorType": "individual",
+          "amount": 43257,
+          "date": "2025-05-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-187",
+          "donorType": "individual",
+          "amount": 43163,
+          "date": "2025-10-19",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-172",
+          "donorType": "organization",
+          "amount": 43114,
+          "date": "2025-09-13",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-53",
+          "donorType": "individual",
+          "amount": 42981,
+          "date": "2025-09-10",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-84",
+          "donorType": "organization",
+          "amount": 42844,
+          "date": "2025-12-07",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-127",
+          "donorType": "individual",
+          "amount": 42667,
+          "date": "2025-04-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-47",
+          "donorType": "individual",
+          "amount": 42517,
+          "date": "2025-08-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-182",
+          "donorType": "individual",
+          "amount": 42332,
+          "date": "2025-12-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-52",
+          "donorType": "individual",
+          "amount": 42150,
+          "date": "2025-04-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-144",
+          "donorType": "organization",
+          "amount": 40737,
+          "date": "2025-03-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-6",
+          "donorType": "individual",
+          "amount": 40531,
+          "date": "2025-12-25",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-175",
+          "donorType": "individual",
+          "amount": 40349,
+          "date": "2025-04-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-164",
+          "donorType": "organization",
+          "amount": 39434,
+          "date": "2025-07-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-162",
+          "donorType": "individual",
+          "amount": 39322,
+          "date": "2025-08-15",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-161",
+          "donorType": "individual",
+          "amount": 39259,
+          "date": "2025-07-13",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-15",
+          "donorType": "individual",
+          "amount": 39097,
+          "date": "2025-12-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-133",
+          "donorType": "individual",
+          "amount": 38927,
+          "date": "2025-08-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-134",
+          "donorType": "individual",
+          "amount": 38736,
+          "date": "2025-01-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-131",
+          "donorType": "individual",
+          "amount": 38385,
+          "date": "2025-06-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-181",
+          "donorType": "individual",
+          "amount": 38191,
+          "date": "2025-07-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-31",
+          "donorType": "individual",
+          "amount": 37929,
+          "date": "2025-07-27",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-180",
+          "donorType": "individual",
+          "amount": 37768,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-154",
+          "donorType": "individual",
+          "amount": 37688,
+          "date": "2025-04-26",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-64",
+          "donorType": "individual",
+          "amount": 37558,
+          "date": "2025-08-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-89",
+          "donorType": "individual",
+          "amount": 36951,
+          "date": "2025-05-02",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-119",
+          "donorType": "organization",
+          "amount": 36465,
+          "date": "2025-12-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-26",
+          "donorType": "individual",
+          "amount": 36236,
+          "date": "2025-08-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-20",
+          "donorType": "individual",
+          "amount": 36214,
+          "date": "2025-07-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-2",
+          "donorType": "individual",
+          "amount": 35979,
+          "date": "2025-04-28",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-116",
+          "donorType": "individual",
+          "amount": 35962,
+          "date": "2025-11-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-195",
+          "donorType": "individual",
+          "amount": 35302,
+          "date": "2025-11-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-121",
+          "donorType": "individual",
+          "amount": 35019,
+          "date": "2025-05-04",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-16",
+          "donorType": "individual",
+          "amount": 34981,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-184",
+          "donorType": "organization",
+          "amount": 34654,
+          "date": "2025-11-14",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-149",
+          "donorType": "organization",
+          "amount": 34027,
+          "date": "2025-09-06",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-17",
+          "donorType": "individual",
+          "amount": 33684,
+          "date": "2025-02-17",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-196",
+          "donorType": "individual",
+          "amount": 33679,
+          "date": "2025-08-21",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-28",
+          "donorType": "individual",
+          "amount": 33225,
+          "date": "2025-04-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-192",
+          "donorType": "individual",
+          "amount": 33211,
+          "date": "2025-05-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-156",
+          "donorType": "individual",
+          "amount": 32888,
+          "date": "2025-12-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-77",
+          "donorType": "individual",
+          "amount": 32480,
+          "date": "2025-08-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-110",
+          "donorType": "individual",
+          "amount": 32299,
+          "date": "2025-09-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-191",
+          "donorType": "individual",
+          "amount": 32293,
+          "date": "2025-06-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-39",
+          "donorType": "individual",
+          "amount": 32244,
+          "date": "2025-06-23",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-177",
+          "donorType": "individual",
+          "amount": 32219,
+          "date": "2025-01-25",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-153",
+          "donorType": "individual",
+          "amount": 32180,
+          "date": "2025-08-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-122",
+          "donorType": "individual",
+          "amount": 31544,
+          "date": "2025-05-19",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-130",
+          "donorType": "individual",
+          "amount": 31453,
+          "date": "2025-04-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-148",
+          "donorType": "individual",
+          "amount": 31371,
+          "date": "2025-07-01",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-106",
+          "donorType": "individual",
+          "amount": 31256,
+          "date": "2025-12-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-92",
+          "donorType": "individual",
+          "amount": 31130,
+          "date": "2025-08-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-186",
+          "donorType": "organization",
+          "amount": 31010,
+          "date": "2025-01-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-178",
+          "donorType": "individual",
+          "amount": 30555,
+          "date": "2025-12-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-87",
+          "donorType": "organization",
+          "amount": 30093,
+          "date": "2025-11-14",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-135",
+          "donorType": "organization",
+          "amount": 29871,
+          "date": "2025-03-10",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-18",
+          "donorType": "individual",
+          "amount": 29765,
+          "date": "2025-04-29",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-97",
+          "donorType": "organization",
+          "amount": 29289,
+          "date": "2025-11-09",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-63",
+          "donorType": "organization",
+          "amount": 29098,
+          "date": "2025-05-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-74",
+          "donorType": "individual",
+          "amount": 28916,
+          "date": "2025-01-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-102",
+          "donorType": "individual",
+          "amount": 27596,
+          "date": "2025-07-18",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-65",
+          "donorType": "individual",
+          "amount": 27507,
+          "date": "2025-01-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-12",
+          "donorType": "individual",
+          "amount": 27239,
+          "date": "2025-01-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-95",
+          "donorType": "individual",
+          "amount": 26877,
+          "date": "2025-04-20",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-7",
+          "donorType": "individual",
+          "amount": 26856,
+          "date": "2025-01-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-169",
+          "donorType": "individual",
+          "amount": 26622,
+          "date": "2025-03-13",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-4",
+          "donorType": "individual",
+          "amount": 26545,
+          "date": "2025-01-31",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-120",
+          "donorType": "individual",
+          "amount": 26263,
+          "date": "2025-07-01",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-42",
+          "donorType": "individual",
+          "amount": 25937,
+          "date": "2025-01-12",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-66",
+          "donorType": "individual",
+          "amount": 25766,
+          "date": "2025-05-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-61",
+          "donorType": "individual",
+          "amount": 25247,
+          "date": "2025-01-16",
+          "anonymous": true
+        },
+        {
+          "id": "høyre-160",
+          "donorType": "individual",
+          "amount": 25090,
+          "date": "2025-05-11",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-27",
+          "donorType": "individual",
+          "amount": 24993,
+          "date": "2025-07-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-123",
+          "donorType": "individual",
+          "amount": 24827,
+          "date": "2025-08-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-111",
+          "donorType": "individual",
+          "amount": 24824,
+          "date": "2025-09-07",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-69",
+          "donorType": "individual",
+          "amount": 24291,
+          "date": "2025-07-05",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-45",
+          "donorType": "individual",
+          "amount": 24224,
+          "date": "2025-05-06",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-46",
+          "donorType": "individual",
+          "amount": 24042,
+          "date": "2025-04-28",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-170",
+          "donorType": "individual",
+          "amount": 23796,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-199",
+          "donorType": "individual",
+          "amount": 23709,
+          "date": "2025-01-04",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-36",
+          "donorType": "individual",
+          "amount": 23648,
+          "date": "2025-09-19",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-9",
+          "donorType": "individual",
+          "amount": 23611,
+          "date": "2025-11-30",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-128",
+          "donorType": "organization",
+          "amount": 22851,
+          "date": "2025-07-08",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-105",
+          "donorType": "individual",
+          "amount": 22748,
+          "date": "2025-11-03",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-139",
+          "donorType": "individual",
+          "amount": 22731,
+          "date": "2025-05-16",
+          "anonymous": false
+        },
+        {
+          "id": "høyre-67",
+          "donorType": "individual",
+          "amount": 22600,
+          "date": "2025-01-25",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 12729615,
+      "donorCount": 220
+    },
+    "Senterpartiet": {
+      "name": "Senterpartiet",
+      "donations": [
+        {
+          "id": "senterpartiet-large-6",
+          "donorType": "organization",
+          "amount": 88476,
+          "date": "2025-12-23",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-8",
+          "donorType": "organization",
+          "amount": 81073,
+          "date": "2025-04-09",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-5",
+          "donorType": "organization",
+          "amount": 74520,
+          "date": "2025-11-25",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-4",
+          "donorType": "organization",
+          "amount": 71622,
+          "date": "2025-06-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-1",
+          "donorType": "organization",
+          "amount": 62492,
+          "date": "2025-10-08",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-2",
+          "donorType": "organization",
+          "amount": 61496,
+          "date": "2025-06-05",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-7",
+          "donorType": "organization",
+          "amount": 52196,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-large-3",
+          "donorType": "organization",
+          "amount": 49777,
+          "date": "2025-08-18",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-59",
+          "donorType": "individual",
+          "amount": 19421,
+          "date": "2025-07-12",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-58",
+          "donorType": "individual",
+          "amount": 19353,
+          "date": "2025-12-07",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-15",
+          "donorType": "organization",
+          "amount": 19300,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-18",
+          "donorType": "individual",
+          "amount": 18917,
+          "date": "2025-10-13",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-72",
+          "donorType": "organization",
+          "amount": 18855,
+          "date": "2025-10-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-37",
+          "donorType": "organization",
+          "amount": 18808,
+          "date": "2025-01-27",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-53",
+          "donorType": "organization",
+          "amount": 18631,
+          "date": "2025-11-24",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-25",
+          "donorType": "individual",
+          "amount": 18527,
+          "date": "2025-11-22",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-47",
+          "donorType": "organization",
+          "amount": 18455,
+          "date": "2025-09-27",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-36",
+          "donorType": "organization",
+          "amount": 18407,
+          "date": "2025-11-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-41",
+          "donorType": "individual",
+          "amount": 18234,
+          "date": "2025-08-09",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-23",
+          "donorType": "individual",
+          "amount": 18222,
+          "date": "2025-09-23",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-26",
+          "donorType": "individual",
+          "amount": 18188,
+          "date": "2025-03-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-30",
+          "donorType": "individual",
+          "amount": 18186,
+          "date": "2025-03-08",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-49",
+          "donorType": "individual",
+          "amount": 17898,
+          "date": "2025-05-01",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-27",
+          "donorType": "organization",
+          "amount": 17570,
+          "date": "2025-07-25",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-5",
+          "donorType": "individual",
+          "amount": 17362,
+          "date": "2025-04-03",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-9",
+          "donorType": "individual",
+          "amount": 17334,
+          "date": "2025-09-03",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-42",
+          "donorType": "organization",
+          "amount": 17193,
+          "date": "2025-09-30",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-75",
+          "donorType": "individual",
+          "amount": 16894,
+          "date": "2025-11-02",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-34",
+          "donorType": "individual",
+          "amount": 16850,
+          "date": "2025-03-30",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-16",
+          "donorType": "organization",
+          "amount": 16796,
+          "date": "2025-08-12",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-12",
+          "donorType": "individual",
+          "amount": 16364,
+          "date": "2025-02-28",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-65",
+          "donorType": "organization",
+          "amount": 16184,
+          "date": "2025-04-11",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-80",
+          "donorType": "individual",
+          "amount": 16094,
+          "date": "2025-03-18",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-17",
+          "donorType": "individual",
+          "amount": 16088,
+          "date": "2025-02-17",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-20",
+          "donorType": "individual",
+          "amount": 16024,
+          "date": "2025-03-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-7",
+          "donorType": "individual",
+          "amount": 15982,
+          "date": "2025-09-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-56",
+          "donorType": "individual",
+          "amount": 15738,
+          "date": "2025-02-15",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-45",
+          "donorType": "individual",
+          "amount": 15624,
+          "date": "2025-10-25",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-77",
+          "donorType": "organization",
+          "amount": 15521,
+          "date": "2025-07-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-1",
+          "donorType": "individual",
+          "amount": 15464,
+          "date": "2025-12-18",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-44",
+          "donorType": "individual",
+          "amount": 15407,
+          "date": "2025-04-02",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-31",
+          "donorType": "individual",
+          "amount": 15353,
+          "date": "2025-05-21",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-35",
+          "donorType": "individual",
+          "amount": 15336,
+          "date": "2025-03-05",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-76",
+          "donorType": "individual",
+          "amount": 14934,
+          "date": "2025-11-27",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-8",
+          "donorType": "individual",
+          "amount": 14888,
+          "date": "2025-08-18",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-68",
+          "donorType": "individual",
+          "amount": 14740,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-52",
+          "donorType": "individual",
+          "amount": 14537,
+          "date": "2025-09-27",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-67",
+          "donorType": "individual",
+          "amount": 14438,
+          "date": "2025-04-28",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-2",
+          "donorType": "individual",
+          "amount": 14357,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-28",
+          "donorType": "individual",
+          "amount": 14060,
+          "date": "2025-04-11",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-73",
+          "donorType": "individual",
+          "amount": 13928,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-11",
+          "donorType": "individual",
+          "amount": 13862,
+          "date": "2025-09-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-61",
+          "donorType": "individual",
+          "amount": 13729,
+          "date": "2025-02-05",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-38",
+          "donorType": "individual",
+          "amount": 13472,
+          "date": "2025-07-28",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-40",
+          "donorType": "individual",
+          "amount": 13425,
+          "date": "2025-06-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-3",
+          "donorType": "organization",
+          "amount": 13270,
+          "date": "2025-07-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-64",
+          "donorType": "individual",
+          "amount": 13268,
+          "date": "2025-09-14",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-21",
+          "donorType": "individual",
+          "amount": 13181,
+          "date": "2025-11-20",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-55",
+          "donorType": "organization",
+          "amount": 13165,
+          "date": "2025-06-09",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-29",
+          "donorType": "organization",
+          "amount": 13084,
+          "date": "2025-08-03",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-69",
+          "donorType": "individual",
+          "amount": 12727,
+          "date": "2025-10-05",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-57",
+          "donorType": "individual",
+          "amount": 12699,
+          "date": "2025-12-05",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-13",
+          "donorType": "individual",
+          "amount": 12540,
+          "date": "2025-11-18",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-78",
+          "donorType": "individual",
+          "amount": 12255,
+          "date": "2025-03-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-6",
+          "donorType": "individual",
+          "amount": 11856,
+          "date": "2025-03-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-39",
+          "donorType": "individual",
+          "amount": 11779,
+          "date": "2025-03-21",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-10",
+          "donorType": "individual",
+          "amount": 11590,
+          "date": "2025-07-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-32",
+          "donorType": "individual",
+          "amount": 11538,
+          "date": "2025-06-26",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-48",
+          "donorType": "individual",
+          "amount": 11498,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-19",
+          "donorType": "individual",
+          "amount": 11203,
+          "date": "2025-12-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-60",
+          "donorType": "organization",
+          "amount": 11076,
+          "date": "2025-03-29",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-43",
+          "donorType": "organization",
+          "amount": 11025,
+          "date": "2025-08-03",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-71",
+          "donorType": "individual",
+          "amount": 11016,
+          "date": "2025-05-10",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-79",
+          "donorType": "individual",
+          "amount": 10832,
+          "date": "2025-07-24",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-54",
+          "donorType": "individual",
+          "amount": 10702,
+          "date": "2025-02-27",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-24",
+          "donorType": "individual",
+          "amount": 10598,
+          "date": "2025-02-07",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-14",
+          "donorType": "individual",
+          "amount": 10314,
+          "date": "2025-07-30",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-70",
+          "donorType": "individual",
+          "amount": 10217,
+          "date": "2025-03-20",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-4",
+          "donorType": "individual",
+          "amount": 10210,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-74",
+          "donorType": "organization",
+          "amount": 10045,
+          "date": "2025-09-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-50",
+          "donorType": "individual",
+          "amount": 10044,
+          "date": "2025-08-13",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-22",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-03-08",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-33",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-12-01",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-46",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-07-16",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-51",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-11-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-62",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-19",
+          "anonymous": false
+        },
+        {
+          "id": "senterpartiet-63",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-11-10",
+          "anonymous": true
+        },
+        {
+          "id": "senterpartiet-66",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-09",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 1688334,
+      "donorCount": 88
+    },
+    "Fremskrittspartiet": {
+      "name": "Fremskrittspartiet",
+      "donations": [
+        {
+          "id": "fremskrittspartiet-large-8",
+          "donorType": "organization",
+          "amount": 109172,
+          "date": "2025-11-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-4",
+          "donorType": "organization",
+          "amount": 104505,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-10",
+          "donorType": "organization",
+          "amount": 102599,
+          "date": "2025-03-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-5",
+          "donorType": "organization",
+          "amount": 101795,
+          "date": "2025-07-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-9",
+          "donorType": "organization",
+          "amount": 98023,
+          "date": "2025-12-29",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-7",
+          "donorType": "organization",
+          "amount": 96566,
+          "date": "2025-01-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-1",
+          "donorType": "organization",
+          "amount": 88327,
+          "date": "2025-03-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-3",
+          "donorType": "organization",
+          "amount": 78675,
+          "date": "2025-05-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-2",
+          "donorType": "organization",
+          "amount": 77553,
+          "date": "2025-06-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-11",
+          "donorType": "organization",
+          "amount": 71905,
+          "date": "2025-06-10",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-6",
+          "donorType": "organization",
+          "amount": 63421,
+          "date": "2025-10-07",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-large-12",
+          "donorType": "organization",
+          "amount": 51263,
+          "date": "2025-03-24",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-3",
+          "donorType": "individual",
+          "amount": 30751,
+          "date": "2025-03-31",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-67",
+          "donorType": "organization",
+          "amount": 30698,
+          "date": "2025-02-18",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-106",
+          "donorType": "individual",
+          "amount": 30644,
+          "date": "2025-07-16",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-113",
+          "donorType": "individual",
+          "amount": 30247,
+          "date": "2025-07-21",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-71",
+          "donorType": "organization",
+          "amount": 29972,
+          "date": "2025-05-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-33",
+          "donorType": "individual",
+          "amount": 29844,
+          "date": "2025-03-09",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-19",
+          "donorType": "individual",
+          "amount": 29804,
+          "date": "2025-02-17",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-15",
+          "donorType": "individual",
+          "amount": 29491,
+          "date": "2025-04-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-98",
+          "donorType": "individual",
+          "amount": 29294,
+          "date": "2025-08-30",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-102",
+          "donorType": "organization",
+          "amount": 29182,
+          "date": "2025-05-19",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-93",
+          "donorType": "individual",
+          "amount": 28736,
+          "date": "2025-02-28",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-115",
+          "donorType": "individual",
+          "amount": 28704,
+          "date": "2025-07-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-12",
+          "donorType": "individual",
+          "amount": 28429,
+          "date": "2025-04-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-57",
+          "donorType": "individual",
+          "amount": 28379,
+          "date": "2025-01-21",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-43",
+          "donorType": "organization",
+          "amount": 28339,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-39",
+          "donorType": "individual",
+          "amount": 28164,
+          "date": "2025-07-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-85",
+          "donorType": "individual",
+          "amount": 28118,
+          "date": "2025-03-17",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-46",
+          "donorType": "individual",
+          "amount": 28019,
+          "date": "2025-12-24",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-120",
+          "donorType": "individual",
+          "amount": 27986,
+          "date": "2025-12-29",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-63",
+          "donorType": "individual",
+          "amount": 27965,
+          "date": "2025-09-08",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-62",
+          "donorType": "individual",
+          "amount": 27746,
+          "date": "2025-06-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-101",
+          "donorType": "individual",
+          "amount": 27520,
+          "date": "2025-08-26",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-25",
+          "donorType": "individual",
+          "amount": 27509,
+          "date": "2025-04-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-10",
+          "donorType": "individual",
+          "amount": 27448,
+          "date": "2025-02-19",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-84",
+          "donorType": "individual",
+          "amount": 27391,
+          "date": "2025-07-20",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-51",
+          "donorType": "organization",
+          "amount": 27370,
+          "date": "2025-12-18",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-31",
+          "donorType": "individual",
+          "amount": 27294,
+          "date": "2025-06-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-52",
+          "donorType": "individual",
+          "amount": 26341,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-91",
+          "donorType": "individual",
+          "amount": 26205,
+          "date": "2025-11-23",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-60",
+          "donorType": "individual",
+          "amount": 26185,
+          "date": "2025-05-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-78",
+          "donorType": "individual",
+          "amount": 25963,
+          "date": "2025-08-14",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-74",
+          "donorType": "individual",
+          "amount": 25899,
+          "date": "2025-02-26",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-96",
+          "donorType": "organization",
+          "amount": 25817,
+          "date": "2025-08-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-6",
+          "donorType": "organization",
+          "amount": 25674,
+          "date": "2025-09-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-69",
+          "donorType": "individual",
+          "amount": 25409,
+          "date": "2025-03-18",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-79",
+          "donorType": "individual",
+          "amount": 25208,
+          "date": "2025-02-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-20",
+          "donorType": "individual",
+          "amount": 25151,
+          "date": "2025-01-22",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-89",
+          "donorType": "individual",
+          "amount": 24979,
+          "date": "2025-01-04",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-108",
+          "donorType": "individual",
+          "amount": 24528,
+          "date": "2025-10-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-36",
+          "donorType": "individual",
+          "amount": 24319,
+          "date": "2025-05-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-75",
+          "donorType": "individual",
+          "amount": 24114,
+          "date": "2025-07-25",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-30",
+          "donorType": "individual",
+          "amount": 24091,
+          "date": "2025-05-06",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-77",
+          "donorType": "organization",
+          "amount": 24091,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-88",
+          "donorType": "individual",
+          "amount": 24020,
+          "date": "2025-01-31",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-44",
+          "donorType": "individual",
+          "amount": 23256,
+          "date": "2025-05-19",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-8",
+          "donorType": "individual",
+          "amount": 23166,
+          "date": "2025-07-12",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-38",
+          "donorType": "individual",
+          "amount": 23093,
+          "date": "2025-11-10",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-87",
+          "donorType": "organization",
+          "amount": 23085,
+          "date": "2025-07-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-68",
+          "donorType": "individual",
+          "amount": 22960,
+          "date": "2025-10-02",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-70",
+          "donorType": "organization",
+          "amount": 22305,
+          "date": "2025-05-29",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-80",
+          "donorType": "individual",
+          "amount": 22291,
+          "date": "2025-11-11",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-117",
+          "donorType": "individual",
+          "amount": 22143,
+          "date": "2025-09-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-5",
+          "donorType": "individual",
+          "amount": 22097,
+          "date": "2025-10-20",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-4",
+          "donorType": "individual",
+          "amount": 21992,
+          "date": "2025-10-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-24",
+          "donorType": "individual",
+          "amount": 21830,
+          "date": "2025-07-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-9",
+          "donorType": "individual",
+          "amount": 21788,
+          "date": "2025-10-22",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-48",
+          "donorType": "individual",
+          "amount": 21670,
+          "date": "2025-09-22",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-56",
+          "donorType": "individual",
+          "amount": 21418,
+          "date": "2025-01-03",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-28",
+          "donorType": "individual",
+          "amount": 21394,
+          "date": "2025-05-05",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-111",
+          "donorType": "individual",
+          "amount": 21367,
+          "date": "2025-10-07",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-16",
+          "donorType": "organization",
+          "amount": 21131,
+          "date": "2025-11-27",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-45",
+          "donorType": "organization",
+          "amount": 21085,
+          "date": "2025-12-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-29",
+          "donorType": "organization",
+          "amount": 21056,
+          "date": "2025-05-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-22",
+          "donorType": "organization",
+          "amount": 20854,
+          "date": "2025-04-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-55",
+          "donorType": "individual",
+          "amount": 20503,
+          "date": "2025-02-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-27",
+          "donorType": "organization",
+          "amount": 20383,
+          "date": "2025-09-07",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-40",
+          "donorType": "individual",
+          "amount": 20273,
+          "date": "2025-04-07",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-23",
+          "donorType": "individual",
+          "amount": 20163,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-82",
+          "donorType": "individual",
+          "amount": 20145,
+          "date": "2025-02-19",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-109",
+          "donorType": "individual",
+          "amount": 20074,
+          "date": "2025-03-22",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-104",
+          "donorType": "individual",
+          "amount": 19967,
+          "date": "2025-09-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-14",
+          "donorType": "individual",
+          "amount": 19852,
+          "date": "2025-10-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-34",
+          "donorType": "individual",
+          "amount": 19724,
+          "date": "2025-09-24",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-81",
+          "donorType": "individual",
+          "amount": 19484,
+          "date": "2025-12-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-90",
+          "donorType": "individual",
+          "amount": 18969,
+          "date": "2025-06-15",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-66",
+          "donorType": "organization",
+          "amount": 18937,
+          "date": "2025-07-31",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-118",
+          "donorType": "individual",
+          "amount": 18899,
+          "date": "2025-08-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-105",
+          "donorType": "individual",
+          "amount": 18522,
+          "date": "2025-06-16",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-18",
+          "donorType": "individual",
+          "amount": 18468,
+          "date": "2025-09-14",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-42",
+          "donorType": "individual",
+          "amount": 18396,
+          "date": "2025-09-18",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-65",
+          "donorType": "individual",
+          "amount": 18333,
+          "date": "2025-04-22",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-41",
+          "donorType": "organization",
+          "amount": 17815,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-103",
+          "donorType": "organization",
+          "amount": 17756,
+          "date": "2025-12-08",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-49",
+          "donorType": "individual",
+          "amount": 17561,
+          "date": "2025-09-18",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-83",
+          "donorType": "individual",
+          "amount": 17516,
+          "date": "2025-01-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-50",
+          "donorType": "individual",
+          "amount": 17411,
+          "date": "2025-08-10",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-64",
+          "donorType": "individual",
+          "amount": 17354,
+          "date": "2025-06-26",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-92",
+          "donorType": "individual",
+          "amount": 17170,
+          "date": "2025-01-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-35",
+          "donorType": "individual",
+          "amount": 16677,
+          "date": "2025-06-20",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-1",
+          "donorType": "individual",
+          "amount": 16579,
+          "date": "2025-04-05",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-97",
+          "donorType": "organization",
+          "amount": 16541,
+          "date": "2025-11-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-37",
+          "donorType": "individual",
+          "amount": 16413,
+          "date": "2025-03-02",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-47",
+          "donorType": "organization",
+          "amount": 16370,
+          "date": "2025-04-30",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-53",
+          "donorType": "organization",
+          "amount": 16204,
+          "date": "2025-04-17",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-17",
+          "donorType": "individual",
+          "amount": 16115,
+          "date": "2025-04-10",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-112",
+          "donorType": "organization",
+          "amount": 16021,
+          "date": "2025-03-15",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-21",
+          "donorType": "organization",
+          "amount": 15406,
+          "date": "2025-04-17",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-86",
+          "donorType": "organization",
+          "amount": 15208,
+          "date": "2025-03-27",
+          "anonymous": true
+        },
+        {
+          "id": "fremskrittspartiet-59",
+          "donorType": "individual",
+          "amount": 14989,
+          "date": "2025-09-30",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-54",
+          "donorType": "individual",
+          "amount": 14947,
+          "date": "2025-07-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-32",
+          "donorType": "individual",
+          "amount": 14163,
+          "date": "2025-05-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-73",
+          "donorType": "organization",
+          "amount": 13950,
+          "date": "2025-11-05",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-72",
+          "donorType": "individual",
+          "amount": 13793,
+          "date": "2025-03-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-110",
+          "donorType": "individual",
+          "amount": 13727,
+          "date": "2025-01-15",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-99",
+          "donorType": "individual",
+          "amount": 13702,
+          "date": "2025-04-15",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-107",
+          "donorType": "organization",
+          "amount": 13665,
+          "date": "2025-01-09",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-100",
+          "donorType": "individual",
+          "amount": 13526,
+          "date": "2025-07-03",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-11",
+          "donorType": "organization",
+          "amount": 13485,
+          "date": "2025-09-11",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-119",
+          "donorType": "individual",
+          "amount": 13413,
+          "date": "2025-02-08",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-2",
+          "donorType": "organization",
+          "amount": 13279,
+          "date": "2025-08-02",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-114",
+          "donorType": "organization",
+          "amount": 13142,
+          "date": "2025-01-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-7",
+          "donorType": "organization",
+          "amount": 13085,
+          "date": "2025-12-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-116",
+          "donorType": "individual",
+          "amount": 12377,
+          "date": "2025-07-26",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-76",
+          "donorType": "individual",
+          "amount": 12204,
+          "date": "2025-03-03",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-61",
+          "donorType": "individual",
+          "amount": 12050,
+          "date": "2025-07-27",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-94",
+          "donorType": "individual",
+          "amount": 11930,
+          "date": "2025-04-28",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-58",
+          "donorType": "organization",
+          "amount": 11627,
+          "date": "2025-07-13",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-95",
+          "donorType": "organization",
+          "amount": 11599,
+          "date": "2025-07-06",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-13",
+          "donorType": "individual",
+          "amount": 11528,
+          "date": "2025-01-01",
+          "anonymous": false
+        },
+        {
+          "id": "fremskrittspartiet-26",
+          "donorType": "individual",
+          "amount": 11126,
+          "date": "2025-12-18",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 3589339,
+      "donorCount": 132
+    },
+    "Sosialistisk Venstreparti": {
+      "name": "Sosialistisk Venstreparti",
+      "donations": [
+        {
+          "id": "sosialistisk-venstreparti-large-4",
+          "donorType": "organization",
+          "amount": 69936,
+          "date": "2025-06-17",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-large-2",
+          "donorType": "organization",
+          "amount": 66283,
+          "date": "2025-04-23",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-large-5",
+          "donorType": "organization",
+          "amount": 66202,
+          "date": "2025-02-03",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-large-3",
+          "donorType": "organization",
+          "amount": 49974,
+          "date": "2025-03-07",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-large-1",
+          "donorType": "organization",
+          "amount": 40175,
+          "date": "2025-11-02",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-large-6",
+          "donorType": "organization",
+          "amount": 39880,
+          "date": "2025-09-09",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-47",
+          "donorType": "individual",
+          "amount": 17745,
+          "date": "2025-09-11",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-5",
+          "donorType": "individual",
+          "amount": 17641,
+          "date": "2025-05-03",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-14",
+          "donorType": "organization",
+          "amount": 17540,
+          "date": "2025-05-17",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-36",
+          "donorType": "individual",
+          "amount": 17496,
+          "date": "2025-04-13",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-35",
+          "donorType": "organization",
+          "amount": 17455,
+          "date": "2025-09-29",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-41",
+          "donorType": "individual",
+          "amount": 16857,
+          "date": "2025-04-08",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-45",
+          "donorType": "individual",
+          "amount": 16612,
+          "date": "2025-02-04",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-27",
+          "donorType": "organization",
+          "amount": 16520,
+          "date": "2025-12-20",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-10",
+          "donorType": "individual",
+          "amount": 16146,
+          "date": "2025-08-21",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-32",
+          "donorType": "individual",
+          "amount": 16103,
+          "date": "2025-02-26",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-15",
+          "donorType": "individual",
+          "amount": 15710,
+          "date": "2025-12-25",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-1",
+          "donorType": "individual",
+          "amount": 15681,
+          "date": "2025-04-24",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-16",
+          "donorType": "individual",
+          "amount": 15558,
+          "date": "2025-02-26",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-37",
+          "donorType": "individual",
+          "amount": 15367,
+          "date": "2025-05-27",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-31",
+          "donorType": "individual",
+          "amount": 15293,
+          "date": "2025-09-09",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-38",
+          "donorType": "organization",
+          "amount": 14939,
+          "date": "2025-01-22",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-11",
+          "donorType": "individual",
+          "amount": 14683,
+          "date": "2025-12-17",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-17",
+          "donorType": "individual",
+          "amount": 14601,
+          "date": "2025-11-27",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-34",
+          "donorType": "individual",
+          "amount": 14459,
+          "date": "2025-10-24",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-6",
+          "donorType": "individual",
+          "amount": 14402,
+          "date": "2025-06-06",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-46",
+          "donorType": "individual",
+          "amount": 14339,
+          "date": "2025-10-21",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-58",
+          "donorType": "individual",
+          "amount": 14137,
+          "date": "2025-03-15",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-60",
+          "donorType": "individual",
+          "amount": 14066,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-40",
+          "donorType": "individual",
+          "amount": 14019,
+          "date": "2025-08-08",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-8",
+          "donorType": "individual",
+          "amount": 13956,
+          "date": "2025-03-31",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-57",
+          "donorType": "individual",
+          "amount": 13541,
+          "date": "2025-01-16",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-30",
+          "donorType": "individual",
+          "amount": 13118,
+          "date": "2025-07-01",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-39",
+          "donorType": "individual",
+          "amount": 12904,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-55",
+          "donorType": "individual",
+          "amount": 12818,
+          "date": "2025-03-14",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-26",
+          "donorType": "organization",
+          "amount": 12773,
+          "date": "2025-08-25",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-12",
+          "donorType": "individual",
+          "amount": 12686,
+          "date": "2025-07-17",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-28",
+          "donorType": "organization",
+          "amount": 12590,
+          "date": "2025-07-09",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-20",
+          "donorType": "individual",
+          "amount": 12567,
+          "date": "2025-09-10",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-22",
+          "donorType": "individual",
+          "amount": 12373,
+          "date": "2025-04-12",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-19",
+          "donorType": "individual",
+          "amount": 12079,
+          "date": "2025-06-02",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-2",
+          "donorType": "individual",
+          "amount": 11929,
+          "date": "2025-03-01",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-53",
+          "donorType": "individual",
+          "amount": 11698,
+          "date": "2025-12-15",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-3",
+          "donorType": "individual",
+          "amount": 11469,
+          "date": "2025-12-11",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-49",
+          "donorType": "individual",
+          "amount": 11450,
+          "date": "2025-02-19",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-9",
+          "donorType": "individual",
+          "amount": 11420,
+          "date": "2025-07-12",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-42",
+          "donorType": "individual",
+          "amount": 11063,
+          "date": "2025-06-08",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-43",
+          "donorType": "individual",
+          "amount": 10842,
+          "date": "2025-06-20",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-51",
+          "donorType": "individual",
+          "amount": 10755,
+          "date": "2025-09-02",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-56",
+          "donorType": "individual",
+          "amount": 10519,
+          "date": "2025-07-12",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-24",
+          "donorType": "individual",
+          "amount": 10487,
+          "date": "2025-11-21",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-33",
+          "donorType": "individual",
+          "amount": 10464,
+          "date": "2025-10-04",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-25",
+          "donorType": "individual",
+          "amount": 10297,
+          "date": "2025-11-12",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-13",
+          "donorType": "individual",
+          "amount": 10151,
+          "date": "2025-10-16",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-48",
+          "donorType": "individual",
+          "amount": 10104,
+          "date": "2025-05-11",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-4",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-09-27",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-7",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-10-29",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-18",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-09-03",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-21",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-03-01",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-23",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-07-23",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-29",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-09-24",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-44",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-16",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-50",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-05-05",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-52",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-07-07",
+          "anonymous": false
+        },
+        {
+          "id": "sosialistisk-venstreparti-54",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-05-14",
+          "anonymous": true
+        },
+        {
+          "id": "sosialistisk-venstreparti-59",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-09-24",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 1113872,
+      "donorCount": 66
+    },
+    "Rødt": {
+      "name": "Rødt",
+      "donations": [
+        {
+          "id": "rødt-large-1",
+          "donorType": "organization",
+          "amount": 54503,
+          "date": "2025-12-21",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-large-2",
+          "donorType": "organization",
+          "amount": 52132,
+          "date": "2025-03-03",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-large-3",
+          "donorType": "organization",
+          "amount": 38934,
+          "date": "2025-12-12",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-large-4",
+          "donorType": "organization",
+          "amount": 35572,
+          "date": "2025-06-01",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-3",
+          "donorType": "individual",
+          "amount": 11960,
+          "date": "2025-11-26",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-36",
+          "donorType": "organization",
+          "amount": 11466,
+          "date": "2025-10-24",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-31",
+          "donorType": "individual",
+          "amount": 11324,
+          "date": "2025-11-20",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-7",
+          "donorType": "individual",
+          "amount": 11315,
+          "date": "2025-08-10",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-6",
+          "donorType": "individual",
+          "amount": 11080,
+          "date": "2025-12-03",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-2",
+          "donorType": "individual",
+          "amount": 11060,
+          "date": "2025-05-23",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-28",
+          "donorType": "individual",
+          "amount": 10776,
+          "date": "2025-03-31",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-24",
+          "donorType": "individual",
+          "amount": 10576,
+          "date": "2025-01-27",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-18",
+          "donorType": "individual",
+          "amount": 10571,
+          "date": "2025-06-04",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-38",
+          "donorType": "individual",
+          "amount": 10478,
+          "date": "2025-08-21",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-17",
+          "donorType": "individual",
+          "amount": 10401,
+          "date": "2025-11-29",
+          "anonymous": true
+        },
+        {
+          "id": "rødt-1",
+          "donorType": "individual",
+          "amount": 10116,
+          "date": "2025-10-29",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-4",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-03-27",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-5",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-08-09",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-8",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-10-16",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-9",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-09",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-10",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-04-06",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-11",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-07-21",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-12",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-01-26",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-13",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-13",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-14",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-26",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-15",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-03-09",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-16",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-09-28",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-19",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-11-11",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-20",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-12-13",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-21",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-01-24",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-22",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-09-20",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-23",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-02",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-25",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-11-08",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-26",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-11-13",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-27",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-11",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-29",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-01-05",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-30",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-25",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-32",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-18",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-33",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-06-17",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-34",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-03-19",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-35",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-37",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-17",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-39",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-04",
+          "anonymous": false
+        },
+        {
+          "id": "rødt-40",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-05-11",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 592264,
+      "donorCount": 44
+    },
+    "Venstre": {
+      "name": "Venstre",
+      "donations": [
+        {
+          "id": "venstre-large-5",
+          "donorType": "organization",
+          "amount": 96432,
+          "date": "2025-04-19",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-large-1",
+          "donorType": "organization",
+          "amount": 90410,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-large-4",
+          "donorType": "organization",
+          "amount": 64046,
+          "date": "2025-09-14",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-large-3",
+          "donorType": "organization",
+          "amount": 57760,
+          "date": "2025-03-27",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-large-2",
+          "donorType": "organization",
+          "amount": 40366,
+          "date": "2025-06-06",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-40",
+          "donorType": "organization",
+          "amount": 21912,
+          "date": "2025-11-14",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-10",
+          "donorType": "individual",
+          "amount": 21753,
+          "date": "2025-05-06",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-37",
+          "donorType": "individual",
+          "amount": 21753,
+          "date": "2025-03-15",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-31",
+          "donorType": "individual",
+          "amount": 21332,
+          "date": "2025-05-28",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-24",
+          "donorType": "individual",
+          "amount": 21261,
+          "date": "2025-12-20",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-49",
+          "donorType": "individual",
+          "amount": 20909,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-15",
+          "donorType": "individual",
+          "amount": 20777,
+          "date": "2025-06-18",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-19",
+          "donorType": "individual",
+          "amount": 20505,
+          "date": "2025-08-02",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-5",
+          "donorType": "individual",
+          "amount": 20500,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-35",
+          "donorType": "organization",
+          "amount": 19986,
+          "date": "2025-02-12",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-4",
+          "donorType": "organization",
+          "amount": 19925,
+          "date": "2025-03-20",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-32",
+          "donorType": "individual",
+          "amount": 19441,
+          "date": "2025-10-11",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-34",
+          "donorType": "organization",
+          "amount": 19281,
+          "date": "2025-12-19",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-42",
+          "donorType": "organization",
+          "amount": 19110,
+          "date": "2025-06-25",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-22",
+          "donorType": "individual",
+          "amount": 18896,
+          "date": "2025-10-25",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-38",
+          "donorType": "individual",
+          "amount": 18834,
+          "date": "2025-05-19",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-14",
+          "donorType": "individual",
+          "amount": 18653,
+          "date": "2025-06-11",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-17",
+          "donorType": "individual",
+          "amount": 18537,
+          "date": "2025-09-09",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-9",
+          "donorType": "individual",
+          "amount": 17894,
+          "date": "2025-03-15",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-47",
+          "donorType": "individual",
+          "amount": 17851,
+          "date": "2025-02-24",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-7",
+          "donorType": "organization",
+          "amount": 17837,
+          "date": "2025-05-26",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-1",
+          "donorType": "individual",
+          "amount": 17041,
+          "date": "2025-10-12",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-16",
+          "donorType": "individual",
+          "amount": 17018,
+          "date": "2025-02-14",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-50",
+          "donorType": "organization",
+          "amount": 16920,
+          "date": "2025-11-09",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-12",
+          "donorType": "individual",
+          "amount": 16900,
+          "date": "2025-04-24",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-48",
+          "donorType": "individual",
+          "amount": 16767,
+          "date": "2025-06-12",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-46",
+          "donorType": "individual",
+          "amount": 16417,
+          "date": "2025-03-08",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-30",
+          "donorType": "individual",
+          "amount": 16252,
+          "date": "2025-09-01",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-45",
+          "donorType": "individual",
+          "amount": 16213,
+          "date": "2025-08-25",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-11",
+          "donorType": "individual",
+          "amount": 15567,
+          "date": "2025-06-19",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-8",
+          "donorType": "individual",
+          "amount": 15562,
+          "date": "2025-02-04",
+          "anonymous": true
+        },
+        {
+          "id": "venstre-2",
+          "donorType": "individual",
+          "amount": 15190,
+          "date": "2025-07-25",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-18",
+          "donorType": "organization",
+          "amount": 15168,
+          "date": "2025-11-15",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-39",
+          "donorType": "individual",
+          "amount": 15029,
+          "date": "2025-05-04",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-20",
+          "donorType": "individual",
+          "amount": 14868,
+          "date": "2025-07-30",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-13",
+          "donorType": "individual",
+          "amount": 14411,
+          "date": "2025-01-13",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-43",
+          "donorType": "individual",
+          "amount": 14234,
+          "date": "2025-06-01",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-3",
+          "donorType": "individual",
+          "amount": 14102,
+          "date": "2025-07-08",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-25",
+          "donorType": "individual",
+          "amount": 13329,
+          "date": "2025-08-15",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-6",
+          "donorType": "individual",
+          "amount": 12922,
+          "date": "2025-12-29",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-33",
+          "donorType": "organization",
+          "amount": 12775,
+          "date": "2025-02-12",
+          "anonymous": true
+        },
+        {
+          "id": "venstre-41",
+          "donorType": "individual",
+          "amount": 12715,
+          "date": "2025-10-04",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-23",
+          "donorType": "individual",
+          "amount": 11638,
+          "date": "2025-07-02",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-44",
+          "donorType": "organization",
+          "amount": 11574,
+          "date": "2025-06-27",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-21",
+          "donorType": "individual",
+          "amount": 11329,
+          "date": "2025-01-06",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-28",
+          "donorType": "individual",
+          "amount": 11020,
+          "date": "2025-05-15",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-29",
+          "donorType": "individual",
+          "amount": 11007,
+          "date": "2025-07-31",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-26",
+          "donorType": "individual",
+          "amount": 10582,
+          "date": "2025-06-06",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-27",
+          "donorType": "individual",
+          "amount": 10318,
+          "date": "2025-12-30",
+          "anonymous": false
+        },
+        {
+          "id": "venstre-36",
+          "donorType": "individual",
+          "amount": 10041,
+          "date": "2025-04-26",
+          "anonymous": false
+        }
+      ],
+      "totalAmount": 1172870,
+      "donorCount": 55
+    },
+    "Kristelig Folkeparti": {
+      "name": "Kristelig Folkeparti",
+      "donations": [
+        {
+          "id": "kristelig-folkeparti-large-4",
+          "donorType": "organization",
+          "amount": 78478,
+          "date": "2025-12-28",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-large-3",
+          "donorType": "organization",
+          "amount": 56263,
+          "date": "2025-08-11",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-large-5",
+          "donorType": "organization",
+          "amount": 54495,
+          "date": "2025-12-12",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-large-1",
+          "donorType": "organization",
+          "amount": 45962,
+          "date": "2025-09-04",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-large-2",
+          "donorType": "organization",
+          "amount": 41363,
+          "date": "2025-12-29",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-11",
+          "donorType": "individual",
+          "amount": 15808,
+          "date": "2025-09-29",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-15",
+          "donorType": "individual",
+          "amount": 15774,
+          "date": "2025-01-23",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-12",
+          "donorType": "individual",
+          "amount": 15711,
+          "date": "2025-01-15",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-19",
+          "donorType": "individual",
+          "amount": 15378,
+          "date": "2025-03-27",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-3",
+          "donorType": "organization",
+          "amount": 15243,
+          "date": "2025-02-01",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-44",
+          "donorType": "individual",
+          "amount": 15139,
+          "date": "2025-07-28",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-23",
+          "donorType": "individual",
+          "amount": 15075,
+          "date": "2025-03-20",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-28",
+          "donorType": "individual",
+          "amount": 14977,
+          "date": "2025-04-11",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-33",
+          "donorType": "individual",
+          "amount": 14890,
+          "date": "2025-05-23",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-6",
+          "donorType": "individual",
+          "amount": 14777,
+          "date": "2025-05-02",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-30",
+          "donorType": "individual",
+          "amount": 14202,
+          "date": "2025-08-27",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-16",
+          "donorType": "individual",
+          "amount": 14102,
+          "date": "2025-05-30",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-31",
+          "donorType": "organization",
+          "amount": 14003,
+          "date": "2025-07-05",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-38",
+          "donorType": "individual",
+          "amount": 13941,
+          "date": "2025-07-19",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-37",
+          "donorType": "individual",
+          "amount": 13610,
+          "date": "2025-10-14",
+          "anonymous": true
+        },
+        {
+          "id": "kristelig-folkeparti-27",
+          "donorType": "individual",
+          "amount": 13602,
+          "date": "2025-07-22",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-14",
+          "donorType": "organization",
+          "amount": 13509,
+          "date": "2025-12-05",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-17",
+          "donorType": "individual",
+          "amount": 13223,
+          "date": "2025-10-09",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-10",
+          "donorType": "organization",
+          "amount": 13179,
+          "date": "2025-07-23",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-39",
+          "donorType": "organization",
+          "amount": 13167,
+          "date": "2025-07-14",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-5",
+          "donorType": "organization",
+          "amount": 12819,
+          "date": "2025-07-28",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-36",
+          "donorType": "individual",
+          "amount": 12611,
+          "date": "2025-05-26",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-42",
+          "donorType": "organization",
+          "amount": 12536,
+          "date": "2025-05-02",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-32",
+          "donorType": "individual",
+          "amount": 12286,
+          "date": "2025-01-09",
+          "anonymous": true
+        },
+        {
+          "id": "kristelig-folkeparti-9",
+          "donorType": "organization",
+          "amount": 12147,
+          "date": "2025-05-12",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-21",
+          "donorType": "organization",
+          "amount": 12018,
+          "date": "2025-09-06",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-29",
+          "donorType": "individual",
+          "amount": 12000,
+          "date": "2025-12-28",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-8",
+          "donorType": "individual",
+          "amount": 11223,
+          "date": "2025-03-25",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-41",
+          "donorType": "organization",
+          "amount": 11196,
+          "date": "2025-11-07",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-4",
+          "donorType": "organization",
+          "amount": 10962,
+          "date": "2025-03-10",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-20",
+          "donorType": "individual",
+          "amount": 10705,
+          "date": "2025-06-30",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-24",
+          "donorType": "individual",
+          "amount": 10696,
+          "date": "2025-10-01",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-13",
+          "donorType": "organization",
+          "amount": 10626,
+          "date": "2025-09-30",
+          "anonymous": true
+        },
+        {
+          "id": "kristelig-folkeparti-26",
+          "donorType": "individual",
+          "amount": 10450,
+          "date": "2025-01-15",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-1",
+          "donorType": "individual",
+          "amount": 10113,
+          "date": "2025-04-08",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-18",
+          "donorType": "individual",
+          "amount": 10087,
+          "date": "2025-02-18",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-34",
+          "donorType": "individual",
+          "amount": 10005,
+          "date": "2025-04-18",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-2",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-07-30",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-7",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-01",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-22",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-05-26",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-25",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-10-13",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-35",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-02-11",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-40",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-05-25",
+          "anonymous": true
+        },
+        {
+          "id": "kristelig-folkeparti-43",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-01-16",
+          "anonymous": false
+        },
+        {
+          "id": "kristelig-folkeparti-45",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-18",
+          "anonymous": true
+        }
+      ],
+      "totalAmount": 838351,
+      "donorCount": 50
+    },
+    "Miljøpartiet De Grønne": {
+      "name": "Miljøpartiet De Grønne",
+      "donations": [
+        {
+          "id": "miljøpartiet-de-grønne-large-4",
+          "donorType": "organization",
+          "amount": 61175,
+          "date": "2025-09-02",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-large-1",
+          "donorType": "organization",
+          "amount": 53501,
+          "date": "2025-11-10",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-large-2",
+          "donorType": "organization",
+          "amount": 47279,
+          "date": "2025-09-16",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-large-3",
+          "donorType": "organization",
+          "amount": 46077,
+          "date": "2025-04-24",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-22",
+          "donorType": "individual",
+          "amount": 15298,
+          "date": "2025-01-31",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-34",
+          "donorType": "organization",
+          "amount": 15264,
+          "date": "2025-11-29",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-4",
+          "donorType": "individual",
+          "amount": 14998,
+          "date": "2025-10-05",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-7",
+          "donorType": "individual",
+          "amount": 14952,
+          "date": "2025-02-21",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-12",
+          "donorType": "individual",
+          "amount": 14842,
+          "date": "2025-01-11",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-5",
+          "donorType": "individual",
+          "amount": 14713,
+          "date": "2025-09-28",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-35",
+          "donorType": "individual",
+          "amount": 14447,
+          "date": "2025-06-10",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-3",
+          "donorType": "individual",
+          "amount": 14420,
+          "date": "2025-10-25",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-14",
+          "donorType": "individual",
+          "amount": 14299,
+          "date": "2025-08-15",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-10",
+          "donorType": "individual",
+          "amount": 14241,
+          "date": "2025-05-26",
+          "anonymous": true
+        },
+        {
+          "id": "miljøpartiet-de-grønne-24",
+          "donorType": "individual",
+          "amount": 13929,
+          "date": "2025-07-15",
+          "anonymous": true
+        },
+        {
+          "id": "miljøpartiet-de-grønne-2",
+          "donorType": "individual",
+          "amount": 13141,
+          "date": "2025-07-25",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-31",
+          "donorType": "organization",
+          "amount": 13043,
+          "date": "2025-09-26",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-21",
+          "donorType": "organization",
+          "amount": 12908,
+          "date": "2025-05-22",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-6",
+          "donorType": "organization",
+          "amount": 12867,
+          "date": "2025-05-18",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-11",
+          "donorType": "individual",
+          "amount": 12771,
+          "date": "2025-08-22",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-1",
+          "donorType": "individual",
+          "amount": 12770,
+          "date": "2025-03-29",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-28",
+          "donorType": "individual",
+          "amount": 12512,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-27",
+          "donorType": "individual",
+          "amount": 12401,
+          "date": "2025-04-16",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-29",
+          "donorType": "individual",
+          "amount": 12181,
+          "date": "2025-07-07",
+          "anonymous": true
+        },
+        {
+          "id": "miljøpartiet-de-grønne-30",
+          "donorType": "organization",
+          "amount": 12054,
+          "date": "2025-05-28",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-23",
+          "donorType": "individual",
+          "amount": 11956,
+          "date": "2025-07-28",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-19",
+          "donorType": "individual",
+          "amount": 11666,
+          "date": "2025-04-14",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-8",
+          "donorType": "organization",
+          "amount": 11128,
+          "date": "2025-11-17",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-18",
+          "donorType": "individual",
+          "amount": 11002,
+          "date": "2025-01-02",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-9",
+          "donorType": "individual",
+          "amount": 10836,
+          "date": "2025-05-14",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-17",
+          "donorType": "individual",
+          "amount": 10169,
+          "date": "2025-06-01",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-13",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-10-08",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-15",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-10-25",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-16",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-06-28",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-20",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-11-13",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-25",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-08-18",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-26",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-04-19",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-32",
+          "donorType": "individual",
+          "amount": 10000,
+          "date": "2025-03-23",
+          "anonymous": false
+        },
+        {
+          "id": "miljøpartiet-de-grønne-33",
+          "donorType": "organization",
+          "amount": 10000,
+          "date": "2025-06-09",
+          "anonymous": true
+        }
+      ],
+      "totalAmount": 642840,
+      "donorCount": 39
+    }
+  }
+}

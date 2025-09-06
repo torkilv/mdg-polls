@@ -10,6 +10,7 @@
     "fetch-data": "node scripts/poll-fetcher.js",
     "fetch-historical": "node scripts/historical-fetcher.js",
     "update-polls": "node scripts/update-polls.js && npm run sync-data",
+    "analyze-donations": "node scripts/donation-analyzer.js",
     "create-sample-data": "node scripts/create-sample-data.js",
     "enhance-poll-data": "node scripts/enhance-poll-data.js",
     "fix-poll-classification": "node scripts/fix-poll-classification.js",
