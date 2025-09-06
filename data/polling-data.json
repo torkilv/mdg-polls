@@ -13676,6 +13676,14 @@
           "daysUntilElection": 3,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5583",
           "scope": "national"
+        },
+        {
+          "date": "2025-09-06",
+          "mdgPercentage": 6,
+          "pollster": "pollofpolls.no - Norfakta for Nationen / Klassekampen 6. september 2025",
+          "daysUntilElection": 2,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5584",
+          "scope": "national"
         }
       ]
     }
