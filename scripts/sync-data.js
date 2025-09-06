@@ -55,6 +55,20 @@ try {
   fs.writeFileSync(publicFile, JSON.stringify(nationalData, null, 2));
   fs.writeFileSync(srcFile, JSON.stringify(nationalData, null, 2));
   
+  // Also sync real donation statistics if they exist
+  const realDonationStatsSource = path.join(__dirname, '..', 'data', 'real-api-donation-statistics.json');
+  if (fs.existsSync(realDonationStatsSource)) {
+    const donationStatsPublic = path.join(__dirname, '..', 'public', 'data', 'donation-statistics.json');
+    const donationStatsSrc = path.join(__dirname, '..', 'src', 'data', 'donation-statistics.json');
+    
+    const donationData = fs.readFileSync(realDonationStatsSource, 'utf8');
+    fs.writeFileSync(donationStatsPublic, donationData);
+    fs.writeFileSync(donationStatsSrc, donationData);
+    
+    console.log(`📄 Updated: ${donationStatsPublic}`);
+    console.log(`📄 Updated: ${donationStatsSrc}`);
+  }
+  
   console.log('\n✅ Data sync complete!');
   console.log(`📄 Updated: ${publicFile}`);
   console.log(`📄 Updated: ${srcFile}`);

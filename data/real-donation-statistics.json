@@ -1,0 +1,16 @@
+{
+  "year": 2025,
+  "lastUpdated": "2025-09-06T18:33:39.460Z",
+  "source": "partifinansiering.no (visible data)",
+  "overview": {
+    "totalParties": 0,
+    "totalDonations": 0,
+    "totalAmount": 0,
+    "averageDonationSize": 0,
+    "medianDonationSize": 0,
+    "top10PercentThreshold": 0,
+    "largestDonation": 0,
+    "smallestDonation": 0
+  },
+  "parties": {}
+}
