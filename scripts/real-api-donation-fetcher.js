@@ -31,18 +31,47 @@ class RealApiDonationFetcher {
     
     const allDonations = [];
     
-    // Fetch data for all major parties
-    for (const [partyCode, partyName] of Object.entries(this.partyCodes)) {
-      try {
-        console.log(`📊 Fetching donations for ${partyName} (${partyCode})...`);
-        const partyDonations = await this.fetchPartyDonations(partyCode);
-        allDonations.push(...partyDonations);
-        
-        // Be respectful to the server
-        await new Promise(resolve => setTimeout(resolve, 1000));
-        
-      } catch (error) {
-        console.warn(`⚠️ Failed to fetch ${partyName}: ${error.message}`);
+    // First, let's try fetching ALL parties (no filter) to see what's available
+    console.log('📊 First fetching ALL parties to see available data...');
+    try {
+      const allPartyDonations = await this.fetchPartyDonations(''); // Empty string = all parties
+      console.log(`📊 Found ${allPartyDonations.length} total donations across all parties`);
+      
+      // Group by party to see what we're getting
+      const partyBreakdown = {};
+      allPartyDonations.forEach(donation => {
+        const party = donation.PartyName;
+        if (!partyBreakdown[party]) {
+          partyBreakdown[party] = 0;
+        }
+        partyBreakdown[party]++;
+      });
+      
+      console.log('\n📊 Party breakdown from ALL data:');
+      Object.entries(partyBreakdown)
+        .sort(([,a], [,b]) => b - a)
+        .forEach(([party, count]) => {
+          console.log(`  ${party}: ${count} donations`);
+        });
+      
+      allDonations.push(...allPartyDonations);
+      
+    } catch (error) {
+      console.warn('⚠️ Failed to fetch all parties, trying individual codes...');
+      
+      // Fallback to individual party codes
+      for (const [partyCode, partyName] of Object.entries(this.partyCodes)) {
+        try {
+          console.log(`📊 Fetching donations for ${partyName} (${partyCode})...`);
+          const partyDonations = await this.fetchPartyDonations(partyCode);
+          allDonations.push(...partyDonations);
+          
+          // Be respectful to the server
+          await new Promise(resolve => setTimeout(resolve, 1000));
+          
+        } catch (error) {
+          console.warn(`⚠️ Failed to fetch ${partyName}: ${error.message}`);
+        }
       }
     }
     
@@ -58,15 +87,16 @@ class RealApiDonationFetcher {
     let pageNumber = 1;
     let hasMorePages = true;
     
-    while (hasMorePages && pageNumber <= 10) { // Safety limit
+    while (hasMorePages && pageNumber <= 20) { // Increased limit to catch more pages
       try {
-        console.log(`  📄 Page ${pageNumber} for ${partyCode}...`);
+        const partyLabel = partyCode ? `${partyCode}` : 'ALL';
+        console.log(`  📄 Page ${pageNumber} for ${partyLabel}...`);
         
         // Use the exact parameters from the captured request
         const formData = new URLSearchParams({
           year: '2025',
           name: '', // Empty for all donors
-          centralPartyListCode: partyCode,
+          centralPartyListCode: partyCode, // Empty string will fetch all parties
           partyLevelId: '-1', // All levels
           countyId: '-1', // All counties
           municipalityId: '-1', // All municipalities
@@ -179,42 +209,112 @@ class RealApiDonationFetcher {
    * Standardize party names from API to our format
    */
   standardizePartyName(apiPartyName) {
-    // Handle the various party name formats from the API
-    const mapping = {
-      'Høyre': 'Høyre',
-      'HØYRE': 'Høyre',
-      'Arbeiderpartiet': 'Arbeiderpartiet',
-      'ARBEIDERPARTIET': 'Arbeiderpartiet',
-      'Senterpartiet': 'Senterpartiet',
-      'SENTERPARTIET': 'Senterpartiet',
-      'Fremskrittspartiet': 'Fremskrittspartiet',
-      'FREMSKRITTSPARTIET': 'Fremskrittspartiet',
-      'Sosialistisk Venstreparti': 'Sosialistisk Venstreparti',
-      'SOSIALISTISK VENSTREPARTI': 'Sosialistisk Venstreparti',
-      'Rødt': 'Rødt',
-      'RØDT': 'Rødt',
-      'Venstre': 'Venstre',
-      'VENSTRE': 'Venstre',
-      'Kristelig Folkeparti': 'Kristelig Folkeparti',
-      'KRISTELIG FOLKEPARTI': 'Kristelig Folkeparti',
-      'Miljøpartiet De Grønne': 'Miljøpartiet De Grønne',
-      'MILJØPARTIET DE GRØNNE': 'Miljøpartiet De Grønne'
+    const name = apiPartyName.toUpperCase();
+    
+    // Define comprehensive patterns to match all party variations
+    const partyPatterns = {
+      'Arbeiderpartiet': [
+        'ARBEIDERPARTIET', 'ARBEIDERPARTI', 'ARBEIDARPARTI', 'ARBEIDERNES UNGDOMSFYLKING', 
+        'AUF', 'BERGENS ARBEIDERPARTI', 'OSLO ARBEIDERPARTI', 'TRØNDELAG ARBEIDERPARTI',
+        'AGDER ARBEIDERPARTI', 'VESTLAND ARBEIDARPARTI', 'ROGALAND ARBEIDERPARTI',
+        'STAVANGER ARBEIDERPARTI', 'BUSKERUD ARBEIDERPARTI', 'TROMSØ ARBEIDERPARTI',
+        'NORDLAND ARBEIDERPARTI', 'MODUM ARBEIDERPARTI', 'ARBEIDERPARTIET SANDNES',
+        'VESTFOLD ARBEIDERPARTI', 'ARBEIDERPARTIET ØSTFOLD', 'TELEMARK ARBEIDERPARTI',
+        'INNLANDET ARBEIDERPARTI', 'MØRE OG ROMSDAL ARBEIDERPARTI', 'SUNNFJORD ARBEIDARPARTI',
+        'FROGN ARBEIDERPARTI', 'INDRE ØSTFOLD ARBEIDERPARTI', 'KRISTIANSUND ARBEIDERPARTI',
+        'ØVRE EIKER ARBEIDERPARTI', 'GJESDAL ARBEIDERPARTI'
+      ],
+      'Høyre': [
+        'HØYRE', 'HØGRE', 'UNGE HØYRES LANDSFORBUND', 'AGDER HØYRE', 'VESTLAND HØGRE',
+        'OSLO HØYRE', 'ROGALAND HØYRE', 'NORDLAND HØYRE', 'MØRE OG ROMSDAL HØYRE',
+        'TRØNDELAG HØYRE', 'STAVANGER HØYRE', 'BERGEN HØYRE', 'ØYGARDEN HØGRE',
+        'HØYRE TELEMARK', 'LARVIK HØYRE', 'ØSTFOLD HØYRE', 'SKIEN HØYRE',
+        'VESTBY HØYRE', 'HAMAR HØYRE', 'BÆRUM HØYRE', 'NANNESTAD HØYRE',
+        'RANA HØYRE', 'HØYRE ØRLAND', 'HØYRE TØNSBERG', 'INDRE ØSTFOLD HØYRE',
+        'SOGNDAL HØGRE'
+      ],
+      'Senterpartiet': [
+        'SENTERPARTIET', 'SENTERPARTI', 'SENTERUNGDOMMEN', 'SENTERPARTIET AKERSHUS',
+        'VESTLAND SENTERPARTI', 'MØRE OG ROMSDAL SENTERPARTI', 'TRØNDELAG SENTERPARTI',
+        'SENTERPARTIET BUSKERUD', 'OSLO SENTERPARTI', 'MÅLSELV SENTERPARTI',
+        'GJØVIK SENTERPARTI', 'GRAN SENTERPARTI', 'LILLESTRØM SP', 'ÅS SENTERPARTI',
+        'AGDER SENTERPARTI', 'MODUM SENTERPARTI', 'FROLAND SENTERPARTI',
+        'NORDLAND SENTERPARTI', 'SENTERPARTIET I LEVANGER', 'NOME SENTERPARTI',
+        'VEFSN SENTERPARTI', 'KVINNHERAD SENTERPARTI', 'NESBYEN SENTERPARTI',
+        'SENTERPARTIET NARVIK', 'FLÅ SENTERPARTI', 'LILLEHAMMER SENTERPARTI',
+        'BJØRNAFJORDEN SENTERPARTI', 'VENNESLA SENTERPARTI', 'MELHUS SENTERPARTI',
+        'SENTERPARTIET ALVER', 'HYLLESTAD SENTERPARTI', 'SENTERPARTIET STEINKJER',
+        'VÅGAN SENTERPARTI', 'VÅLER SENTERPARTI', 'INNLANDET SENTERPARTI',
+        'TRONDHEIM SENTERPARTI', 'NOTODDEN SENTERPARTI', 'VINDAFJORD SENTERPARTI',
+        'LYNGDAL SENTERPARTI', 'ROGALAND SENTERPARTI', 'LURØY SENTERPARTI',
+        'SALTDAL SENTERPARTI', 'BRØNNØY SENTERPARTI', 'RINGSAKER SENTERPARTI',
+        'RENNEBU SENTERPARTI', 'ULLENSAKER SENTERPARTI', 'NAMSOS SENTERPARTI',
+        'SURNADAL SENTERPARTI', 'ØRLAND SENTERPART', 'MARKER SENTERPARTI',
+        'TYSVÆR SENTERPARTI', 'HOL SENTERPARTI', 'HAMARØY SENTERPARTI',
+        'ORKLAND SENTERPARTI', 'STRAND SENTERPARTI', 'TINGVOLL SENTERPARTI',
+        'INNLANDET SENTERUNGDOM', 'ENGERDAL SENTERPARTI', 'GRATANGEN SENTERPARTI',
+        'HJELMELAND SENTERPARTI'
+      ],
+      'Fremskrittspartiet': [
+        'FREMSKRITTSPARTIET', 'FREMSKRITTSPARTIETS UNGDOM', 'FRP', 'NORDLAND FRP',
+        'ROGALAND FREMSKRITTSPARTI', 'GRIMSTAD FRP', 'VESTFOLD FRP',
+        'KRISTIANSAND FRP', 'OSLO FRP', 'ØYGARDEN FRP', 'MOSS FRP',
+        'AGDER FRP', 'MØRE OG ROMSDAL FRP', 'BJØRNAFJORDEN FRP',
+        'GJØVIK FRP', 'BÆRUM FRP'
+      ],
+      'Sosialistisk Venstreparti': [
+        'SOSIALISTISK VENSTREPARTI', 'SOSIALISTISK UNGDOM', 'SV', 'VESTLAND SV',
+        'AGDER SOSIALISTISK VENSTREPARTI', 'BERGEN SOSIALISTISK VENSTREPARTI',
+        'TROMSØ SV', 'OSLO SOSIALISTISK VENSTREPARTI', 'SOSIALISTISK VENSTREPARTI AKERSHUS',
+        'TRONDHEIM SV', 'SOSIALISTISK VENSTREPARTI VESTFOLD', 'TRØNDELAG SOSIALISTISK VENSTREPARTI',
+        'BUSKERUD SOSIALISTISK VENSTREPARTI', 'TELEMARK SOSIALISTISKE VENSTREPARTI',
+        'KRISTIANSAND SOSIALISTISK VENSTREPARTI', 'ASKØY SV', 'ASKER SV',
+        'ØSTFOLD SV', 'NORDLAND SV', 'MØRE OG ROMSDAL SV', 'HAUGESUND SOSIALISTISK VENSTREPARTI',
+        'SOSIALISTISK VENSTREPARTI TROMS', 'ROGALAND SOSIALISTISK VENSTREPARTI',
+        'RAUMA SV', 'LILLESTRØM SV', 'SANDNES SV', 'TØNSBERG SV',
+        'SOSIALISTISK VENSTREPARTI FINNMARK', 'HARSTAD SV', 'OSLO SOSIALISTISK UNGDOM',
+        'TIME SV', 'STAVANGER SV'
+      ],
+      'Rødt': [
+        'RØDT', 'RØD UNGDOM', 'RØDT BUSKERUD', 'RØDT LILLEHAMMER',
+        'RAUDT VESTLAND', 'RØDT OSLO', 'RØDT AGDER'
+      ],
+      'Venstre': [
+        'VENSTRE', 'NORGES UNGE VENSTRE', 'OSLO VENSTRE', 'VESTLAND VENSTRE',
+        'STAVANGER VENSTRE', 'BERGEN VENSTRE', 'AGDER VENSTRE',
+        'ROGALAND VENSTRE', 'HAUGESUND VENSTRE', 'KRISTIANSAND VENSTRE',
+        'MØRE OG ROMSDAL VENSTRE', 'HORTEN VENSTRE', 'NORDLAND VENSTRE',
+        'AURSKOG HØLAND VENSTRE', 'INNLANDET VENSTRE', 'LILLEHAMMER VENSTRE',
+        'OSLO UNGE VENSTRE'
+      ],
+      'Kristelig Folkeparti': [
+        'KRISTELIG FOLKEPARTI', 'KRISTELIG FOLKEPARTIS UNGDOM', 'KRF', 'KRISTELEG FOLKEPARTI',
+        'AGDER KRF', 'ROGALAND KRISTELIG FOLKEPARTI', 'KRISTIANSAND KRF',
+        'STAVANGER KRF', 'VESTLAND KRISTELIG FOLKEPARTI', 'KRISTELIG FOLKEPARTI ØSTFOLD',
+        'NORDLAND KRISTELIG FOLKEPARTI', 'HÅ KRF', 'KRISTELIG FOLKEPARTI TELEMARK',
+        'INNLANDET KRISTELIG FOLKEPARTI', 'TRØNDELAG KRISTELIG FOLKEPARTI',
+        'VENNESLA KRF', 'KRISTELEG FOLKEPARTI I MØRE OG ROMSDAL',
+        'KRISTELIG FOLKEPARTI AKERSHUS', 'KRISTELIG FOLKEPARTI VESTFOLD',
+        'ØRSTA LAG AV KRISTELEG FOLKEPARTI'
+      ],
+      'Miljøpartiet De Grønne': [
+        'MILJØPARTIET DE GRØNNE', 'GRØNN UNGDOM', 'MDG', 'OSLO MILJØPARTIET DE GRØNNE',
+        'MDG VESTLAND', 'MILJØPARTIET DE GRØNNE AGDER', 'MILJØPARTIET DE GRØNNE AKERSHUS',
+        'MILJØPARTIET DE GRØNNE MØRE OG ROMSDAL', 'FROGN MILJØPARTIET DE GRØNNE',
+        'GRØNN UNGDOM TROMS'
+      ]
     };
 
-    // Check direct mapping first
-    if (mapping[apiPartyName]) {
-      return mapping[apiPartyName];
-    }
-
-    // Handle regional/local party names that contain the main party name
-    for (const [key, value] of Object.entries(mapping)) {
-      if (apiPartyName.toUpperCase().includes(key.toUpperCase()) || 
-          apiPartyName.toUpperCase().includes(value.toUpperCase())) {
-        return value;
+    // Find the main party this name belongs to
+    for (const [mainParty, patterns] of Object.entries(partyPatterns)) {
+      for (const pattern of patterns) {
+        if (name.includes(pattern)) {
+          return mainParty;
+        }
       }
     }
 
-    // Return original if no mapping found (for regional parties)
+    // Return original if no mapping found
     return apiPartyName;
   }
 
