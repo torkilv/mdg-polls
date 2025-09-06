@@ -47,15 +47,8 @@ const DonationAnalysis: React.FC = () => {
         const data = await response.json();
         setDonationData(data);
       } catch (err) {
-        console.warn('Failed to fetch from public directory, using fallback data:', err);
-        // Try fallback - import directly (this won't work in production but helps in development)
-        try {
-          const fallbackData = await import('../../data/donation-statistics.json');
-          setDonationData(fallbackData.default as DonationData);
-        } catch (fallbackErr) {
-          console.error('Fallback also failed:', fallbackErr);
-          setError('Unable to load donation data. The data files may not be available yet.');
-        }
+        console.error('Error fetching donation data:', err);
+        setError('Unable to load donation data. The data may not be available yet.');
       } finally {
         setLoading(false);
       }
