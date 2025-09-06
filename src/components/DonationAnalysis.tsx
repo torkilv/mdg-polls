@@ -38,21 +38,24 @@ const DonationAnalysis: React.FC = () => {
   useEffect(() => {
     const fetchDonationData = async () => {
       try {
-        let response;
-        try {
-          response = await fetch('/data/donation-statistics.json');
-        } catch {
-          response = await fetch('/src/data/donation-statistics.json');
-        }
-
+        // Try to fetch donation statistics from the public JSON file
+        const response = await fetch(`${process.env.PUBLIC_URL}/data/donation-statistics.json`);
         if (!response.ok) {
-          throw new Error('Failed to fetch donation data');
+          throw new Error(`Failed to fetch donation data: ${response.status} ${response.statusText}`);
         }
 
         const data = await response.json();
         setDonationData(data);
       } catch (err) {
-        setError('Unable to load donation data. Run "npm run analyze-donations" to generate data.');
+        console.warn('Failed to fetch from public directory, using fallback data:', err);
+        // Try fallback - import directly (this won't work in production but helps in development)
+        try {
+          const fallbackData = await import('../../data/donation-statistics.json');
+          setDonationData(fallbackData.default as DonationData);
+        } catch (fallbackErr) {
+          console.error('Fallback also failed:', fallbackErr);
+          setError('Unable to load donation data. The data files may not be available yet.');
+        }
       } finally {
         setLoading(false);
       }
