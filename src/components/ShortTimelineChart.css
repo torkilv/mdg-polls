@@ -34,7 +34,7 @@
   
   .short-timeline-chart .chart-container {
     height: 350px;
-    margin-bottom: 1rem; /* Extra space for bottom legend */
+    margin-bottom: 0.5rem;
   }
   
   .short-timeline-chart .chart-info {
@@ -51,7 +51,7 @@
   
   .short-timeline-chart .chart-container {
     height: 300px;
-    margin-bottom: 1.5rem; /* More space for legend on small screens */
+    margin-bottom: 0.5rem;
   }
   
   .short-timeline-chart .chart-info {

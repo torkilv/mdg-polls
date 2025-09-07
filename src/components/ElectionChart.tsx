@@ -51,7 +51,7 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
 
   // Prepare chart data with both polls and rolling average
   const datasets: any[] = [
-    // Individual polls as scatter points
+    // Individual polls as scatter points - now hidden on all devices
     {
       label: 'Individual Polls',
       data: sortedPolls.map(poll => ({
@@ -63,12 +63,12 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
       })),
       backgroundColor: '#22c55e',
       borderColor: '#22c55e',
-      pointRadius: isMobile ? 0 : 5, // Hide points on mobile
-      pointHoverRadius: isMobile ? 0 : 7,
+      pointRadius: 0, // Hide points on all devices
+      pointHoverRadius: 0,
       showLine: false,
       type: 'scatter' as const,
       order: 2,
-      hidden: isMobile // Hide individual polls on mobile
+      hidden: true // Hide individual polls on all devices
     }
   ];
 
@@ -110,7 +110,7 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        position: isMobile ? 'bottom' as const : 'top' as const,
+        position: 'top' as const,
         align: 'center' as const,
         labels: {
           font: {
@@ -119,13 +119,10 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
           },
           padding: isMobile ? 8 : 20,
           boxWidth: isMobile ? 15 : 20,
-          // Filter out individual poll datasets on mobile
+          // Filter out individual poll datasets on all devices
           filter: function(legendItem: any, chartData: any) {
-            if (isMobile) {
-              // Only show averages on mobile, hide individual polls
-              return legendItem.text.includes('Average');
-            }
-            return true;
+            // Only show averages, hide individual polls
+            return legendItem.text.includes('Average');
           }
         },
       },

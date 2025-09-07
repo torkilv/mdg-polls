@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mdg-polls/static/css/main.d52ad41b.css",
-    "main.js": "/mdg-polls/static/js/main.477bd496.js",
+    "main.css": "/mdg-polls/static/css/main.860eb88f.css",
+    "main.js": "/mdg-polls/static/js/main.36fa2597.js",
     "index.html": "/mdg-polls/index.html",
-    "main.d52ad41b.css.map": "/mdg-polls/static/css/main.d52ad41b.css.map",
-    "main.477bd496.js.map": "/mdg-polls/static/js/main.477bd496.js.map"
+    "main.860eb88f.css.map": "/mdg-polls/static/css/main.860eb88f.css.map",
+    "main.36fa2597.js.map": "/mdg-polls/static/js/main.36fa2597.js.map"
   },
   "entrypoints": [
-    "static/css/main.d52ad41b.css",
-    "static/js/main.477bd496.js"
+    "static/css/main.860eb88f.css",
+    "static/js/main.36fa2597.js"
   ]
 }

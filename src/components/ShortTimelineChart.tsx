@@ -96,19 +96,19 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
   // Create datasets for Chart.js
   const datasets: any[] = [];
 
-  // Add individual poll datasets (scatter plots)
+  // Add individual poll datasets (scatter plots) - now hidden on all devices
   processedData.forEach(({ year, pollPoints, color }) => {
     datasets.push({
       label: `${year}`,
       data: pollPoints,
       backgroundColor: color,
       borderColor: color,
-      pointRadius: isMobile ? 0 : 4, // Hide points on mobile
-      pointHoverRadius: isMobile ? 0 : 6,
+      pointRadius: 0, // Hide points on all devices
+      pointHoverRadius: 0,
       showLine: false,
       type: 'scatter' as const,
       order: 2,
-      hidden: isMobile // Hide the entire dataset on mobile
+      hidden: true // Hide the entire dataset on all devices
     });
   });
 
@@ -163,7 +163,7 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
       },
       legend: {
         display: true,
-        position: isMobile ? 'bottom' as const : 'top' as const,
+        position: 'top' as const,
         align: 'center' as const,
         labels: {
           usePointStyle: true,
@@ -172,13 +172,10 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
           font: {
             size: isMobile ? 11 : 12
           },
-          // Filter out individual poll datasets on mobile
+          // Filter out individual poll datasets on all devices
           filter: function(legendItem: any, chartData: any) {
-            if (isMobile) {
-              // Only show averages and June baselines on mobile, hide individual polls
-              return legendItem.text.includes('Avg') || legendItem.text.includes('June');
-            }
-            return true;
+            // Only show averages and June baselines, hide individual polls
+            return legendItem.text.includes('Avg') || legendItem.text.includes('June');
           }
         }
       },

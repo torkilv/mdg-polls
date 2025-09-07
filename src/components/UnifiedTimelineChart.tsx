@@ -58,7 +58,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
 
       const color = colorPalette[year] || '#6b7280';
       
-      // Add scatter plot for individual polls
+      // Add scatter plot for individual polls - now hidden on all devices
       datasets.push({
         label: `${year} Polls`,
         data: sortedPolls.map(poll => ({
@@ -70,12 +70,12 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
         })),
         backgroundColor: color,
         borderColor: color,
-        pointRadius: isMobile ? 0 : 4, // Hide points on mobile
-        pointHoverRadius: isMobile ? 0 : 6,
+        pointRadius: 0, // Hide points on all devices
+        pointHoverRadius: 0,
         showLine: false,
         type: 'scatter' as const,
         order: 2,
-        hidden: isMobile // Hide individual polls on mobile
+        hidden: true // Hide individual polls on all devices
       });
       
       // Add rolling average line
@@ -119,7 +119,7 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        position: isMobile ? 'bottom' as const : 'top' as const,
+        position: 'top' as const,
         align: 'center' as const,
         labels: {
           font: {
@@ -130,13 +130,10 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
           pointStyle: 'circle',
           padding: isMobile ? 8 : 20,
           boxWidth: isMobile ? 15 : 20,
-          // Filter out individual poll datasets on mobile
+          // Filter out individual poll datasets on all devices
           filter: function(legendItem: any, chartData: any) {
-            if (isMobile) {
-              // Only show averages on mobile, hide individual polls
-              return legendItem.text.includes('Average');
-            }
-            return true;
+            // Only show averages, hide individual polls
+            return legendItem.text.includes('Average');
           }
         },
       },
