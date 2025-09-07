@@ -13,13 +13,20 @@
 .analysis-header h2 {
   font-size: 2.2em;
   color: #2c3e50;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+}
+
+.data-subtitle {
+  color: #27ae60;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin: 5px 0;
 }
 
 .last-updated {
   color: #7f8c8d;
   font-size: 0.9em;
-  margin: 0;
+  margin: 5px 0 0 0;
 }
 
 .loading, .error {
@@ -125,6 +132,35 @@
 
 .table-row:hover {
   background: #e3f2fd;
+}
+
+.data-source {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+.data-source h4 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+}
+
+.data-source p {
+  margin-bottom: 12px;
+  line-height: 1.6;
+  color: #495057;
+}
+
+.data-source a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.data-source a:hover {
+  text-decoration: underline;
 }
 
 .party-name {

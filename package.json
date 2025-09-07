@@ -14,6 +14,7 @@
     "fetch-real-donations": "node scripts/real-donation-fetcher.js",
     "test-manual-donations": "node scripts/manual-donation-fetcher.js",
     "fetch-real-api-donations": "node scripts/real-api-donation-fetcher.js",
+    "verify-donations": "node scripts/verify-donation-data.js",
     "create-sample-data": "node scripts/create-sample-data.js",
     "enhance-poll-data": "node scripts/enhance-poll-data.js",
     "fix-poll-classification": "node scripts/fix-poll-classification.js",
