@@ -14,6 +14,7 @@ import {
 import { Chart } from 'react-chartjs-2';
 import { ElectionData } from '../types';
 import { calculateRollingAverage, AveragePoint } from '../utils/rollingAverage';
+import { useIsMobile } from '../hooks/useIsMobile';
 import './ShortTimelineChart.css';
 
 ChartJS.register(
@@ -41,6 +42,8 @@ interface PollPoint {
 }
 
 const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
+  const isMobile = useIsMobile();
+  
   // Color palette for different election years
   const colorPalette = {
     '2013': '#FF6384',
@@ -96,15 +99,16 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
   // Add individual poll datasets (scatter plots)
   processedData.forEach(({ year, pollPoints, color }) => {
     datasets.push({
-              label: `${year}`,
+      label: `${year}`,
       data: pollPoints,
       backgroundColor: color,
       borderColor: color,
-      pointRadius: 4,
-      pointHoverRadius: 6,
+      pointRadius: isMobile ? 0 : 4, // Hide points on mobile
+      pointHoverRadius: isMobile ? 0 : 6,
       showLine: false,
       type: 'scatter' as const,
-      order: 2
+      order: 2,
+      hidden: isMobile // Hide the entire dataset on mobile
     });
   });
 
@@ -159,10 +163,23 @@ const ShortTimelineChart: React.FC<ShortTimelineChartProps> = ({ data }) => {
       },
       legend: {
         display: true,
-        position: 'top' as const,
+        position: isMobile ? 'bottom' as const : 'top' as const,
+        align: 'center' as const,
         labels: {
           usePointStyle: true,
-          padding: 15
+          padding: isMobile ? 8 : 15,
+          boxWidth: isMobile ? 15 : 20,
+          font: {
+            size: isMobile ? 11 : 12
+          },
+          // Filter out individual poll datasets on mobile
+          filter: function(legendItem: any, chartData: any) {
+            if (isMobile) {
+              // Only show averages and June baselines on mobile, hide individual polls
+              return legendItem.text.includes('Avg') || legendItem.text.includes('June');
+            }
+            return true;
+          }
         }
       },
       tooltip: {

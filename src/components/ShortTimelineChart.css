@@ -28,11 +28,39 @@
 
 @media (max-width: 768px) {
   .short-timeline-chart {
-    margin: 1rem 0;
-    padding: 1rem;
+    margin: 0.5rem 0;
+    padding: 0.75rem;
   }
   
   .short-timeline-chart .chart-container {
-    height: 400px;
+    height: 350px;
+    margin-bottom: 1rem; /* Extra space for bottom legend */
+  }
+  
+  .short-timeline-chart .chart-info {
+    padding: 0.75rem;
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .short-timeline-chart {
+    margin: 0.25rem 0;
+    padding: 0.5rem;
+  }
+  
+  .short-timeline-chart .chart-container {
+    height: 300px;
+    margin-bottom: 1.5rem; /* More space for legend on small screens */
+  }
+  
+  .short-timeline-chart .chart-info {
+    padding: 0.5rem;
+    font-size: 0.8rem;
+  }
+  
+  .short-timeline-chart .chart-info p {
+    font-size: 0.8rem;
+    line-height: 1.3;
   }
 }

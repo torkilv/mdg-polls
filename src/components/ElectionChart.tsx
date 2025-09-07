@@ -17,6 +17,7 @@ import 'chartjs-adapter-date-fns';
 import { Chart } from 'react-chartjs-2';
 import { Election } from '../types';
 import { calculateRollingAverage } from '../utils/rollingAverage';
+import { useIsMobile } from '../hooks/useIsMobile';
 import './ElectionChart.css';
 
 ChartJS.register(
@@ -38,6 +39,8 @@ interface ElectionChartProps {
 }
 
 const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionData }) => {
+  const isMobile = useIsMobile();
+
   // Sort polls by date
   const sortedPolls = [...electionData.polls].sort((a, b) => 
     new Date(a.date).getTime() - new Date(b.date).getTime()
@@ -60,11 +63,12 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
       })),
       backgroundColor: '#22c55e',
       borderColor: '#22c55e',
-      pointRadius: 5,
-      pointHoverRadius: 7,
+      pointRadius: isMobile ? 0 : 5, // Hide points on mobile
+      pointHoverRadius: isMobile ? 0 : 7,
       showLine: false,
       type: 'scatter' as const,
-      order: 2
+      order: 2,
+      hidden: isMobile // Hide individual polls on mobile
     }
   ];
 
@@ -106,12 +110,23 @@ const ElectionChart: React.FC<ElectionChartProps> = ({ electionYear, electionDat
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        position: 'top' as const,
+        position: isMobile ? 'bottom' as const : 'top' as const,
+        align: 'center' as const,
         labels: {
           font: {
-            size: 14,
+            size: isMobile ? 10 : 14,
             weight: 'bold' as const,
           },
+          padding: isMobile ? 8 : 20,
+          boxWidth: isMobile ? 15 : 20,
+          // Filter out individual poll datasets on mobile
+          filter: function(legendItem: any, chartData: any) {
+            if (isMobile) {
+              // Only show averages on mobile, hide individual polls
+              return legendItem.text.includes('Average');
+            }
+            return true;
+          }
         },
       },
       title: {

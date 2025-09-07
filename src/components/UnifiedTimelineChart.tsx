@@ -15,6 +15,7 @@ import {
 import { Chart } from 'react-chartjs-2';
 import { ElectionData } from '../types';
 import { calculateRollingAverage } from '../utils/rollingAverage';
+import { useIsMobile } from '../hooks/useIsMobile';
 import './UnifiedTimelineChart.css';
 
 ChartJS.register(
@@ -34,6 +35,8 @@ interface UnifiedTimelineChartProps {
 }
 
 const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionData }) => {
+  const isMobile = useIsMobile();
+  
   // Color palette for different election years
   const colorPalette: { [key: string]: string } = {
     '2011': '#ef4444', // Red
@@ -67,11 +70,12 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
         })),
         backgroundColor: color,
         borderColor: color,
-        pointRadius: 4,
-        pointHoverRadius: 6,
+        pointRadius: isMobile ? 0 : 4, // Hide points on mobile
+        pointHoverRadius: isMobile ? 0 : 6,
         showLine: false,
         type: 'scatter' as const,
-        order: 2
+        order: 2,
+        hidden: isMobile // Hide individual polls on mobile
       });
       
       // Add rolling average line
@@ -115,14 +119,25 @@ const UnifiedTimelineChart: React.FC<UnifiedTimelineChartProps> = ({ electionDat
     maintainAspectRatio: false,
     plugins: {
       legend: {
-        position: 'top' as const,
+        position: isMobile ? 'bottom' as const : 'top' as const,
+        align: 'center' as const,
         labels: {
           font: {
-            size: 14,
+            size: isMobile ? 10 : 14,
             weight: 'bold' as const,
           },
           usePointStyle: true,
           pointStyle: 'circle',
+          padding: isMobile ? 8 : 20,
+          boxWidth: isMobile ? 15 : 20,
+          // Filter out individual poll datasets on mobile
+          filter: function(legendItem: any, chartData: any) {
+            if (isMobile) {
+              // Only show averages on mobile, hide individual polls
+              return legendItem.text.includes('Average');
+            }
+            return true;
+          }
         },
       },
               title: {
