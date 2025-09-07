@@ -329,7 +329,6 @@ class RealApiDonationFetcher {
         const data = await fs.readFile(this.dataPath, 'utf8');
         donationData = JSON.parse(data);
       } catch (error) {
-        
         console.log('No existing data found, fetching new data...');
         donationData = await this.fetchRealDonationData();
       }
