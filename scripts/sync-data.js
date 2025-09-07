@@ -68,6 +68,20 @@ try {
     console.log(`📄 Updated: ${donationStatsPublic}`);
     console.log(`📄 Updated: ${donationStatsSrc}`);
   }
+
+  // Also sync detailed donor type analysis if it exists
+  const donorTypeAnalysisSource = path.join(__dirname, '..', 'data', 'donor-type-analysis.json');
+  if (fs.existsSync(donorTypeAnalysisSource)) {
+    const donorTypePublic = path.join(__dirname, '..', 'public', 'data', 'donor-type-analysis.json');
+    const donorTypeSrc = path.join(__dirname, '..', 'src', 'data', 'donor-type-analysis.json');
+    
+    const donorTypeData = fs.readFileSync(donorTypeAnalysisSource, 'utf8');
+    fs.writeFileSync(donorTypePublic, donorTypeData);
+    fs.writeFileSync(donorTypeSrc, donorTypeData);
+    
+    console.log(`📄 Updated: ${donorTypePublic}`);
+    console.log(`📄 Updated: ${donorTypeSrc}`);
+  }
   
   console.log('\n✅ Data sync complete!');
   console.log(`📄 Updated: ${publicFile}`);

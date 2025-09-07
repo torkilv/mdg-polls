@@ -4,7 +4,7 @@ import ElectionChart from './components/ElectionChart';
 import UnifiedTimelineChart from './components/UnifiedTimelineChart';
 import ShortTimelineChart from './components/ShortTimelineChart';
 import Corrected2025Chart from './components/Corrected2025Chart';
-import DonationAnalysis from './components/DonationAnalysis';
+import DetailedDonationAnalysis from './components/DetailedDonationAnalysis';
 import { ElectionData } from './types';
 import fallbackData from './data/polling-data.json';
 
@@ -100,7 +100,7 @@ function App() {
         {/* Donation Analysis */}
         <div className="unified-section">
           <h2>Party Donations</h2>
-          <DonationAnalysis />
+          <DetailedDonationAnalysis />
         </div>
 
         {/* Bias-Corrected 2025 Chart */}

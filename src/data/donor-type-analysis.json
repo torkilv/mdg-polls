@@ -1,0 +1,1273 @@
+{
+  "year": 2025,
+  "lastUpdated": "2025-09-07T18:11:20.246Z",
+  "source": "partifinansiering.no (detailed donor type analysis)",
+  "parties": {
+    "Arbeiderpartiet": {
+      "name": "Arbeiderpartiet",
+      "totalDonations": 96,
+      "totalAmount": 46019857,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 33,
+          "amount": 38157401,
+          "percentage": 34,
+          "amountPercentage": 83,
+          "topDonors": [
+            {
+              "name": "Landsorganisasjonen i Norge",
+              "amount": 21280037
+            },
+            {
+              "name": "Fagforbundet",
+              "amount": 7000000
+            },
+            {
+              "name": "Fellesforbundet",
+              "amount": 2200000
+            }
+          ]
+        },
+        "companies": {
+          "count": 4,
+          "amount": 1065036,
+          "percentage": 4,
+          "amountPercentage": 2,
+          "topDonors": [
+            {
+              "name": "Gullak Holding AS",
+              "amount": 1000000
+            },
+            {
+              "name": "Triko AS",
+              "amount": 30000
+            },
+            {
+              "name": "STIFTELSEN SAMFUNNET ASKIM",
+              "amount": 25000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 50,
+          "amount": 2822754,
+          "percentage": 52,
+          "amountPercentage": 6,
+          "topDonors": [
+            {
+              "name": "Trond Mohn",
+              "amount": 1000000
+            },
+            {
+              "name": "Oslo Arbeidersamfunn",
+              "amount": 560890
+            },
+            {
+              "name": "Korsvoll Arbeiderpartilag",
+              "amount": 320000
+            }
+          ]
+        },
+        "organizations": {
+          "count": 4,
+          "amount": 3770747,
+          "percentage": 4,
+          "amountPercentage": 8,
+          "topDonors": [
+            {
+              "name": "Landsrådet for Norges Barne- og Ungdomsorganisasjoner",
+              "amount": 2680200
+            },
+            {
+              "name": "Rogaland Arbeiderparti Fylkestingsgruppe",
+              "amount": 800000
+            },
+            {
+              "name": "Stavanger Arbeiderparti - Bystyregruppen",
+              "amount": 250000
+            }
+          ]
+        },
+        "other": {
+          "count": 5,
+          "amount": 203919,
+          "percentage": 5,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "Handel og Kontor i Norge",
+              "amount": 83345
+            },
+            {
+              "name": "LO stat Troms og Finnmark",
+              "amount": 58271
+            },
+            {
+              "name": "Komunestyregruppa",
+              "amount": 35449
+            }
+          ]
+        }
+      }
+    },
+    "Fremskrittspartiet": {
+      "name": "Fremskrittspartiet",
+      "totalDonations": 53,
+      "totalAmount": 24568274,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 1,
+          "amount": 36764,
+          "percentage": 2,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "Forbundet styrke",
+              "amount": 36764
+            }
+          ]
+        },
+        "companies": {
+          "count": 39,
+          "amount": 11010855,
+          "percentage": 74,
+          "amountPercentage": 45,
+          "topDonors": [
+            {
+              "name": "WATRIUM AS",
+              "amount": 2000000
+            },
+            {
+              "name": "Sundt AS",
+              "amount": 1200000
+            },
+            {
+              "name": "Eiendomsspar AS",
+              "amount": 1000000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 6,
+          "amount": 1894366,
+          "percentage": 11,
+          "amountPercentage": 8,
+          "topDonors": [
+            {
+              "name": "Herbjørn Hansson",
+              "amount": 1000000
+            },
+            {
+              "name": "Leif Ovesøn Høegh",
+              "amount": 500000
+            },
+            {
+              "name": "Ugland Marine Services",
+              "amount": 300000
+            }
+          ]
+        },
+        "organizations": {
+          "count": 5,
+          "amount": 11552852,
+          "percentage": 9,
+          "amountPercentage": 47,
+          "topDonors": [
+            {
+              "name": "Aksjon for Borgerlig Valgseier",
+              "amount": 10000000
+            },
+            {
+              "name": "LANDSRÅDET FOR NORGES BARNE- OG UNGDOMSORGANISASJONER",
+              "amount": 687852
+            },
+            {
+              "name": "Rogaland FrP fylkestingsgruppen",
+              "amount": 600000
+            }
+          ]
+        },
+        "other": {
+          "count": 2,
+          "amount": 73437,
+          "percentage": 4,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "Christoffer André Jørgensvåg",
+              "amount": 50000
+            },
+            {
+              "name": "Sanofi-aventis",
+              "amount": 23437
+            }
+          ]
+        }
+      }
+    },
+    "Sosialistisk Venstreparti": {
+      "name": "Sosialistisk Venstreparti",
+      "totalDonations": 88,
+      "totalAmount": 14489437,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 16,
+          "amount": 10646614,
+          "percentage": 18,
+          "amountPercentage": 73,
+          "topDonors": [
+            {
+              "name": "Landsorganisasjonen i Norge",
+              "amount": 6000000
+            },
+            {
+              "name": "Fagforbundet",
+              "amount": 3250000
+            },
+            {
+              "name": "Fellesforbundet",
+              "amount": 300000
+            }
+          ]
+        },
+        "companies": {
+          "count": 5,
+          "amount": 276129,
+          "percentage": 6,
+          "amountPercentage": 2,
+          "topDonors": [
+            {
+              "name": "Copyleft Solutions AS",
+              "amount": 144094
+            },
+            {
+              "name": "Marian Abdi Hussein",
+              "amount": 78431
+            },
+            {
+              "name": "Sanofi Aventis Norge AS",
+              "amount": 20072
+            }
+          ]
+        },
+        "individuals": {
+          "count": 58,
+          "amount": 2651736,
+          "percentage": 66,
+          "amountPercentage": 18,
+          "topDonors": [
+            {
+              "name": "FYLKESTINGSGRUPPA ØSTFOLD SV",
+              "amount": 180000
+            },
+            {
+              "name": "Fylkestingsgruppa Vestfold SV",
+              "amount": 153000
+            },
+            {
+              "name": "Balder Alvær Olafsen",
+              "amount": 81010
+            }
+          ]
+        },
+        "organizations": {
+          "count": 2,
+          "amount": 623098,
+          "percentage": 2,
+          "amountPercentage": 4,
+          "topDonors": [
+            {
+              "name": "Landsrådet for Norges Barne- og Ungdomsorganisasjoner",
+              "amount": 585038
+            },
+            {
+              "name": "Tankesmien Agenda",
+              "amount": 38060
+            }
+          ]
+        },
+        "other": {
+          "count": 7,
+          "amount": 291860,
+          "percentage": 8,
+          "amountPercentage": 2,
+          "topDonors": [
+            {
+              "name": "Bystyregruppa til SV i Haugesund bystyre",
+              "amount": 93684
+            },
+            {
+              "name": "Freddy André Øvstegård",
+              "amount": 78431
+            },
+            {
+              "name": "Mikkel Grüner",
+              "amount": 42880
+            }
+          ]
+        }
+      }
+    },
+    "Senterpartiet": {
+      "name": "Senterpartiet",
+      "totalDonations": 86,
+      "totalAmount": 8085712,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 67,
+          "amount": 6173484,
+          "percentage": 78,
+          "amountPercentage": 76,
+          "topDonors": [
+            {
+              "name": "Fagforbundet",
+              "amount": 2900000
+            },
+            {
+              "name": "Landsorganisasjonen i Norge",
+              "amount": 1500000
+            },
+            {
+              "name": "Fellesforbundet",
+              "amount": 250000
+            }
+          ]
+        },
+        "companies": {
+          "count": 5,
+          "amount": 214893,
+          "percentage": 6,
+          "amountPercentage": 3,
+          "topDonors": [
+            {
+              "name": "Jenssen Mobility AS",
+              "amount": 125440
+            },
+            {
+              "name": "Tankesmien Agenda AS",
+              "amount": 41993
+            },
+            {
+              "name": "Sanofi Aventis Norge AS",
+              "amount": 20072
+            }
+          ]
+        },
+        "individuals": {
+          "count": 7,
+          "amount": 1063400,
+          "percentage": 8,
+          "amountPercentage": 13,
+          "topDonors": [
+            {
+              "name": "Fylkestingsgruppa i Vestland Senterparti",
+              "amount": 912000
+            },
+            {
+              "name": "Bjørg Sandkjær",
+              "amount": 59945
+            },
+            {
+              "name": "Ås kommune",
+              "amount": 31155
+            }
+          ]
+        },
+        "organizations": {
+          "count": 3,
+          "amount": 569574,
+          "percentage": 3,
+          "amountPercentage": 7,
+          "topDonors": [
+            {
+              "name": "Landsrådet for Norges Barne- og ungdomsorganisasjoner",
+              "amount": 359474
+            },
+            {
+              "name": "Møre og Romsdal Fylkestingsgruppe",
+              "amount": 200000
+            },
+            {
+              "name": "Møre og Romsdal Fylkestingsgruppe",
+              "amount": 10100
+            }
+          ]
+        },
+        "other": {
+          "count": 4,
+          "amount": 64361,
+          "percentage": 5,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "Styrke",
+              "amount": 19917
+            },
+            {
+              "name": "Senterpartiet",
+              "amount": 17640
+            },
+            {
+              "name": "LO i Ringerike og Hallingdal ",
+              "amount": 15000
+            }
+          ]
+        }
+      }
+    },
+    "Venstre": {
+      "name": "Venstre",
+      "totalDonations": 103,
+      "totalAmount": 16918668,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 13,
+          "amount": 264998,
+          "percentage": 13,
+          "amountPercentage": 2,
+          "topDonors": [
+            {
+              "name": "Venstres Studieforbund",
+              "amount": 45225
+            },
+            {
+              "name": "Venstres Studieforbund",
+              "amount": 35950
+            },
+            {
+              "name": "Voksenopplæringsforbundet",
+              "amount": 24852
+            }
+          ]
+        },
+        "companies": {
+          "count": 45,
+          "amount": 10057322,
+          "percentage": 44,
+          "amountPercentage": 59,
+          "topDonors": [
+            {
+              "name": "SAFEDRIVE AS",
+              "amount": 1500000
+            },
+            {
+              "name": "DAIMYO AS",
+              "amount": 1200000
+            },
+            {
+              "name": "EIENDOMSSPAR AS",
+              "amount": 1000000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 40,
+          "amount": 5098203,
+          "percentage": 39,
+          "amountPercentage": 30,
+          "topDonors": [
+            {
+              "name": "AS Holding",
+              "amount": 2000000
+            },
+            {
+              "name": "Jens Dag Ulltveit-Moe",
+              "amount": 1000000
+            },
+            {
+              "name": "Norad - ",
+              "amount": 444128
+            }
+          ]
+        },
+        "organizations": {
+          "count": 4,
+          "amount": 1378095,
+          "percentage": 4,
+          "amountPercentage": 8,
+          "topDonors": [
+            {
+              "name": "Landsrådet for Norges barne- og ungdomsorganisasjoner (LNU)",
+              "amount": 880095
+            },
+            {
+              "name": "Kommunestyregruppen Stavanger Venstre",
+              "amount": 300000
+            },
+            {
+              "name": "AGDER VENSTRE FYLKESTINGSGRUPPE",
+              "amount": 148000
+            }
+          ]
+        },
+        "other": {
+          "count": 1,
+          "amount": 120050,
+          "percentage": 1,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "Venstre ",
+              "amount": 120050
+            }
+          ]
+        }
+      }
+    },
+    "Høyre": {
+      "name": "Høyre",
+      "totalDonations": 98,
+      "totalAmount": 21605187,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 1,
+          "amount": 14844,
+          "percentage": 1,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "Norges rederiforbund",
+              "amount": 14844
+            }
+          ]
+        },
+        "companies": {
+          "count": 73,
+          "amount": 16250705,
+          "percentage": 74,
+          "amountPercentage": 75,
+          "topDonors": [
+            {
+              "name": "Sundt AS",
+              "amount": 1200000
+            },
+            {
+              "name": "Ugland Marine Services AS",
+              "amount": 1000000
+            },
+            {
+              "name": "Watrium AS",
+              "amount": 1000000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 17,
+          "amount": 1704088,
+          "percentage": 17,
+          "amountPercentage": 8,
+          "topDonors": [
+            {
+              "name": "Leif Ovesøn Høegh",
+              "amount": 500000
+            },
+            {
+              "name": "AS Audley",
+              "amount": 500000
+            },
+            {
+              "name": "Løvenskiold-Vækerø Carl Otto Løvenskiold",
+              "amount": 200000
+            }
+          ]
+        },
+        "organizations": {
+          "count": 5,
+          "amount": 3413675,
+          "percentage": 5,
+          "amountPercentage": 16,
+          "topDonors": [
+            {
+              "name": "Landsrådet for Norges Barne- og ungdomsorganisasjoner",
+              "amount": 1523565
+            },
+            {
+              "name": "Rogaland Høyres Fylkestingsgruppe",
+              "amount": 1250000
+            },
+            {
+              "name": "Stavanger Høyres bystyregruppe",
+              "amount": 350000
+            }
+          ]
+        },
+        "other": {
+          "count": 2,
+          "amount": 221875,
+          "percentage": 2,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "Sonja og Emil Auberts Legat",
+              "amount": 200000
+            },
+            {
+              "name": "AS Torggata 42",
+              "amount": 21875
+            }
+          ]
+        }
+      }
+    },
+    "Rødt": {
+      "name": "Rødt",
+      "totalDonations": 86,
+      "totalAmount": 5447652,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 5,
+          "amount": 1846522,
+          "percentage": 6,
+          "amountPercentage": 34,
+          "topDonors": [
+            {
+              "name": "Landsorganisasjonen i Norge",
+              "amount": 1500000
+            },
+            {
+              "name": "Fellesforbundet",
+              "amount": 250000
+            },
+            {
+              "name": "Norsk Jernbaneforbund",
+              "amount": 40000
+            }
+          ]
+        },
+        "companies": {
+          "count": 2,
+          "amount": 40410,
+          "percentage": 2,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "NICHA AS",
+              "amount": 25000
+            },
+            {
+              "name": "Norsk Hydro ASA",
+              "amount": 15410
+            }
+          ]
+        },
+        "individuals": {
+          "count": 74,
+          "amount": 2763368,
+          "percentage": 86,
+          "amountPercentage": 51,
+          "topDonors": [
+            {
+              "name": "Mimir Kristjansson",
+              "amount": 200652
+            },
+            {
+              "name": "Hege Bae Nyholt",
+              "amount": 151776
+            },
+            {
+              "name": "Sofie Marhaug",
+              "amount": 130630
+            }
+          ]
+        },
+        "organizations": {
+          "count": 1,
+          "amount": 40547,
+          "percentage": 1,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "Tankesmien Agenda",
+              "amount": 40547
+            }
+          ]
+        },
+        "other": {
+          "count": 4,
+          "amount": 756805,
+          "percentage": 5,
+          "amountPercentage": 14,
+          "topDonors": [
+            {
+              "name": "LNU",
+              "amount": 424575
+            },
+            {
+              "name": "Hans Petter Thorongil Strøm de Fine",
+              "amount": 200000
+            },
+            {
+              "name": "Hans Petter Thorongil Strøm de Fine",
+              "amount": 82230
+            }
+          ]
+        }
+      }
+    },
+    "Miljøpartiet De Grønne": {
+      "name": "Miljøpartiet De Grønne",
+      "totalDonations": 187,
+      "totalAmount": 9047331,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 13,
+          "amount": 339813,
+          "percentage": 7,
+          "amountPercentage": 4,
+          "topDonors": [
+            {
+              "name": "Capitalism Holding As",
+              "amount": 54078
+            },
+            {
+              "name": "TANKESMIEN AGENDA AS",
+              "amount": 40547
+            },
+            {
+              "name": "Njordur AS",
+              "amount": 40000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 164,
+          "amount": 6702589,
+          "percentage": 88,
+          "amountPercentage": 74,
+          "topDonors": [
+            {
+              "name": "Ole-Morten Duesund",
+              "amount": 1003235
+            },
+            {
+              "name": "Børge Andre Roum",
+              "amount": 500000
+            },
+            {
+              "name": "Stefan Robert Norris",
+              "amount": 399270
+            }
+          ]
+        },
+        "organizations": {
+          "count": 5,
+          "amount": 1923350,
+          "percentage": 3,
+          "amountPercentage": 21,
+          "topDonors": [
+            {
+              "name": "MDG Vestlands fylkestingsgruppe",
+              "amount": 1099196
+            },
+            {
+              "name": "LANDSRÅDET FOR NORGES BARNE- OG UNGDOMSORGANISASJONER",
+              "amount": 658665
+            },
+            {
+              "name": "MDG Agders fylkestingsgruppe",
+              "amount": 87000
+            }
+          ]
+        },
+        "other": {
+          "count": 5,
+          "amount": 81579,
+          "percentage": 3,
+          "amountPercentage": 1,
+          "topDonors": [
+            {
+              "name": "SØRLANDETS GESTALTTERAPI GESTALTTERAPEUT ANETTE SELAND",
+              "amount": 29634
+            },
+            {
+              "name": "UNDP- United Nations Development Programme ",
+              "amount": 18351
+            },
+            {
+              "name": "Hege Müller Hval",
+              "amount": 12000
+            }
+          ]
+        }
+      }
+    },
+    "Kristelig Folkeparti": {
+      "name": "Kristelig Folkeparti",
+      "totalDonations": 77,
+      "totalAmount": 11445090,
+      "donorTypeBreakdown": {
+        "unions": {
+          "count": 2,
+          "amount": 41570,
+          "percentage": 3,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "Forbundet Styrke ",
+              "amount": 26726
+            },
+            {
+              "name": "Norges Rederiforbund",
+              "amount": 14844
+            }
+          ]
+        },
+        "companies": {
+          "count": 42,
+          "amount": 7020653,
+          "percentage": 55,
+          "amountPercentage": 61,
+          "topDonors": [
+            {
+              "name": "CANICA AS",
+              "amount": 1000000
+            },
+            {
+              "name": "Verso AS",
+              "amount": 750000
+            },
+            {
+              "name": "Safedrive AS",
+              "amount": 700000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 19,
+          "amount": 1824480,
+          "percentage": 25,
+          "amountPercentage": 16,
+          "topDonors": [
+            {
+              "name": "Hanne K Lærdal",
+              "amount": 250000
+            },
+            {
+              "name": "Ingrid Lærdal",
+              "amount": 250000
+            },
+            {
+              "name": "Tore Lærdal",
+              "amount": 250000
+            }
+          ]
+        },
+        "organizations": {
+          "count": 13,
+          "amount": 2538387,
+          "percentage": 17,
+          "amountPercentage": 22,
+          "topDonors": [
+            {
+              "name": "Rogaland KrFs fylkestingsgruppe",
+              "amount": 790748
+            },
+            {
+              "name": "Fylkestingsgruppen Agder KrF",
+              "amount": 449362
+            },
+            {
+              "name": "Telemark KrFs Fylkestingsgruppe",
+              "amount": 302506
+            }
+          ]
+        },
+        "other": {
+          "count": 1,
+          "amount": 20000,
+          "percentage": 1,
+          "amountPercentage": 0,
+          "topDonors": [
+            {
+              "name": "A/S Jaka",
+              "amount": 20000
+            }
+          ]
+        }
+      }
+    },
+    "Fred og rettferdighet (FOR)": {
+      "name": "Fred og rettferdighet (FOR)",
+      "totalDonations": 6,
+      "totalAmount": 1564107,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 1,
+          "amount": 1000000,
+          "percentage": 17,
+          "amountPercentage": 64,
+          "topDonors": [
+            {
+              "name": "Bergshagen Invest AS",
+              "amount": 1000000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 5,
+          "amount": 564107,
+          "percentage": 83,
+          "amountPercentage": 36,
+          "topDonors": [
+            {
+              "name": "Helge Bengtsson ",
+              "amount": 300000
+            },
+            {
+              "name": "Paul Olav Austad",
+              "amount": 100000
+            },
+            {
+              "name": "Knut Egil Antonsen",
+              "amount": 90000
+            }
+          ]
+        }
+      }
+    },
+    "Ensomhetspartiet": {
+      "name": "Ensomhetspartiet",
+      "totalDonations": 1,
+      "totalAmount": 658310,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 658310,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Else Kåss Furuseth",
+              "amount": 658310
+            }
+          ]
+        }
+      }
+    },
+    "FOR Rogaland - partiet for Fred og Rettferdighet": {
+      "name": "FOR Rogaland - partiet for Fred og Rettferdighet",
+      "totalDonations": 1,
+      "totalAmount": 600000,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 1,
+          "amount": 600000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Bergshagen Invest AS",
+              "amount": 600000
+            }
+          ]
+        }
+      }
+    },
+    "Telemark INP": {
+      "name": "Telemark INP",
+      "totalDonations": 1,
+      "totalAmount": 415050,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 415050,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Telemark INP",
+              "amount": 415050
+            }
+          ]
+        }
+      }
+    },
+    "Rogaland INP": {
+      "name": "Rogaland INP",
+      "totalDonations": 1,
+      "totalAmount": 300607,
+      "donorTypeBreakdown": {
+        "organizations": {
+          "count": 1,
+          "amount": 300607,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Rogaland Fylkestingsgruppe",
+              "amount": 300607
+            }
+          ]
+        }
+      }
+    },
+    "Generasjonspartiet": {
+      "name": "Generasjonspartiet",
+      "totalDonations": 3,
+      "totalAmount": 507945,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 2,
+          "amount": 370000,
+          "percentage": 67,
+          "amountPercentage": 73,
+          "topDonors": [
+            {
+              "name": "Done.ai Norway AS",
+              "amount": 300000
+            },
+            {
+              "name": "Molde Sjøtransport AS",
+              "amount": 70000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 1,
+          "amount": 137945,
+          "percentage": 33,
+          "amountPercentage": 27,
+          "topDonors": [
+            {
+              "name": "Per Tarjei Åsvold",
+              "amount": 137945
+            }
+          ]
+        }
+      }
+    },
+    "Partiet DNI": {
+      "name": "Partiet DNI",
+      "totalDonations": 2,
+      "totalAmount": 111000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 2,
+          "amount": 111000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Eivind Godtfred Sandvik",
+              "amount": 100000
+            },
+            {
+              "name": "Morten Aarø",
+              "amount": 11000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt Bergen": {
+      "name": "Konservativt Bergen",
+      "totalDonations": 1,
+      "totalAmount": 100000,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 1,
+          "amount": 100000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Ten Commandments AS",
+              "amount": 100000
+            }
+          ]
+        }
+      }
+    },
+    "Norges Kommunistiske Parti": {
+      "name": "Norges Kommunistiske Parti",
+      "totalDonations": 2,
+      "totalAmount": 115000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 2,
+          "amount": 115000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Hans Lilledahl",
+              "amount": 100000
+            },
+            {
+              "name": "John Gustav Johansen",
+              "amount": 15000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt Karmøy": {
+      "name": "Konservativt Karmøy",
+      "totalDonations": 1,
+      "totalAmount": 50000,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 1,
+          "amount": 50000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Veas Konditori AS",
+              "amount": 50000
+            }
+          ]
+        }
+      }
+    },
+    "Norgesdemokratene": {
+      "name": "Norgesdemokratene",
+      "totalDonations": 3,
+      "totalAmount": 150000,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 2,
+          "amount": 100000,
+          "percentage": 67,
+          "amountPercentage": 67,
+          "topDonors": [
+            {
+              "name": "B J Holding AS",
+              "amount": 50000
+            },
+            {
+              "name": "Nika Eiendom AS",
+              "amount": 50000
+            }
+          ]
+        },
+        "individuals": {
+          "count": 1,
+          "amount": 50000,
+          "percentage": 33,
+          "amountPercentage": 33,
+          "topDonors": [
+            {
+              "name": "Farzad Bachakurd",
+              "amount": 50000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt Lindesnes": {
+      "name": "Konservativt Lindesnes",
+      "totalDonations": 1,
+      "totalAmount": 40000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 40000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Oddbjørn Håland",
+              "amount": 40000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt Troms": {
+      "name": "Konservativt Troms",
+      "totalDonations": 1,
+      "totalAmount": 30000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 30000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Aud Oddrun Grønning",
+              "amount": 30000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt Rogaland": {
+      "name": "Konservativt Rogaland",
+      "totalDonations": 1,
+      "totalAmount": 20000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 20000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Kristoffer Sundhordvik",
+              "amount": 20000
+            }
+          ]
+        }
+      }
+    },
+    "Konservativt": {
+      "name": "Konservativt",
+      "totalDonations": 1,
+      "totalAmount": 19900,
+      "donorTypeBreakdown": {
+        "companies": {
+          "count": 1,
+          "amount": 19900,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Geir Svendsen Entreprenør AS",
+              "amount": 19900
+            }
+          ]
+        }
+      }
+    },
+    "Bjørnafjorden INP": {
+      "name": "Bjørnafjorden INP",
+      "totalDonations": 1,
+      "totalAmount": 15477,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 15477,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Bjørnafjorden INP kommune lag",
+              "amount": 15477
+            }
+          ]
+        }
+      }
+    },
+    "DNI Akershus ": {
+      "name": "DNI Akershus ",
+      "totalDonations": 1,
+      "totalAmount": 15000,
+      "donorTypeBreakdown": {
+        "individuals": {
+          "count": 1,
+          "amount": 15000,
+          "percentage": 100,
+          "amountPercentage": 100,
+          "topDonors": [
+            {
+              "name": "Folkets Parti Akershus ",
+              "amount": 15000
+            }
+          ]
+        }
+      }
+    }
+  }
+}
