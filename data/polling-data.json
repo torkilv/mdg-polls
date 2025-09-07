@@ -13700,6 +13700,14 @@
           "daysUntilElection": 2,
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5586",
           "scope": "national"
+        },
+        {
+          "date": "2025-09-06",
+          "mdgPercentage": 4.4,
+          "pollster": "pollofpolls.no - InFact for Telemarksavisa 6. september 2025",
+          "daysUntilElection": 2,
+          "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5587",
+          "scope": "regional"
         }
       ]
     }
