@@ -13709,7 +13709,8 @@
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5587",
           "scope": "regional"
         }
-      ]
+      ],
+      "actualResult": 4.7
     }
   }
 }

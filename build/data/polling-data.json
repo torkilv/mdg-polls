@@ -6933,7 +6933,8 @@
           "url": "https://www.pollofpolls.no/?cmd=Maling&gallupid=5586",
           "scope": "national"
         }
-      ]
+      ],
+      "actualResult": 4.7
     }
   }
 }
